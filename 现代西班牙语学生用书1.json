@@ -1,0 +1,3887 @@
+{
+  "name": "现代西班牙语学生用书1",
+  "description": "现代西班牙语学生用书1",
+  "language": "es",
+  "words": [
+    {
+      "term": "cómo",
+      "pos": "adv.",
+      "meaning": "怎么"
+    },
+    {
+      "term": "llamarse",
+      "pos": "prnl.",
+      "meaning": "叫……名字"
+    },
+    {
+      "term": "te llamas",
+      "pos": "",
+      "meaning": "你叫"
+    },
+    {
+      "term": "Ana",
+      "pos": "",
+      "meaning": "安娜(女子名)"
+    },
+    {
+      "term": "hola",
+      "pos": "interj.",
+      "meaning": "你好"
+    },
+    {
+      "term": "bueno, na",
+      "pos": "adj.",
+      "meaning": "好"
+    },
+    {
+      "term": "día",
+      "pos": "m.",
+      "meaning": "天"
+    },
+    {
+      "term": "buenos días",
+      "pos": "",
+      "meaning": "早上好"
+    },
+    {
+      "term": "Paco",
+      "pos": "",
+      "meaning": "帕科(男子名)"
+    },
+    {
+      "term": "yo",
+      "pos": "pron.",
+      "meaning": "我"
+    },
+    {
+      "term": "ser",
+      "pos": "",
+      "meaning": "v.cop. 是"
+    },
+    {
+      "term": "soy",
+      "pos": "",
+      "meaning": "我是"
+    },
+    {
+      "term": "y",
+      "pos": "conj.",
+      "meaning": "和，与"
+    },
+    {
+      "term": "tú",
+      "pos": "pron.",
+      "meaning": "你"
+    },
+    {
+      "term": "me llamo",
+      "pos": "",
+      "meaning": "我叫"
+    },
+    {
+      "term": "ellos",
+      "pos": "pron.",
+      "meaning": "他们"
+    },
+    {
+      "term": "son",
+      "pos": "",
+      "meaning": "他(她)们是；你们(礼貌式)是"
+    },
+    {
+      "term": "mi",
+      "pos": "adj.",
+      "meaning": "我的"
+    },
+    {
+      "term": "amigo, ga",
+      "pos": "m.,f.",
+      "meaning": "朋友"
+    },
+    {
+      "term": "ella",
+      "pos": "pron.",
+      "meaning": "她，它"
+    },
+    {
+      "term": "se llama",
+      "pos": "",
+      "meaning": "他(她，您)叫"
+    },
+    {
+      "term": "Susana",
+      "pos": "",
+      "meaning": "苏珊娜(女子名)"
+    },
+    {
+      "term": "él",
+      "pos": "pron.",
+      "meaning": "他"
+    },
+    {
+      "term": "Tomás",
+      "pos": "",
+      "meaning": "托马斯(男子名)"
+    },
+    {
+      "term": "ustedes",
+      "pos": "pron.",
+      "meaning": "你们(礼貌式)"
+    },
+    {
+      "term": "español, la",
+      "pos": "m.,f.",
+      "meaning": "西班牙人"
+    },
+    {
+      "term": "cubano, na",
+      "pos": "m.,f.",
+      "meaning": "古巴人"
+    },
+    {
+      "term": "chileno, na",
+      "pos": "m.,f.",
+      "meaning": "智利人"
+    },
+    {
+      "term": "encantado, da",
+      "pos": "p.p.",
+      "meaning": "很高兴……"
+    },
+    {
+      "term": "de",
+      "pos": "prep.",
+      "meaning": "(表示所属、来源等关系)"
+    },
+    {
+      "term": "conocer",
+      "pos": "tr.",
+      "meaning": "认识，了解"
+    },
+    {
+      "term": "los, las",
+      "pos": "pron.",
+      "meaning": "你们(礼貌式)，诸位，他们，她们，它们(第三人称复数宾格代词)"
+    },
+    {
+      "term": "mucho gusto",
+      "pos": "",
+      "meaning": "很高兴(认识你，您，你们，诸位)"
+    },
+    {
+      "term": "es",
+      "pos": "",
+      "meaning": "您(他，她，它)是……"
+    },
+    {
+      "term": "usted",
+      "pos": "pron.",
+      "meaning": "您"
+    },
+    {
+      "term": "profesor, ra",
+      "pos": "m.,f.",
+      "meaning": "教师"
+    },
+    {
+      "term": "sí",
+      "pos": "adv.",
+      "meaning": "是的，对"
+    },
+    {
+      "term": "chino",
+      "pos": "m.",
+      "meaning": "汉语，中文"
+    },
+    {
+      "term": "ah",
+      "pos": "interj.",
+      "meaning": "啊"
+    },
+    {
+      "term": "nuestro, tra",
+      "pos": "adj.",
+      "meaning": "我们的"
+    },
+    {
+      "term": "entonces",
+      "pos": "adv.",
+      "meaning": "那么"
+    },
+    {
+      "term": "somos",
+      "pos": "",
+      "meaning": "我们是"
+    },
+    {
+      "term": "su",
+      "pos": "adj.",
+      "meaning": "您(诸位，他[们]，她[们])的"
+    },
+    {
+      "term": "alumno, na",
+      "pos": "m.,f.",
+      "meaning": "学生"
+    },
+    {
+      "term": "quién, es",
+      "pos": "pron.",
+      "meaning": "谁，哪几位"
+    },
+    {
+      "term": "el",
+      "pos": "art.",
+      "meaning": "(单数阳性定冠词)"
+    },
+    {
+      "term": "chico, ca",
+      "pos": "m.,f.",
+      "meaning": "小伙子；小姑娘"
+    },
+    {
+      "term": "mexicano, na",
+      "pos": "m.,f.",
+      "meaning": "墨西哥人"
+    },
+    {
+      "term": "chino, na",
+      "pos": "m.,f.",
+      "meaning": "中国人"
+    },
+    {
+      "term": "las",
+      "pos": "art.",
+      "meaning": "(复数阴性定冠词)"
+    },
+    {
+      "term": "dos",
+      "pos": "num.",
+      "meaning": "二，两个"
+    },
+    {
+      "term": "estudiante",
+      "pos": "m.,f.",
+      "meaning": "学生"
+    },
+    {
+      "term": "eres",
+      "pos": "",
+      "meaning": "你是"
+    },
+    {
+      "term": "esos, as",
+      "pos": "adj.",
+      "meaning": "那些"
+    },
+    {
+      "term": "joven",
+      "pos": "m.,f.",
+      "meaning": "青年人"
+    },
+    {
+      "term": "ellos, llas",
+      "pos": "pron.",
+      "meaning": "他们，她们，它们"
+    },
+    {
+      "term": "ese, sa",
+      "pos": "adj.",
+      "meaning": "那个"
+    },
+    {
+      "term": "Manolo",
+      "pos": "",
+      "meaning": "马诺罗(男子名)"
+    },
+    {
+      "term": "no",
+      "pos": "adv.",
+      "meaning": "不，不是"
+    },
+    {
+      "term": "panameño, ña",
+      "pos": "m.,f.",
+      "meaning": "巴拿马人"
+    },
+    {
+      "term": "Elena",
+      "pos": "",
+      "meaning": "艾蕾娜(女子名)"
+    },
+    {
+      "term": "novio, via",
+      "pos": "m.,f.",
+      "meaning": "情侣，朋友"
+    },
+    {
+      "term": "¡Qué va!",
+      "pos": "",
+      "meaning": "不是！哪里！"
+    },
+    {
+      "term": "solo",
+      "pos": "adv.",
+      "meaning": "只是"
+    },
+    {
+      "term": "estar",
+      "pos": "",
+      "meaning": "v.cop. 在，处于……状况"
+    },
+    {
+      "term": "Mario",
+      "pos": "",
+      "meaning": "马里奥(男子名)"
+    },
+    {
+      "term": "Carmen",
+      "pos": "",
+      "meaning": "卡门(女子名)"
+    },
+    {
+      "term": "Fernando",
+      "pos": "",
+      "meaning": "费尔南多(男子名)"
+    },
+    {
+      "term": "tres",
+      "pos": "num.",
+      "meaning": "三"
+    },
+    {
+      "term": "latinoamericano, na",
+      "pos": "adj.-s.",
+      "meaning": "拉丁美洲的；拉丁美洲人"
+    },
+    {
+      "term": "argentino, na",
+      "pos": "m.,f.",
+      "meaning": "阿根廷人"
+    },
+    {
+      "term": "Cuba",
+      "pos": "",
+      "meaning": "古巴"
+    },
+    {
+      "term": "los",
+      "pos": "art.",
+      "meaning": "(复数阳性定冠词)"
+    },
+    {
+      "term": "Carlos",
+      "pos": "",
+      "meaning": "卡洛斯(男子名)"
+    },
+    {
+      "term": "Ramírez",
+      "pos": "",
+      "meaning": "拉米雷斯(姓)"
+    },
+    {
+      "term": "tarde",
+      "pos": "f.",
+      "meaning": "下午"
+    },
+    {
+      "term": "bien",
+      "pos": "adv.",
+      "meaning": "好"
+    },
+    {
+      "term": "gracias",
+      "pos": "f.pl.",
+      "meaning": "谢谢"
+    },
+    {
+      "term": "le",
+      "pos": "pron.",
+      "meaning": "您、他(她，它)(第三人称单数与格代词)"
+    },
+    {
+      "term": "presentar",
+      "pos": "tr.",
+      "meaning": "介绍"
+    },
+    {
+      "term": "dónde",
+      "pos": "adv.",
+      "meaning": "(在)哪里"
+    },
+    {
+      "term": "también",
+      "pos": "adv.",
+      "meaning": "同样，也"
+    },
+    {
+      "term": "pero",
+      "pos": "conj.",
+      "meaning": "但是"
+    },
+    {
+      "term": "ahora",
+      "pos": "adv.",
+      "meaning": "现在"
+    },
+    {
+      "term": "China",
+      "pos": "",
+      "meaning": "中国"
+    },
+    {
+      "term": "enseñar",
+      "pos": "tr.",
+      "meaning": "教，授课"
+    },
+    {
+      "term": "lengua",
+      "pos": "f.",
+      "meaning": "语言"
+    },
+    {
+      "term": "en",
+      "pos": "prep.",
+      "meaning": "在……里(上)"
+    },
+    {
+      "term": "uno, na",
+      "pos": "art.",
+      "meaning": "一个"
+    },
+    {
+      "term": "universidad",
+      "pos": "f.",
+      "meaning": "大学"
+    },
+    {
+      "term": "este, ta",
+      "pos": "adj.",
+      "meaning": "这个"
+    },
+    {
+      "term": "país",
+      "pos": "m.",
+      "meaning": "国家"
+    },
+    {
+      "term": "hispanohablante",
+      "pos": "m.,f.",
+      "meaning": "以西班牙语为母语的人"
+    },
+    {
+      "term": "ocupado, da",
+      "pos": "adj.",
+      "meaning": "忙碌的"
+    },
+    {
+      "term": "contento, ta",
+      "pos": "adj.",
+      "meaning": "高兴的"
+    },
+    {
+      "term": "Víctor",
+      "pos": "",
+      "meaning": "维克多(男子名)"
+    },
+    {
+      "term": "Pablo",
+      "pos": "",
+      "meaning": "巴布罗(男子名)"
+    },
+    {
+      "term": "Pilar",
+      "pos": "",
+      "meaning": "比拉尔(女子名)"
+    },
+    {
+      "term": "cuatro",
+      "pos": "num.",
+      "meaning": "四"
+    },
+    {
+      "term": "Alemania",
+      "pos": "",
+      "meaning": "德国"
+    },
+    {
+      "term": "estudiar",
+      "pos": "tr.;intr.",
+      "meaning": "学习"
+    },
+    {
+      "term": "alemán",
+      "pos": "m.",
+      "meaning": "德语"
+    },
+    {
+      "term": "tener",
+      "pos": "tr.",
+      "meaning": "有"
+    },
+    {
+      "term": "mucho, cha",
+      "pos": "adj.",
+      "meaning": "很多的"
+    },
+    {
+      "term": "clase",
+      "pos": "f.",
+      "meaning": "(一节)课"
+    },
+    {
+      "term": "todo, da",
+      "pos": "adj.",
+      "meaning": "所有的"
+    },
+    {
+      "term": "siempre",
+      "pos": "adv.",
+      "meaning": "总是"
+    },
+    {
+      "term": "muy",
+      "pos": "adv.",
+      "meaning": "很"
+    },
+    {
+      "term": "me",
+      "pos": "pron.",
+      "meaning": "我(单数第一人称宾格和与格代词)"
+    },
+    {
+      "term": "preguntar",
+      "pos": "tr.",
+      "meaning": "提问"
+    },
+    {
+      "term": "pues",
+      "pos": "conj.",
+      "meaning": "嗯，是这样"
+    },
+    {
+      "term": "vario, ria",
+      "pos": "adj.",
+      "meaning": "几个"
+    },
+    {
+      "term": "hombre",
+      "pos": "m.",
+      "meaning": "男人"
+    },
+    {
+      "term": "mujer",
+      "pos": "f.",
+      "meaning": "女人"
+    },
+    {
+      "term": "cada",
+      "pos": "adj.",
+      "meaning": "每一个"
+    },
+    {
+      "term": "encargarse",
+      "pos": "prnl.",
+      "meaning": "担任，承担"
+    },
+    {
+      "term": "asignatura",
+      "pos": "f.",
+      "meaning": "课程"
+    },
+    {
+      "term": "lectura",
+      "pos": "f.",
+      "meaning": "阅读"
+    },
+    {
+      "term": "gramática",
+      "pos": "f.",
+      "meaning": "语法"
+    },
+    {
+      "term": "conversación",
+      "pos": "f.",
+      "meaning": "会话，谈话"
+    },
+    {
+      "term": "otro, tra",
+      "pos": "adj.",
+      "meaning": "其他的"
+    },
+    {
+      "term": "cosa",
+      "pos": "f.",
+      "meaning": "事情"
+    },
+    {
+      "term": "trabajar",
+      "pos": "tr.;intr.",
+      "meaning": "工作，劳动"
+    },
+    {
+      "term": "casa",
+      "pos": "f.",
+      "meaning": "家，房子"
+    },
+    {
+      "term": "Juan",
+      "pos": "",
+      "meaning": "胡安(男子名)"
+    },
+    {
+      "term": "habitación",
+      "pos": "f.",
+      "meaning": "房间"
+    },
+    {
+      "term": "Lima",
+      "pos": "",
+      "meaning": "利马"
+    },
+    {
+      "term": "Perú",
+      "pos": "",
+      "meaning": "秘鲁"
+    },
+    {
+      "term": "familia",
+      "pos": "f.",
+      "meaning": "家庭"
+    },
+    {
+      "term": "vivir",
+      "pos": "intr.",
+      "meaning": "住，生活"
+    },
+    {
+      "term": "padre",
+      "pos": "m.",
+      "meaning": "父亲"
+    },
+    {
+      "term": "médico, ca",
+      "pos": "m.,f.",
+      "meaning": "医生"
+    },
+    {
+      "term": "hospital",
+      "pos": "m.",
+      "meaning": "医院"
+    },
+    {
+      "term": "madre",
+      "pos": "f.",
+      "meaning": "母亲"
+    },
+    {
+      "term": "inglés",
+      "pos": "m.",
+      "meaning": "英语"
+    },
+    {
+      "term": "colegio",
+      "pos": "m.",
+      "meaning": "小学"
+    },
+    {
+      "term": "hermano, na",
+      "pos": "m.,f.",
+      "meaning": "兄弟；姊妹"
+    },
+    {
+      "term": "menor",
+      "pos": "adj.",
+      "meaning": "年纪较小的"
+    },
+    {
+      "term": "ir",
+      "pos": "intr.",
+      "meaning": "去"
+    },
+    {
+      "term": "abuelo, la",
+      "pos": "m.,f.",
+      "meaning": "祖父母；外祖父母"
+    },
+    {
+      "term": "ya",
+      "pos": "adv.",
+      "meaning": "已经；好了"
+    },
+    {
+      "term": "mayor",
+      "pos": "adj.",
+      "meaning": "年纪大的"
+    },
+    {
+      "term": "bachillerato",
+      "pos": "m.",
+      "meaning": "高中"
+    },
+    {
+      "term": "secundaria",
+      "pos": "f.",
+      "meaning": "中学"
+    },
+    {
+      "term": "levantarse",
+      "pos": "prnl.",
+      "meaning": "起床"
+    },
+    {
+      "term": "temprano",
+      "pos": "adv.",
+      "meaning": "早"
+    },
+    {
+      "term": "bañarse",
+      "pos": "prnl.",
+      "meaning": "泡澡"
+    },
+    {
+      "term": "cepillarse",
+      "pos": "prnl.",
+      "meaning": "刷洗"
+    },
+    {
+      "term": "diente",
+      "pos": "m.",
+      "meaning": "牙"
+    },
+    {
+      "term": "peinarse",
+      "pos": "prnl.",
+      "meaning": "梳头"
+    },
+    {
+      "term": "después de",
+      "pos": "loc.adv.",
+      "meaning": "在……之后"
+    },
+    {
+      "term": "desayunar",
+      "pos": "intr.",
+      "meaning": "吃早饭"
+    },
+    {
+      "term": "primero",
+      "pos": "adv.",
+      "meaning": "首先"
+    },
+    {
+      "term": "llevar",
+      "pos": "tr.",
+      "meaning": "送去，带去"
+    },
+    {
+      "term": "escuela",
+      "pos": "f.",
+      "meaning": "学校"
+    },
+    {
+      "term": "luego",
+      "pos": "adv.",
+      "meaning": "之后"
+    },
+    {
+      "term": "tomar",
+      "pos": "tr.",
+      "meaning": "拿；乘坐"
+    },
+    {
+      "term": "autobús",
+      "pos": "m.",
+      "meaning": "公共汽车"
+    },
+    {
+      "term": "para",
+      "pos": "prep.",
+      "meaning": "为了"
+    },
+    {
+      "term": "instituto",
+      "pos": "m.",
+      "meaning": "中学"
+    },
+    {
+      "term": "centro",
+      "pos": "m.",
+      "meaning": "中心"
+    },
+    {
+      "term": "estudio",
+      "pos": "m.",
+      "meaning": "学习，研究"
+    },
+    {
+      "term": "por la mañana",
+      "pos": "loc.adv.",
+      "meaning": "上午"
+    },
+    {
+      "term": "por eso",
+      "pos": "conj.",
+      "meaning": "因此"
+    },
+    {
+      "term": "regresar",
+      "pos": "intr.",
+      "meaning": "回，返回"
+    },
+    {
+      "term": "tarde",
+      "pos": "adv.",
+      "meaning": "晚"
+    },
+    {
+      "term": "cuánto, ta",
+      "pos": "adj.;pron.",
+      "meaning": "多少"
+    },
+    {
+      "term": "señor, ra",
+      "pos": "m.,f.",
+      "meaning": "先生；女士"
+    },
+    {
+      "term": "José",
+      "pos": "",
+      "meaning": "何塞(男子名)"
+    },
+    {
+      "term": "parecer",
+      "pos": "intr.",
+      "meaning": "好像"
+    },
+    {
+      "term": "grande",
+      "pos": "adj.",
+      "meaning": "大"
+    },
+    {
+      "term": "ciudad",
+      "pos": "f.",
+      "meaning": "城市"
+    },
+    {
+      "term": "bastante",
+      "pos": "adv.",
+      "meaning": "相当地"
+    },
+    {
+      "term": "allí",
+      "pos": "adv.",
+      "meaning": "那里"
+    },
+    {
+      "term": "con",
+      "pos": "prep.",
+      "meaning": "和，用"
+    },
+    {
+      "term": "verdad",
+      "pos": "f.",
+      "meaning": "真实"
+    },
+    {
+      "term": "siete",
+      "pos": "num.",
+      "meaning": "七"
+    },
+    {
+      "term": "suponer",
+      "pos": "tr.",
+      "meaning": "设想，猜测"
+    },
+    {
+      "term": "sala de estar",
+      "pos": "",
+      "meaning": "客厅"
+    },
+    {
+      "term": "dormitorio",
+      "pos": "m.",
+      "meaning": "卧室"
+    },
+    {
+      "term": "cocina",
+      "pos": "f.",
+      "meaning": "厨房"
+    },
+    {
+      "term": "cuarto de baño",
+      "pos": "m.",
+      "meaning": "卫生间"
+    },
+    {
+      "term": "todavía",
+      "pos": "adv.",
+      "meaning": "仍然，还"
+    },
+    {
+      "term": "qué",
+      "pos": "adj.",
+      "meaning": "多么"
+    },
+    {
+      "term": "tan",
+      "pos": "adv.",
+      "meaning": "如此地"
+    },
+    {
+      "term": "recargado, da",
+      "pos": "adj.",
+      "meaning": "繁重的"
+    },
+    {
+      "term": "tiempo",
+      "pos": "m.",
+      "meaning": "时间"
+    },
+    {
+      "term": "cinco",
+      "pos": "num.",
+      "meaning": "五"
+    },
+    {
+      "term": "hijo, ja",
+      "pos": "m.,f.",
+      "meaning": "儿子，女儿"
+    },
+    {
+      "term": "primo, ma",
+      "pos": "m.,f.",
+      "meaning": "(堂、表)兄弟姐妹"
+    },
+    {
+      "term": "seis",
+      "pos": "num.",
+      "meaning": "六"
+    },
+    {
+      "term": "sobrino, na",
+      "pos": "m.,f.",
+      "meaning": "外甥，侄子；外甥女，侄女"
+    },
+    {
+      "term": "tío, a",
+      "pos": "m.,f.",
+      "meaning": "伯、叔、舅；姑、姨、婶"
+    },
+    {
+      "term": "por qué",
+      "pos": "adv.",
+      "meaning": "为什么"
+    },
+    {
+      "term": "hablar",
+      "pos": "intr.",
+      "meaning": "谈论"
+    },
+    {
+      "term": "más",
+      "pos": "adv.",
+      "meaning": "更多地"
+    },
+    {
+      "term": "vida",
+      "pos": "f.",
+      "meaning": "生活"
+    },
+    {
+      "term": "Yolanda",
+      "pos": "",
+      "meaning": "约兰达(女子名)"
+    },
+    {
+      "term": "España",
+      "pos": "",
+      "meaning": "西班牙"
+    },
+    {
+      "term": "casualidad",
+      "pos": "f.",
+      "meaning": "偶然性"
+    },
+    {
+      "term": "alegría",
+      "pos": "f.",
+      "meaning": "欢乐，欣喜"
+    },
+    {
+      "term": "volver a + inf.",
+      "pos": "",
+      "meaning": "再一次，重新"
+    },
+    {
+      "term": "ver",
+      "pos": "tr.",
+      "meaning": "看见"
+    },
+    {
+      "term": "te",
+      "pos": "pron.",
+      "meaning": "你(第二人称单数宾格、与格代词)"
+    },
+    {
+      "term": "qué",
+      "pos": "pron.",
+      "meaning": "什么"
+    },
+    {
+      "term": "hacer",
+      "pos": "tr.",
+      "meaning": "做，干"
+    },
+    {
+      "term": "por",
+      "pos": "prep.",
+      "meaning": "(课文)在……；为了……"
+    },
+    {
+      "term": "aquí",
+      "pos": "adv.",
+      "meaning": "这里"
+    },
+    {
+      "term": "venir",
+      "pos": "intr.",
+      "meaning": "来"
+    },
+    {
+      "term": "curso",
+      "pos": "m.",
+      "meaning": "学年；教程"
+    },
+    {
+      "term": "verano",
+      "pos": "m.",
+      "meaning": "夏天"
+    },
+    {
+      "term": "organizar",
+      "pos": "tr.",
+      "meaning": "组织"
+    },
+    {
+      "term": "estos, tas",
+      "pos": "adj.",
+      "meaning": "这些"
+    },
+    {
+      "term": "año",
+      "pos": "m.",
+      "meaning": "年"
+    },
+    {
+      "term": "llevar + 时间 + 地点",
+      "pos": "",
+      "meaning": "呆在……地方……时间"
+    },
+    {
+      "term": "medio",
+      "pos": "adj.",
+      "meaning": "半"
+    },
+    {
+      "term": "doctorado",
+      "pos": "m.",
+      "meaning": "博士学位"
+    },
+    {
+      "term": "sin",
+      "pos": "prep.",
+      "meaning": "没有"
+    },
+    {
+      "term": "saber",
+      "pos": "tr.",
+      "meaning": "知道"
+    },
+    {
+      "term": "lo, la",
+      "pos": "pron.",
+      "meaning": "您(他，她，它)(第三人称单数宾格代词)"
+    },
+    {
+      "term": "en realidad",
+      "pos": "loc.adv.",
+      "meaning": "实际上"
+    },
+    {
+      "term": "haber",
+      "pos": "",
+      "meaning": "v.imp. 有"
+    },
+    {
+      "term": "decir",
+      "pos": "tr.",
+      "meaning": "说"
+    },
+    {
+      "term": "lo mismo",
+      "pos": "",
+      "meaning": "同样的事情"
+    },
+    {
+      "term": "en punto",
+      "pos": "loc.adv.",
+      "meaning": "整点"
+    },
+    {
+      "term": "comedor",
+      "pos": "m.",
+      "meaning": "饭厅，食堂"
+    },
+    {
+      "term": "no... hasta",
+      "pos": "",
+      "meaning": "直到……才"
+    },
+    {
+      "term": "comenzar",
+      "pos": "tr.;intr.",
+      "meaning": "开始"
+    },
+    {
+      "term": "nueve",
+      "pos": "num.",
+      "meaning": "九"
+    },
+    {
+      "term": "leer",
+      "pos": "tr.;intr.",
+      "meaning": "读，看"
+    },
+    {
+      "term": "repasar",
+      "pos": "tr.",
+      "meaning": "复习"
+    },
+    {
+      "term": "lección",
+      "pos": "f.",
+      "meaning": "功课"
+    },
+    {
+      "term": "estudiado, da",
+      "pos": "p.p.",
+      "meaning": "学过的"
+    },
+    {
+      "term": "prepararse",
+      "pos": "prnl.",
+      "meaning": "准备"
+    },
+    {
+      "term": "nuevo, va",
+      "pos": "adj.",
+      "meaning": "新"
+    },
+    {
+      "term": "ocho",
+      "pos": "num.",
+      "meaning": "八"
+    },
+    {
+      "term": "salir",
+      "pos": "intr.",
+      "meaning": "离开"
+    },
+    {
+      "term": "residencia",
+      "pos": "f.",
+      "meaning": "公寓"
+    },
+    {
+      "term": "facultad",
+      "pos": "f.",
+      "meaning": "(院)系"
+    },
+    {
+      "term": "metro",
+      "pos": "m.",
+      "meaning": "地铁"
+    },
+    {
+      "term": "horario",
+      "pos": "m.",
+      "meaning": "作息时间"
+    },
+    {
+      "term": "apretado, da",
+      "pos": "adj.",
+      "meaning": "挤压的；紧凑的"
+    },
+    {
+      "term": "eso",
+      "pos": "pron.",
+      "meaning": "那"
+    },
+    {
+      "term": "antes de",
+      "pos": "loc.adv.",
+      "meaning": "在……之前"
+    },
+    {
+      "term": "jornada",
+      "pos": "f.",
+      "meaning": "工作日"
+    },
+    {
+      "term": "real",
+      "pos": "adj.",
+      "meaning": "真正的"
+    },
+    {
+      "term": "al mediodía",
+      "pos": "loc.adv.",
+      "meaning": "中午"
+    },
+    {
+      "term": "almorzar",
+      "pos": "intr.",
+      "meaning": "吃午饭"
+    },
+    {
+      "term": "campus",
+      "pos": "m.",
+      "meaning": "大学校园"
+    },
+    {
+      "term": "quedarse",
+      "pos": "prnl.",
+      "meaning": "呆，留在"
+    },
+    {
+      "term": "biblioteca",
+      "pos": "f.",
+      "meaning": "图书馆"
+    },
+    {
+      "term": "casi",
+      "pos": "adv.",
+      "meaning": "几乎"
+    },
+    {
+      "term": "universitario, ria",
+      "pos": "adj.",
+      "meaning": "大学的"
+    },
+    {
+      "term": "si",
+      "pos": "conj.",
+      "meaning": "如果"
+    },
+    {
+      "term": "nos",
+      "pos": "pron.",
+      "meaning": "我们(第一人称复数宾格、与格代词)"
+    },
+    {
+      "term": "quedar",
+      "pos": "intr.",
+      "meaning": "剩下，还有"
+    },
+    {
+      "term": "algo",
+      "pos": "pron.",
+      "meaning": "一点，一些"
+    },
+    {
+      "term": "al + inf.",
+      "pos": "",
+      "meaning": "当……时候；一……就"
+    },
+    {
+      "term": "apenas",
+      "pos": "adv.",
+      "meaning": "几乎没有，几乎不"
+    },
+    {
+      "term": "respirar",
+      "pos": "tr.;intr.",
+      "meaning": "呼吸"
+    },
+    {
+      "term": "almuerzo",
+      "pos": "m.",
+      "meaning": "午餐"
+    },
+    {
+      "term": "tener que + inf.",
+      "pos": "",
+      "meaning": "必须"
+    },
+    {
+      "term": "descansar",
+      "pos": "intr.",
+      "meaning": "休息"
+    },
+    {
+      "term": "hora",
+      "pos": "f.",
+      "meaning": "小时"
+    },
+    {
+      "term": "por la tarde",
+      "pos": "",
+      "meaning": "下午"
+    },
+    {
+      "term": "deporte",
+      "pos": "m.",
+      "meaning": "运动"
+    },
+    {
+      "term": "por la noche",
+      "pos": "",
+      "meaning": "晚上"
+    },
+    {
+      "term": "trabajo de casa",
+      "pos": "",
+      "meaning": "作业"
+    },
+    {
+      "term": "acostarse",
+      "pos": "prnl.",
+      "meaning": "上床睡觉"
+    },
+    {
+      "term": "once",
+      "pos": "num.",
+      "meaning": "十一"
+    },
+    {
+      "term": "estudiantil",
+      "pos": "adj.",
+      "meaning": "学生的"
+    },
+    {
+      "term": "aunque",
+      "pos": "conj.",
+      "meaning": "虽然"
+    },
+    {
+      "term": "terminar",
+      "pos": "tr.",
+      "meaning": "结束"
+    },
+    {
+      "term": "cansado, da",
+      "pos": "adj.",
+      "meaning": "累的，疲劳的"
+    },
+    {
+      "term": "invitar",
+      "pos": "tr.",
+      "meaning": "邀请"
+    },
+    {
+      "term": "cenar",
+      "pos": "intr.",
+      "meaning": "吃晚饭"
+    },
+    {
+      "term": "adónde",
+      "pos": "adv.",
+      "meaning": "(到，去)哪里"
+    },
+    {
+      "term": "tanto, ta",
+      "pos": "adj.",
+      "meaning": "如此的，那么的"
+    },
+    {
+      "term": "prisa",
+      "pos": "f.",
+      "meaning": "急，匆忙"
+    },
+    {
+      "term": "comprar",
+      "pos": "tr.",
+      "meaning": "购买"
+    },
+    {
+      "term": "temer",
+      "pos": "tr.",
+      "meaning": "担心，害怕"
+    },
+    {
+      "term": "llegar",
+      "pos": "intr.",
+      "meaning": "到达"
+    },
+    {
+      "term": "tienda",
+      "pos": "f.",
+      "meaning": "商店"
+    },
+    {
+      "term": "cerrar",
+      "pos": "tr.",
+      "meaning": "关闭"
+    },
+    {
+      "term": "poder",
+      "pos": "tr.",
+      "meaning": "能够"
+    },
+    {
+      "term": "mañana",
+      "pos": "adv.",
+      "meaning": "明天"
+    },
+    {
+      "term": "hoy",
+      "pos": "adv.",
+      "meaning": "今天"
+    },
+    {
+      "term": "cumpleaños",
+      "pos": "",
+      "meaning": "m.(el, los) 生日"
+    },
+    {
+      "term": "querer",
+      "pos": "tr.",
+      "meaning": "喜欢，喜爱，爱"
+    },
+    {
+      "term": "felicitación",
+      "pos": "f.",
+      "meaning": "祝贺"
+    },
+    {
+      "term": "alegrar(se)",
+      "pos": "tr.;prnl.",
+      "meaning": "使高兴，高兴"
+    },
+    {
+      "term": "celebrar",
+      "pos": "tr.",
+      "meaning": "举办，庆祝"
+    },
+    {
+      "term": "dieciocho",
+      "pos": "num.",
+      "meaning": "十八"
+    },
+    {
+      "term": "diecinueve",
+      "pos": "num.",
+      "meaning": "十九"
+    },
+    {
+      "term": "como",
+      "pos": "conj.",
+      "meaning": "正如，正像；由于"
+    },
+    {
+      "term": "un poco",
+      "pos": "loc.adv.",
+      "meaning": "一点儿"
+    },
+    {
+      "term": "casi",
+      "pos": "adv.",
+      "meaning": "几乎"
+    },
+    {
+      "term": "edad",
+      "pos": "f.",
+      "meaning": "年龄"
+    },
+    {
+      "term": "restaurante",
+      "pos": "m.",
+      "meaning": "饭馆"
+    },
+    {
+      "term": "entrar",
+      "pos": "intr.",
+      "meaning": "进入"
+    },
+    {
+      "term": "allá",
+      "pos": "adv.",
+      "meaning": "那边"
+    },
+    {
+      "term": "mesa",
+      "pos": "f.",
+      "meaning": "桌子"
+    },
+    {
+      "term": "libre",
+      "pos": "adj.",
+      "meaning": "空闲的"
+    },
+    {
+      "term": "sentarse",
+      "pos": "prnl.",
+      "meaning": "坐下"
+    },
+    {
+      "term": "parecer",
+      "pos": "intr.",
+      "meaning": "觉得，认为"
+    },
+    {
+      "term": "eh",
+      "pos": "interj.",
+      "meaning": "喂"
+    },
+    {
+      "term": "camarero, ra",
+      "pos": "m.,f.",
+      "meaning": "餐厅服务员"
+    },
+    {
+      "term": "carta",
+      "pos": "f.",
+      "meaning": "菜单"
+    },
+    {
+      "term": "por favor",
+      "pos": "",
+      "meaning": "请，劳驾"
+    },
+    {
+      "term": "recomendar",
+      "pos": "tr.",
+      "meaning": "推荐"
+    },
+    {
+      "term": "sopa de marisco",
+      "pos": "",
+      "meaning": "海鲜汤"
+    },
+    {
+      "term": "pedir",
+      "pos": "tr.",
+      "meaning": "要，要求"
+    },
+    {
+      "term": "de segundo",
+      "pos": "",
+      "meaning": "第二道(菜)"
+    },
+    {
+      "term": "carne",
+      "pos": "f.",
+      "meaning": "肉"
+    },
+    {
+      "term": "pescado",
+      "pos": "m.",
+      "meaning": "鱼"
+    },
+    {
+      "term": "ensalada",
+      "pos": "f.",
+      "meaning": "沙拉"
+    },
+    {
+      "term": "verdura",
+      "pos": "f.",
+      "meaning": "蔬菜"
+    },
+    {
+      "term": "idea",
+      "pos": "f.",
+      "meaning": "主意"
+    },
+    {
+      "term": "beber",
+      "pos": "tr.;intr.",
+      "meaning": "喝"
+    },
+    {
+      "term": "vino",
+      "pos": "m.",
+      "meaning": "葡萄酒"
+    },
+    {
+      "term": "botella",
+      "pos": "f.",
+      "meaning": "瓶"
+    },
+    {
+      "term": "cómo no",
+      "pos": "",
+      "meaning": "当然可以"
+    },
+    {
+      "term": "tinto, ta",
+      "pos": "adj.",
+      "meaning": "深红色的"
+    },
+    {
+      "term": "agua mineral",
+      "pos": "f.",
+      "meaning": "矿泉水"
+    },
+    {
+      "term": "postre",
+      "pos": "m.",
+      "meaning": "甜点"
+    },
+    {
+      "term": "o",
+      "pos": "conj.",
+      "meaning": "或者，还是"
+    },
+    {
+      "term": "invitación",
+      "pos": "f.",
+      "meaning": "邀请"
+    },
+    {
+      "term": "de nada",
+      "pos": "",
+      "meaning": "不客气，不用谢"
+    },
+    {
+      "term": "placer",
+      "pos": "m.",
+      "meaning": "荣幸，高兴"
+    },
+    {
+      "term": "cumplir",
+      "pos": "tr.",
+      "meaning": "满(……岁)；履行"
+    },
+    {
+      "term": "compañero, ra",
+      "pos": "m.,f.",
+      "meaning": "同学，同伴"
+    },
+    {
+      "term": "empezar",
+      "pos": "tr.;intr.",
+      "meaning": "开始"
+    },
+    {
+      "term": "ayudar",
+      "pos": "tr.",
+      "meaning": "帮助"
+    },
+    {
+      "term": "cuarto",
+      "pos": "m.",
+      "meaning": "一刻钟，十五分钟"
+    },
+    {
+      "term": "primero, ra",
+      "pos": "adj.",
+      "meaning": "第一的"
+    },
+    {
+      "term": "invitado, da",
+      "pos": "m.,f.",
+      "meaning": "客人"
+    },
+    {
+      "term": "recibir",
+      "pos": "tr.",
+      "meaning": "迎接，接待"
+    },
+    {
+      "term": "felicitar",
+      "pos": "tr.",
+      "meaning": "祝贺"
+    },
+    {
+      "term": "feliz",
+      "pos": "adj.",
+      "meaning": "幸福"
+    },
+    {
+      "term": "pronto",
+      "pos": "adv.",
+      "meaning": "过早，很快"
+    },
+    {
+      "term": "ponerse a + inf.",
+      "pos": "",
+      "meaning": "开始做……"
+    },
+    {
+      "term": "charlar",
+      "pos": "intr.",
+      "meaning": "交谈"
+    },
+    {
+      "term": "plato",
+      "pos": "m.",
+      "meaning": "菜，盘子"
+    },
+    {
+      "term": "sabroso, sa",
+      "pos": "adj.",
+      "meaning": "好吃的，有滋味的"
+    },
+    {
+      "term": "todo el mundo",
+      "pos": "",
+      "meaning": "所有人"
+    },
+    {
+      "term": "copa",
+      "pos": "f.",
+      "meaning": "酒杯"
+    },
+    {
+      "term": "brindar",
+      "pos": "tr.",
+      "meaning": "祝酒，敬酒"
+    },
+    {
+      "term": "novela",
+      "pos": "f.",
+      "meaning": "小说"
+    },
+    {
+      "term": "Vargas Llosa",
+      "pos": "",
+      "meaning": "巴尔加斯·略萨"
+    },
+    {
+      "term": "escritor, ra",
+      "pos": "m.,f.",
+      "meaning": "作家"
+    },
+    {
+      "term": "gustar",
+      "pos": "intr.",
+      "meaning": "使……喜欢"
+    },
+    {
+      "term": "encantar",
+      "pos": "intr.",
+      "meaning": "使……着迷"
+    },
+    {
+      "term": "estilo",
+      "pos": "m.",
+      "meaning": "风格"
+    },
+    {
+      "term": "moderno, na",
+      "pos": "adj.",
+      "meaning": "现代的"
+    },
+    {
+      "term": "mirar",
+      "pos": "tr.",
+      "meaning": "看"
+    },
+    {
+      "term": "mediodía",
+      "pos": "m.",
+      "meaning": "中午"
+    },
+    {
+      "term": "recoger",
+      "pos": "tr.",
+      "meaning": "收起，拾起"
+    },
+    {
+      "term": "meter",
+      "pos": "tr.",
+      "meaning": "装进，塞进"
+    },
+    {
+      "term": "mochila",
+      "pos": "f.",
+      "meaning": "双肩背包"
+    },
+    {
+      "term": "hambre",
+      "pos": "f.",
+      "meaning": "饥饿"
+    },
+    {
+      "term": "sed",
+      "pos": "f.",
+      "meaning": "渴"
+    },
+    {
+      "term": "por casualidad",
+      "pos": "loc.adv.",
+      "meaning": "偶然，凑巧"
+    },
+    {
+      "term": "botella",
+      "pos": "f.",
+      "meaning": "瓶子"
+    },
+    {
+      "term": "coger",
+      "pos": "tr.",
+      "meaning": "拿起"
+    },
+    {
+      "term": "cafetería",
+      "pos": "f.",
+      "meaning": "咖啡馆"
+    },
+    {
+      "term": "cerca",
+      "pos": "adv.",
+      "meaning": "近"
+    },
+    {
+      "term": "pequeño, ña",
+      "pos": "adj.",
+      "meaning": "小的"
+    },
+    {
+      "term": "limpieza",
+      "pos": "f.",
+      "meaning": "扫除"
+    },
+    {
+      "term": "acabar de + inf.",
+      "pos": "",
+      "meaning": "刚刚"
+    },
+    {
+      "term": "fiesta",
+      "pos": "f.",
+      "meaning": "聚会，节日"
+    },
+    {
+      "term": "despedirse (de)",
+      "pos": "prnl.",
+      "meaning": "告别，辞别，送别"
+    },
+    {
+      "term": "encontrar",
+      "pos": "tr.",
+      "meaning": "找到，遇到"
+    },
+    {
+      "term": "sucio, cia",
+      "pos": "adj.",
+      "meaning": "脏的"
+    },
+    {
+      "term": "desarreglado, da",
+      "pos": "adj.",
+      "meaning": "乱七八糟"
+    },
+    {
+      "term": "suciedad",
+      "pos": "f.",
+      "meaning": "脏(的状况)"
+    },
+    {
+      "term": "ni",
+      "pos": "conj.",
+      "meaning": "y的否定形式"
+    },
+    {
+      "term": "desorden",
+      "pos": "m.",
+      "meaning": "无秩序"
+    },
+    {
+      "term": "retirar",
+      "pos": "tr.",
+      "meaning": "撤下，拿走"
+    },
+    {
+      "term": "vaso",
+      "pos": "m.",
+      "meaning": "杯子"
+    },
+    {
+      "term": "lavar",
+      "pos": "tr.",
+      "meaning": "清洗"
+    },
+    {
+      "term": "libro",
+      "pos": "m.",
+      "meaning": "书"
+    },
+    {
+      "term": "periódico",
+      "pos": "m.",
+      "meaning": "报纸"
+    },
+    {
+      "term": "revista",
+      "pos": "f.",
+      "meaning": "杂志"
+    },
+    {
+      "term": "poner",
+      "pos": "tr.",
+      "meaning": "放"
+    },
+    {
+      "term": "estantería",
+      "pos": "f.",
+      "meaning": "架子，书架"
+    },
+    {
+      "term": "trapo",
+      "pos": "m.",
+      "meaning": "抹布"
+    },
+    {
+      "term": "mojado, da",
+      "pos": "p.p.",
+      "meaning": "湿的"
+    },
+    {
+      "term": "fregar",
+      "pos": "tr.",
+      "meaning": "擦"
+    },
+    {
+      "term": "silla",
+      "pos": "f.",
+      "meaning": "椅子"
+    },
+    {
+      "term": "cuando",
+      "pos": "conj.",
+      "meaning": "当……时"
+    },
+    {
+      "term": "escoba",
+      "pos": "f.",
+      "meaning": "扫帚"
+    },
+    {
+      "term": "barrer",
+      "pos": "tr.",
+      "meaning": "扫"
+    },
+    {
+      "term": "por último",
+      "pos": "loc.adv.",
+      "meaning": "最后"
+    },
+    {
+      "term": "sacar",
+      "pos": "tr.",
+      "meaning": "取出"
+    },
+    {
+      "term": "fregona",
+      "pos": "f.",
+      "meaning": "墩布"
+    },
+    {
+      "term": "pasar",
+      "pos": "tr.",
+      "meaning": "过(时间/空间)"
+    },
+    {
+      "term": "suelo",
+      "pos": "m.",
+      "meaning": "地面"
+    },
+    {
+      "term": "limpio, pia",
+      "pos": "adj.",
+      "meaning": "干净"
+    },
+    {
+      "term": "arreglado, da",
+      "pos": "p.p.",
+      "meaning": "整理好的"
+    },
+    {
+      "term": "sentirse",
+      "pos": "prnl.",
+      "meaning": "感觉"
+    },
+    {
+      "term": "sofá",
+      "pos": "m.",
+      "meaning": "沙发"
+    },
+    {
+      "term": "justo",
+      "pos": "adv.",
+      "meaning": "恰好"
+    },
+    {
+      "term": "momento",
+      "pos": "m.",
+      "meaning": "时候"
+    },
+    {
+      "term": "alguien",
+      "pos": "pron.",
+      "meaning": "有人"
+    },
+    {
+      "term": "puerta",
+      "pos": "f.",
+      "meaning": "门"
+    },
+    {
+      "term": "molestar",
+      "pos": "tr.",
+      "meaning": "打扰，麻烦"
+    },
+    {
+      "term": "en absoluto",
+      "pos": "loc.adv.",
+      "meaning": "绝不"
+    },
+    {
+      "term": "pensar",
+      "pos": "tr.",
+      "meaning": "想"
+    },
+    {
+      "term": "trabajo",
+      "pos": "m.",
+      "meaning": "作业，文章，小论文"
+    },
+    {
+      "term": "sobre",
+      "pos": "prep.",
+      "meaning": "关于"
+    },
+    {
+      "term": "América Latina",
+      "pos": "",
+      "meaning": "拉丁美洲"
+    },
+    {
+      "term": "prestar",
+      "pos": "tr.",
+      "meaning": "给予，借出"
+    },
+    {
+      "term": "interesante",
+      "pos": "adj.",
+      "meaning": "令人感兴趣的"
+    },
+    {
+      "term": "tema",
+      "pos": "m.",
+      "meaning": "题材，主题"
+    },
+    {
+      "term": "escribir",
+      "pos": "tr.",
+      "meaning": "写"
+    },
+    {
+      "term": "papel",
+      "pos": "m.",
+      "meaning": "纸"
+    },
+    {
+      "term": "título",
+      "pos": "m.",
+      "meaning": "题目"
+    },
+    {
+      "term": "necesitar",
+      "pos": "tr.",
+      "meaning": "需要"
+    },
+    {
+      "term": "lista",
+      "pos": "f.",
+      "meaning": "单子"
+    },
+    {
+      "term": "estudio",
+      "pos": "m.",
+      "meaning": "书房"
+    },
+    {
+      "term": "¡Oh!",
+      "pos": "interj.",
+      "meaning": "噢！"
+    },
+    {
+      "term": "¡Qué maravilla!",
+      "pos": "",
+      "meaning": "太棒了！"
+    },
+    {
+      "term": "cuántos, tas",
+      "pos": "adj.",
+      "meaning": "这么多，如此"
+    },
+    {
+      "term": "lleno, na",
+      "pos": "adj.",
+      "meaning": "装满的"
+    },
+    {
+      "term": "surtido, da",
+      "pos": "adj.",
+      "meaning": "丰富的"
+    },
+    {
+      "term": "porque",
+      "pos": "conj.",
+      "meaning": "因为，原因是"
+    },
+    {
+      "term": "hábito",
+      "pos": "m.",
+      "meaning": "习惯"
+    },
+    {
+      "term": "sobre todo",
+      "pos": "loc.adv.",
+      "meaning": "特别，尤其"
+    },
+    {
+      "term": "obra",
+      "pos": "f.",
+      "meaning": "著作，作品"
+    },
+    {
+      "term": "literario, ria",
+      "pos": "adj.",
+      "meaning": "文学的"
+    },
+    {
+      "term": "librería",
+      "pos": "f.",
+      "meaning": "书店"
+    },
+    {
+      "term": "vez",
+      "pos": "f.",
+      "meaning": "次数"
+    },
+    {
+      "term": "Internet",
+      "pos": "f.",
+      "meaning": "因特网"
+    },
+    {
+      "term": "sistema",
+      "pos": "m.",
+      "meaning": "制度，方法"
+    },
+    {
+      "term": "así",
+      "pos": "adv.",
+      "meaning": "这样"
+    },
+    {
+      "term": "ganar",
+      "pos": "tr.",
+      "meaning": "赢得"
+    },
+    {
+      "term": "ventaja",
+      "pos": "f.",
+      "meaning": "优势，好处"
+    },
+    {
+      "term": "perdón",
+      "pos": "m.",
+      "meaning": "对不起，抱歉"
+    },
+    {
+      "term": "traer",
+      "pos": "tr.",
+      "meaning": "带来"
+    },
+    {
+      "term": "encargar",
+      "pos": "tr.",
+      "meaning": "订购；委托"
+    },
+    {
+      "term": "medio",
+      "pos": "m.",
+      "meaning": "方法，手段"
+    },
+    {
+      "term": "esperar",
+      "pos": "tr.;intr.",
+      "meaning": "等待；希望"
+    },
+    {
+      "term": "rato",
+      "pos": "m.",
+      "meaning": "一会儿"
+    },
+    {
+      "term": "pagar",
+      "pos": "tr.",
+      "meaning": "付款"
+    },
+    {
+      "term": "servicio",
+      "pos": "m.",
+      "meaning": "服务"
+    },
+    {
+      "term": "hoy en día",
+      "pos": "loc.adv.",
+      "meaning": "如今"
+    },
+    {
+      "term": "común",
+      "pos": "adj.",
+      "meaning": "普通的"
+    },
+    {
+      "term": "hacer compras",
+      "pos": "",
+      "meaning": "购物，买东西"
+    },
+    {
+      "term": "en especial",
+      "pos": "loc.adv.",
+      "meaning": "特别，尤其"
+    },
+    {
+      "term": "sin embargo",
+      "pos": "loc.conj.",
+      "meaning": "然而，不过"
+    },
+    {
+      "term": "persona",
+      "pos": "f.",
+      "meaning": "人"
+    },
+    {
+      "term": "resistirse",
+      "pos": "prnl.",
+      "meaning": "抗拒，抵触"
+    },
+    {
+      "term": "usar",
+      "pos": "tr.",
+      "meaning": "使用"
+    },
+    {
+      "term": "estafar",
+      "pos": "tr.",
+      "meaning": "欺诈"
+    },
+    {
+      "term": "ofrecer",
+      "pos": "tr.",
+      "meaning": "提供"
+    },
+    {
+      "term": "servir",
+      "pos": "tr.;intr.",
+      "meaning": "服务；用于……"
+    },
+    {
+      "term": "acaso",
+      "pos": "adv.",
+      "meaning": "难道"
+    },
+    {
+      "term": "al mismo tiempo",
+      "pos": "loc.adv.",
+      "meaning": "同时"
+    },
+    {
+      "term": "adquirir",
+      "pos": "tr.",
+      "meaning": "获得，购得"
+    },
+    {
+      "term": "teclear",
+      "pos": "tr.",
+      "meaning": "敲击(键盘)"
+    },
+    {
+      "term": "ordenador (Esp.)",
+      "pos": "m.",
+      "meaning": "电脑(西班牙)"
+    },
+    {
+      "term": "computadora (Amer.)",
+      "pos": "f.",
+      "meaning": "电脑(拉美)"
+    },
+    {
+      "term": "soler",
+      "pos": "tr.",
+      "meaning": "习惯做……"
+    },
+    {
+      "term": "bibliotecario, ria",
+      "pos": "m.,f.",
+      "meaning": "图书管理员"
+    },
+    {
+      "term": "desventaja",
+      "pos": "f.",
+      "meaning": "劣势，坏处"
+    },
+    {
+      "term": "devolver",
+      "pos": "tr.",
+      "meaning": "归还"
+    },
+    {
+      "term": "perder",
+      "pos": "tr.",
+      "meaning": "丢失"
+    },
+    {
+      "term": "recepción",
+      "pos": "f.",
+      "meaning": "宾馆前台"
+    },
+    {
+      "term": "hotel",
+      "pos": "m.",
+      "meaning": "饭店，宾馆"
+    },
+    {
+      "term": "recepcionista",
+      "pos": "m.,f.",
+      "meaning": "前台服务员"
+    },
+    {
+      "term": "entregar",
+      "pos": "tr.",
+      "meaning": "交出，交给"
+    },
+    {
+      "term": "turista",
+      "pos": "m.,f.",
+      "meaning": "游客"
+    },
+    {
+      "term": "bienvenido, da",
+      "pos": "adj.",
+      "meaning": "欢迎"
+    },
+    {
+      "term": "pendiente",
+      "pos": "adj.",
+      "meaning": "悬着的"
+    },
+    {
+      "term": "subir",
+      "pos": "intr.",
+      "meaning": "向上走；送上去"
+    },
+    {
+      "term": "gritar",
+      "pos": "intr.",
+      "meaning": "喊，叫"
+    },
+    {
+      "term": "carrito",
+      "pos": "m.",
+      "meaning": "小车"
+    },
+    {
+      "term": "equipaje",
+      "pos": "m.",
+      "meaning": "行李"
+    },
+    {
+      "term": "tuyo, ya",
+      "pos": "adj.",
+      "meaning": "你的"
+    },
+    {
+      "term": "rojo, ja",
+      "pos": "adj.",
+      "meaning": "红色的"
+    },
+    {
+      "term": "junto a",
+      "pos": "",
+      "meaning": "在近旁"
+    },
+    {
+      "term": "mío, a",
+      "pos": "adj.",
+      "meaning": "我的"
+    },
+    {
+      "term": "ahí",
+      "pos": "adv.",
+      "meaning": "那里，那边"
+    },
+    {
+      "term": "debajo de",
+      "pos": "",
+      "meaning": "在下面"
+    },
+    {
+      "term": "maletín",
+      "pos": "m.",
+      "meaning": "手提包"
+    },
+    {
+      "term": "bolso",
+      "pos": "m.",
+      "meaning": "包，袋"
+    },
+    {
+      "term": "demás",
+      "pos": "pron.",
+      "meaning": "其他(人，物)"
+    },
+    {
+      "term": "mostrador",
+      "pos": "m.",
+      "meaning": "柜台"
+    },
+    {
+      "term": "alguno, na",
+      "pos": "pron.",
+      "meaning": "某位；某个"
+    },
+    {
+      "term": "dueño, ña",
+      "pos": "m.,f.",
+      "meaning": "主人"
+    },
+    {
+      "term": "oír",
+      "pos": "tr.",
+      "meaning": "听见"
+    },
+    {
+      "term": "pasar",
+      "pos": "tr.",
+      "meaning": "传递"
+    },
+    {
+      "term": "cuál",
+      "pos": "pron.",
+      "meaning": "哪一个"
+    },
+    {
+      "term": "número",
+      "pos": "m.",
+      "meaning": "号码"
+    },
+    {
+      "term": "piso",
+      "pos": "m.",
+      "meaning": "层"
+    },
+    {
+      "term": "mil",
+      "pos": "num.",
+      "meaning": "千"
+    },
+    {
+      "term": "pena",
+      "pos": "f.",
+      "meaning": "遗憾；痛苦"
+    },
+    {
+      "term": "vecino, na",
+      "pos": "m.,f.",
+      "meaning": "邻居"
+    },
+    {
+      "term": "regalo",
+      "pos": "m.",
+      "meaning": "礼物"
+    },
+    {
+      "term": "viaje",
+      "pos": "m.",
+      "meaning": "旅行"
+    },
+    {
+      "term": "nieto, ta",
+      "pos": "m.,f.",
+      "meaning": "孙子，孙女；外孙，外孙女"
+    },
+    {
+      "term": "niño, ña",
+      "pos": "m.,f.",
+      "meaning": "儿童"
+    },
+    {
+      "term": "saltar",
+      "pos": "intr.",
+      "meaning": "跳"
+    },
+    {
+      "term": "besar",
+      "pos": "tr.",
+      "meaning": "亲吻"
+    },
+    {
+      "term": "abrir",
+      "pos": "tr.",
+      "meaning": "打开"
+    },
+    {
+      "term": "paquete",
+      "pos": "m.",
+      "meaning": "包裹"
+    },
+    {
+      "term": "camiseta",
+      "pos": "f.",
+      "meaning": "汗衫"
+    },
+    {
+      "term": "verde",
+      "pos": "adj.",
+      "meaning": "绿色的"
+    },
+    {
+      "term": "azul",
+      "pos": "adj.",
+      "meaning": "蓝色的"
+    },
+    {
+      "term": "marrón",
+      "pos": "adj.",
+      "meaning": "棕色的"
+    },
+    {
+      "term": "color",
+      "pos": "m.",
+      "meaning": "颜色"
+    },
+    {
+      "term": "amarillo, lla",
+      "pos": "adj.",
+      "meaning": "黄色的"
+    },
+    {
+      "term": "dentro",
+      "pos": "adv.",
+      "meaning": "在里面"
+    },
+    {
+      "term": "cuidado",
+      "pos": "m.",
+      "meaning": "小心"
+    },
+    {
+      "term": "romper",
+      "pos": "tr.",
+      "meaning": "打破"
+    },
+    {
+      "term": "juguete",
+      "pos": "m.",
+      "meaning": "玩具"
+    },
+    {
+      "term": "bonito, ta",
+      "pos": "adj.",
+      "meaning": "好看的"
+    },
+    {
+      "term": "dar",
+      "pos": "tr.",
+      "meaning": "给"
+    },
+    {
+      "term": "cariño",
+      "pos": "m.",
+      "meaning": "喜爱"
+    },
+    {
+      "term": "beso",
+      "pos": "m.",
+      "meaning": "吻"
+    },
+    {
+      "term": "al lado de",
+      "pos": "loc.adv.",
+      "meaning": "在……旁边"
+    },
+    {
+      "term": "bajar",
+      "pos": "tr.",
+      "meaning": "向下走"
+    },
+    {
+      "term": "blanco, ca",
+      "pos": "adj.",
+      "meaning": "白色的"
+    },
+    {
+      "term": "café",
+      "pos": "adj.",
+      "meaning": "咖啡色的"
+    },
+    {
+      "term": "encima de",
+      "pos": "",
+      "meaning": "在……上面"
+    },
+    {
+      "term": "feo, a",
+      "pos": "adj.",
+      "meaning": "难看，丑"
+    },
+    {
+      "term": "gris",
+      "pos": "adj.",
+      "meaning": "灰色的"
+    },
+    {
+      "term": "naranja",
+      "pos": "adj.",
+      "meaning": "橙色的"
+    },
+    {
+      "term": "negro, gra",
+      "pos": "adj.",
+      "meaning": "黑色的"
+    },
+    {
+      "term": "indicar",
+      "pos": "tr.",
+      "meaning": "指出"
+    },
+    {
+      "term": "camino",
+      "pos": "m.",
+      "meaning": "路"
+    },
+    {
+      "term": "teléfono",
+      "pos": "m.",
+      "meaning": "电话"
+    },
+    {
+      "term": "llamada",
+      "pos": "f.",
+      "meaning": "打电话"
+    },
+    {
+      "term": "ganas",
+      "pos": "f.pl.",
+      "meaning": "愿望"
+    },
+    {
+      "term": "desde",
+      "pos": "prep.",
+      "meaning": "从"
+    },
+    {
+      "term": "gato, ta",
+      "pos": "m.,f.",
+      "meaning": "猫"
+    },
+    {
+      "term": "quedar",
+      "pos": "intr.",
+      "meaning": "位于"
+    },
+    {
+      "term": "lejos",
+      "pos": "adv.",
+      "meaning": "远"
+    },
+    {
+      "term": "inmediatamente",
+      "pos": "adv.",
+      "meaning": "马上"
+    },
+    {
+      "term": "dejar",
+      "pos": "tr.",
+      "meaning": "放下；离开；让处于……状态"
+    },
+    {
+      "term": "suficiente",
+      "pos": "adj.",
+      "meaning": "足够的"
+    },
+    {
+      "term": "espacio",
+      "pos": "m.",
+      "meaning": "空间，地方"
+    },
+    {
+      "term": "dirección",
+      "pos": "f.",
+      "meaning": "地址；方向"
+    },
+    {
+      "term": "por supuesto",
+      "pos": "loc.adv.",
+      "meaning": "当然"
+    },
+    {
+      "term": "seguridad",
+      "pos": "f.",
+      "meaning": "安全；保险"
+    },
+    {
+      "term": "móvil (Esp.)",
+      "pos": "m.",
+      "meaning": "手机(西班牙)"
+    },
+    {
+      "term": "celular (Amer.)",
+      "pos": "m.",
+      "meaning": "手机(拉美)"
+    },
+    {
+      "term": "encender",
+      "pos": "tr.",
+      "meaning": "点燃；打开"
+    },
+    {
+      "term": "minuto",
+      "pos": "m.",
+      "meaning": "分(钟)"
+    },
+    {
+      "term": "fuera",
+      "pos": "adv.",
+      "meaning": "在外面"
+    },
+    {
+      "term": "hacia",
+      "pos": "prep.",
+      "meaning": "朝……(方向)"
+    },
+    {
+      "term": "izquierda",
+      "pos": "f.",
+      "meaning": "左面"
+    },
+    {
+      "term": "parada",
+      "pos": "f.",
+      "meaning": "公共汽车站"
+    },
+    {
+      "term": "línea",
+      "pos": "f.",
+      "meaning": "线路"
+    },
+    {
+      "term": "correr",
+      "pos": "intr.",
+      "meaning": "跑"
+    },
+    {
+      "term": "a ver si",
+      "pos": "",
+      "meaning": "且看是不是"
+    },
+    {
+      "term": "alcanzar",
+      "pos": "tr.",
+      "meaning": "赶上"
+    },
+    {
+      "term": "rápido",
+      "pos": "adv.",
+      "meaning": "快"
+    },
+    {
+      "term": "apearse",
+      "pos": "prnl.",
+      "meaning": "下(车等)"
+    },
+    {
+      "term": "pino",
+      "pos": "m.",
+      "meaning": "松树"
+    },
+    {
+      "term": "estación",
+      "pos": "f.",
+      "meaning": "(地铁，火车)站"
+    },
+    {
+      "term": "nacional",
+      "pos": "adj.",
+      "meaning": "国家的"
+    },
+    {
+      "term": "zona",
+      "pos": "f.",
+      "meaning": "地区"
+    },
+    {
+      "term": "residencial",
+      "pos": "adj.",
+      "meaning": "住宅的"
+    },
+    {
+      "term": "claro",
+      "pos": "adv.;adj.",
+      "meaning": "清楚；明亮"
+    },
+    {
+      "term": "edificio",
+      "pos": "m.",
+      "meaning": "楼房"
+    },
+    {
+      "term": "creer",
+      "pos": "tr.",
+      "meaning": "相信，认为"
+    },
+    {
+      "term": "en todo caso",
+      "pos": "loc.adv.",
+      "meaning": "不管怎样"
+    },
+    {
+      "term": "perderse",
+      "pos": "prnl.",
+      "meaning": "迷路"
+    },
+    {
+      "term": "descuidar",
+      "pos": "intr.",
+      "meaning": "放心"
+    },
+    {
+      "term": "secretario, ria",
+      "pos": "m.,f.",
+      "meaning": "秘书"
+    },
+    {
+      "term": "cliente",
+      "pos": "m.,f.",
+      "meaning": "顾客"
+    },
+    {
+      "term": "señorita",
+      "pos": "f.",
+      "meaning": "小姐"
+    },
+    {
+      "term": "delegación",
+      "pos": "f.",
+      "meaning": "代表团"
+    },
+    {
+      "term": "entrevista",
+      "pos": "f.",
+      "meaning": "会见，见面"
+    },
+    {
+      "term": "gerente",
+      "pos": "m.,f.",
+      "meaning": "经理"
+    },
+    {
+      "term": "oficina",
+      "pos": "f.",
+      "meaning": "办公室"
+    },
+    {
+      "term": "ascensor",
+      "pos": "m.",
+      "meaning": "电梯"
+    },
+    {
+      "term": "a la derecha",
+      "pos": "loc.adv.",
+      "meaning": "在右边，向右边"
+    },
+    {
+      "term": "avanzar",
+      "pos": "intr.",
+      "meaning": "前进"
+    },
+    {
+      "term": "metro",
+      "pos": "m.",
+      "meaning": "米，公尺"
+    },
+    {
+      "term": "pasillo",
+      "pos": "m.",
+      "meaning": "走廊"
+    },
+    {
+      "term": "sentir",
+      "pos": "tr.;intr.",
+      "meaning": "感到；抱歉"
+    },
+    {
+      "term": "apagar",
+      "pos": "tr.",
+      "meaning": "熄灭，关闭"
+    },
+    {
+      "term": "despacho",
+      "pos": "m.",
+      "meaning": "办公室"
+    },
+    {
+      "term": "duda",
+      "pos": "f.",
+      "meaning": "疑问"
+    },
+    {
+      "term": "seguir",
+      "pos": "intr.",
+      "meaning": "继续，接着"
+    },
+    {
+      "term": "taxi",
+      "pos": "m.",
+      "meaning": "出租车"
+    },
+    {
+      "term": "taxista",
+      "pos": "m.,f.",
+      "meaning": "出租司机"
+    },
+    {
+      "term": "utilizar",
+      "pos": "tr.",
+      "meaning": "使用"
+    },
+    {
+      "term": "ropa",
+      "pos": "f.",
+      "meaning": "衣服"
+    },
+    {
+      "term": "comprador, ra",
+      "pos": "m.,f.",
+      "meaning": "购物者"
+    },
+    {
+      "term": "vendedor, ra",
+      "pos": "m.,f.",
+      "meaning": "售货员"
+    },
+    {
+      "term": "Ecuador",
+      "pos": "",
+      "meaning": "厄瓜多尔"
+    },
+    {
+      "term": "invierno",
+      "pos": "m.",
+      "meaning": "冬天"
+    },
+    {
+      "term": "frío, a",
+      "pos": "adj.",
+      "meaning": "冷"
+    },
+    {
+      "term": "Madrid",
+      "pos": "",
+      "meaning": "马德里"
+    },
+    {
+      "term": "en efecto",
+      "pos": "loc.adv.",
+      "meaning": "确实，的确"
+    },
+    {
+      "term": "temperatura",
+      "pos": "f.",
+      "meaning": "温度"
+    },
+    {
+      "term": "época",
+      "pos": "f.",
+      "meaning": "时代，时期"
+    },
+    {
+      "term": "abrigarse",
+      "pos": "tr.;prnl.",
+      "meaning": "御寒，保暖"
+    },
+    {
+      "term": "mostrar",
+      "pos": "tr.",
+      "meaning": "展示；表明"
+    },
+    {
+      "term": "suéter (Amer.)",
+      "pos": "m.",
+      "meaning": "毛衣(拉美)"
+    },
+    {
+      "term": "jersey (Esp.)",
+      "pos": "m.",
+      "meaning": "毛衣(西班牙)"
+    },
+    {
+      "term": "talla",
+      "pos": "f.",
+      "meaning": "(衣服)尺码"
+    },
+    {
+      "term": "quedarle a uno bien (mal)",
+      "pos": "",
+      "meaning": "(某人)穿戴……合适(不合适)"
+    },
+    {
+      "term": "oscuro, ra",
+      "pos": "adj.",
+      "meaning": "黑暗"
+    },
+    {
+      "term": "probarse",
+      "pos": "prnl.",
+      "meaning": "试(穿，戴)"
+    },
+    {
+      "term": "detrás",
+      "pos": "adv.",
+      "meaning": "在……后面"
+    },
+    {
+      "term": "cortina",
+      "pos": "f.",
+      "meaning": "帘子"
+    },
+    {
+      "term": "probador",
+      "pos": "m.",
+      "meaning": "试衣间"
+    },
+    {
+      "term": "sentarle a uno bien (mal)",
+      "pos": "",
+      "meaning": "(某物)与(某人)相配(不相配)"
+    },
+    {
+      "term": "perfecto, ta",
+      "pos": "adj.",
+      "meaning": "完美的"
+    },
+    {
+      "term": "deber",
+      "pos": "tr.",
+      "meaning": "欠"
+    },
+    {
+      "term": "chaqueta",
+      "pos": "f.",
+      "meaning": "夹克"
+    },
+    {
+      "term": "pantalones",
+      "pos": "m.pl.",
+      "meaning": "裤子"
+    },
+    {
+      "term": "tela",
+      "pos": "f.",
+      "meaning": "布料"
+    },
+    {
+      "term": "grueso, sa",
+      "pos": "adj.",
+      "meaning": "粗，厚"
+    },
+    {
+      "term": "seguir",
+      "pos": "tr.",
+      "meaning": "跟随"
+    },
+    {
+      "term": "abrigo",
+      "pos": "m.",
+      "meaning": "大衣"
+    },
+    {
+      "term": "impermeable",
+      "pos": "adj.-s.",
+      "meaning": "防水的；雨衣"
+    },
+    {
+      "term": "lluvia",
+      "pos": "f.",
+      "meaning": "雨"
+    },
+    {
+      "term": "caja",
+      "pos": "f.",
+      "meaning": "收款台；盒子"
+    },
+    {
+      "term": "elegir",
+      "pos": "tr.",
+      "meaning": "挑选；选举"
+    },
+    {
+      "term": "a su disposición",
+      "pos": "",
+      "meaning": "支配，吩咐"
+    },
+    {
+      "term": "cualquier",
+      "pos": "adj.",
+      "meaning": "任何一个"
+    },
+    {
+      "term": "amable",
+      "pos": "adj.",
+      "meaning": "和蔼；客气"
+    },
+    {
+      "term": "encargo",
+      "pos": "m.",
+      "meaning": "委托"
+    },
+    {
+      "term": "sonar",
+      "pos": "intr.",
+      "meaning": "响"
+    },
+    {
+      "term": "supermercado",
+      "pos": "m.",
+      "meaning": "超市"
+    },
+    {
+      "term": "par",
+      "pos": "m.",
+      "meaning": "双，对"
+    },
+    {
+      "term": "zapato",
+      "pos": "m.",
+      "meaning": "鞋"
+    },
+    {
+      "term": "sección",
+      "pos": "f.",
+      "meaning": "部门"
+    },
+    {
+      "term": "alimento",
+      "pos": "m.",
+      "meaning": "食品"
+    },
+    {
+      "term": "barra",
+      "pos": "f.",
+      "meaning": "长条形"
+    },
+    {
+      "term": "kilo",
+      "pos": "m.",
+      "meaning": "公斤"
+    },
+    {
+      "term": "arroz",
+      "pos": "m.",
+      "meaning": "水稻，大米，米饭"
+    },
+    {
+      "term": "aceite",
+      "pos": "m.",
+      "meaning": "油"
+    },
+    {
+      "term": "leche",
+      "pos": "f.",
+      "meaning": "奶"
+    },
+    {
+      "term": "yogur",
+      "pos": "m.",
+      "meaning": "酸奶"
+    },
+    {
+      "term": "queso",
+      "pos": "m.",
+      "meaning": "奶酪"
+    },
+    {
+      "term": "mantequilla",
+      "pos": "f.",
+      "meaning": "黄油"
+    },
+    {
+      "term": "mermelada",
+      "pos": "f.",
+      "meaning": "果酱"
+    },
+    {
+      "term": "recordar",
+      "pos": "tr.",
+      "meaning": "记住；提醒"
+    },
+    {
+      "term": "apuntar",
+      "pos": "tr.",
+      "meaning": "做笔记"
+    },
+    {
+      "term": "ancho, cha",
+      "pos": "adj.",
+      "meaning": "宽的"
+    },
+    {
+      "term": "barato, ta",
+      "pos": "adj.",
+      "meaning": "便宜"
+    },
+    {
+      "term": "calcetines",
+      "pos": "m.pl.",
+      "meaning": "袜子"
+    },
+    {
+      "term": "calzoncillos",
+      "pos": "m.pl.",
+      "meaning": "内裤"
+    },
+    {
+      "term": "camisa",
+      "pos": "f.",
+      "meaning": "(男式)衬衣"
+    },
+    {
+      "term": "caro, ra",
+      "pos": "adj.",
+      "meaning": "贵"
+    },
+    {
+      "term": "corto, ta",
+      "pos": "adj.",
+      "meaning": "短"
+    },
+    {
+      "term": "estrecho, cha",
+      "pos": "adj.",
+      "meaning": "窄"
+    },
+    {
+      "term": "gorro",
+      "pos": "m.",
+      "meaning": "帽子"
+    },
+    {
+      "term": "largo, ga",
+      "pos": "adj.",
+      "meaning": "长"
+    },
+    {
+      "term": "medias",
+      "pos": "f.pl.",
+      "meaning": "(女式)长袜"
+    },
+    {
+      "term": "mes",
+      "pos": "m.",
+      "meaning": "月"
+    },
+    {
+      "term": "contacto",
+      "pos": "m.",
+      "meaning": "接触，联系"
+    },
+    {
+      "term": "algún, na",
+      "pos": "adj.",
+      "meaning": "某一个"
+    },
+    {
+      "term": "comentario",
+      "pos": "m.",
+      "meaning": "评论"
+    },
+    {
+      "term": "precisamente",
+      "pos": "adv.",
+      "meaning": "恰恰"
+    },
+    {
+      "term": "sano, na",
+      "pos": "adj.",
+      "meaning": "健康的"
+    },
+    {
+      "term": "alegre",
+      "pos": "adj.",
+      "meaning": "高兴"
+    },
+    {
+      "term": "educado, da",
+      "pos": "p.p.",
+      "meaning": "有教养的"
+    },
+    {
+      "term": "aplicado, da",
+      "pos": "p.p.",
+      "meaning": "用功的，刻苦的"
+    },
+    {
+      "term": "seguramente",
+      "pos": "adv.",
+      "meaning": "很可能"
+    },
+    {
+      "term": "defecto",
+      "pos": "m.",
+      "meaning": "缺点"
+    },
+    {
+      "term": "precipitarse",
+      "pos": "prnl.",
+      "meaning": "急于做……"
+    },
+    {
+      "term": "poco a poco",
+      "pos": "",
+      "meaning": "一点点，逐渐"
+    },
+    {
+      "term": "claro que",
+      "pos": "",
+      "meaning": "当然"
+    },
+    {
+      "term": "problema",
+      "pos": "m.",
+      "meaning": "问题"
+    },
+    {
+      "term": "relacionado, da",
+      "pos": "p.p.",
+      "meaning": "和……有关"
+    },
+    {
+      "term": "interesar",
+      "pos": "tr.",
+      "meaning": "让……感兴趣"
+    },
+    {
+      "term": "franqueza",
+      "pos": "f.",
+      "meaning": "坦率"
+    },
+    {
+      "term": "interés",
+      "pos": "m.",
+      "meaning": "兴趣"
+    },
+    {
+      "term": "mejorar",
+      "pos": "tr.",
+      "meaning": "改进"
+    },
+    {
+      "term": "pronunciación",
+      "pos": "f.",
+      "meaning": "发音"
+    },
+    {
+      "term": "comprender",
+      "pos": "tr.",
+      "meaning": "理解；懂得"
+    },
+    {
+      "term": "importancia",
+      "pos": "f.",
+      "meaning": "重要性"
+    },
+    {
+      "term": "importante",
+      "pos": "adj.",
+      "meaning": "重要的"
+    },
+    {
+      "term": "mal",
+      "pos": "adv.",
+      "meaning": "坏，糟糕"
+    },
+    {
+      "term": "pronunciar",
+      "pos": "tr.",
+      "meaning": "发音"
+    },
+    {
+      "term": "significar",
+      "pos": "tr.",
+      "meaning": "意思是"
+    },
+    {
+      "term": "por ejemplo",
+      "pos": "",
+      "meaning": "例如"
+    },
+    {
+      "term": "confundir",
+      "pos": "tr.",
+      "meaning": "混淆，弄混"
+    },
+    {
+      "term": "constantemente",
+      "pos": "adv.",
+      "meaning": "经常，总是"
+    },
+    {
+      "term": "catar",
+      "pos": "tr.",
+      "meaning": "品尝"
+    },
+    {
+      "term": "total",
+      "pos": "adj.;adv.",
+      "meaning": "完全的，全部的；总之"
+    },
+    {
+      "term": "dotar",
+      "pos": "tr.",
+      "meaning": "赋予"
+    },
+    {
+      "term": "causar",
+      "pos": "tr.",
+      "meaning": "造成"
+    },
+    {
+      "term": "confusión",
+      "pos": "f.",
+      "meaning": "混乱"
+    },
+    {
+      "term": "nadie",
+      "pos": "pron.",
+      "meaning": "没人"
+    },
+    {
+      "term": "entender",
+      "pos": "tr.",
+      "meaning": "理解，懂"
+    },
+    {
+      "term": "de modo que",
+      "pos": "",
+      "meaning": "因此"
+    },
+    {
+      "term": "prestar atención a",
+      "pos": "",
+      "meaning": "注意，重视"
+    },
+    {
+      "term": "razón",
+      "pos": "f.",
+      "meaning": "道理"
+    },
+    {
+      "term": "tomar en cuenta",
+      "pos": "",
+      "meaning": "考虑，关注"
+    },
+    {
+      "term": "adulto, ta",
+      "pos": "m.,f.",
+      "meaning": "成年人"
+    },
+    {
+      "term": "ruido",
+      "pos": "m.",
+      "meaning": "声音"
+    },
+    {
+      "term": "buscar",
+      "pos": "tr.",
+      "meaning": "寻找"
+    },
+    {
+      "term": "contar",
+      "pos": "tr.",
+      "meaning": "讲述"
+    },
+    {
+      "term": "cuento",
+      "pos": "m.",
+      "meaning": "故事"
+    },
+    {
+      "term": "encontrarse",
+      "pos": "prnl.",
+      "meaning": "处于……(状态)"
+    },
+    {
+      "term": "jugar",
+      "pos": "intr.",
+      "meaning": "游戏，玩耍"
+    },
+    {
+      "term": "calle",
+      "pos": "f.",
+      "meaning": "街道"
+    },
+    {
+      "term": "peligroso, sa",
+      "pos": "adj.",
+      "meaning": "危险的"
+    },
+    {
+      "term": "solución",
+      "pos": "f.",
+      "meaning": "解决，出路，办法"
+    },
+    {
+      "term": "televisión",
+      "pos": "f.",
+      "meaning": "电视"
+    },
+    {
+      "term": "programa",
+      "pos": "m.",
+      "meaning": "纲领；节目，日程"
+    },
+    {
+      "term": "televisor",
+      "pos": "m.",
+      "meaning": "电视机"
+    },
+    {
+      "term": "volumen",
+      "pos": "m.",
+      "meaning": "体积；音量"
+    },
+    {
+      "term": "jardín",
+      "pos": "m.",
+      "meaning": "花园"
+    },
+    {
+      "term": "regar",
+      "pos": "tr.",
+      "meaning": "浇灌"
+    },
+    {
+      "term": "barro",
+      "pos": "m.",
+      "meaning": "泥浆"
+    },
+    {
+      "term": "ensuciarse",
+      "pos": "prnl.",
+      "meaning": "弄脏"
+    },
+    {
+      "term": "lugar",
+      "pos": "m.",
+      "meaning": "地方"
+    },
+    {
+      "term": "ahora mismo",
+      "pos": "loc.adv.",
+      "meaning": "现在，马上"
+    },
+    {
+      "term": "estorbar",
+      "pos": "tr.",
+      "meaning": "碍事，妨碍"
+    },
+    {
+      "term": "mamá",
+      "pos": "f.",
+      "meaning": "妈妈"
+    },
+    {
+      "term": "variar",
+      "pos": "intr.",
+      "meaning": "变得不同"
+    },
+    {
+      "term": "según",
+      "pos": "prep.",
+      "meaning": "根据"
+    },
+    {
+      "term": "cultura",
+      "pos": "f.",
+      "meaning": "文化"
+    },
+    {
+      "term": "pueblo",
+      "pos": "m.",
+      "meaning": "人民"
+    },
+    {
+      "term": "comportamiento",
+      "pos": "m.",
+      "meaning": "行为举止"
+    },
+    {
+      "term": "considerar",
+      "pos": "tr.",
+      "meaning": "认为"
+    },
+    {
+      "term": "normal",
+      "pos": "adj.",
+      "meaning": "正常的"
+    },
+    {
+      "term": "resultar",
+      "pos": "intr.",
+      "meaning": "结果是……"
+    },
+    {
+      "term": "chocante",
+      "pos": "adj.",
+      "meaning": "令人奇怪的，让人不舒服的"
+    },
+    {
+      "term": "habla",
+      "pos": "f.",
+      "meaning": "说话，讲"
+    },
+    {
+      "term": "consejo",
+      "pos": "m.",
+      "meaning": "劝告，忠告"
+    },
+    {
+      "term": "confianza",
+      "pos": "f.",
+      "meaning": "信任"
+    },
+    {
+      "term": "de buenas a primeras",
+      "pos": "loc.adv.",
+      "meaning": "突兀，冒失"
+    },
+    {
+      "term": "salario",
+      "pos": "m.",
+      "meaning": "工资"
+    },
+    {
+      "term": "casar(se)",
+      "pos": "tr.;prnl.",
+      "meaning": "结婚"
+    },
+    {
+      "term": "aspecto",
+      "pos": "m.",
+      "meaning": "样子，面貌；方面"
+    },
+    {
+      "term": "telefonear",
+      "pos": "tr.",
+      "meaning": "打电话"
+    },
+    {
+      "term": "elogiar",
+      "pos": "tr.",
+      "meaning": "夸奖"
+    },
+    {
+      "term": "en vez de",
+      "pos": "loc.adv.",
+      "meaning": "不……而……"
+    },
+    {
+      "term": "sencillamente",
+      "pos": "adv.",
+      "meaning": "就，仅仅"
+    },
+    {
+      "term": "limitarse",
+      "pos": "prnl.",
+      "meaning": "限于，只"
+    },
+    {
+      "term": "agradecer",
+      "pos": "tr.",
+      "meaning": "感谢"
+    },
+    {
+      "term": "enseguida",
+      "pos": "adv.",
+      "meaning": "马上，立即"
+    },
+    {
+      "term": "por el momento",
+      "pos": "loc.adv.",
+      "meaning": "暂时，眼下"
+    },
+    {
+      "term": "olvidar(se)",
+      "pos": "tr.;prnl.",
+      "meaning": "忘记"
+    },
+    {
+      "term": "evitar",
+      "pos": "tr.",
+      "meaning": "避免"
+    },
+    {
+      "term": "deber",
+      "pos": "tr.",
+      "meaning": "应当；应该，想必"
+    },
+    {
+      "term": "advertencia",
+      "pos": "f.",
+      "meaning": "警告，提醒"
+    },
+    {
+      "term": "guía",
+      "pos": "m.,f.",
+      "meaning": "导游"
+    },
+    {
+      "term": "furgoneta",
+      "pos": "f.",
+      "meaning": "旅行车"
+    },
+    {
+      "term": "acercar(se)",
+      "pos": "tr.;prnl.",
+      "meaning": "使接近；靠近"
+    },
+    {
+      "term": "parque",
+      "pos": "m.",
+      "meaning": "公园"
+    },
+    {
+      "term": "natural",
+      "pos": "adj.",
+      "meaning": "自然的，天然的"
+    },
+    {
+      "term": "africano, na",
+      "pos": "adj.-s.",
+      "meaning": "非洲的；非洲人"
+    },
+    {
+      "term": "grupo",
+      "pos": "m.",
+      "meaning": "团队，组"
+    },
+    {
+      "term": "fiera",
+      "pos": "f.",
+      "meaning": "野兽"
+    },
+    {
+      "term": "asomarse",
+      "pos": "prnl.",
+      "meaning": "探出身"
+    },
+    {
+      "term": "ventanilla",
+      "pos": "f.",
+      "meaning": "小窗口"
+    },
+    {
+      "term": "foto",
+      "pos": "f.",
+      "meaning": "照片"
+    },
+    {
+      "term": "dentro de",
+      "pos": "loc.adv.",
+      "meaning": "在里面"
+    },
+    {
+      "term": "detenerse",
+      "pos": "prnl.",
+      "meaning": "停住"
+    },
+    {
+      "term": "de vez en cuando",
+      "pos": "loc.adv.",
+      "meaning": "偶尔，不时"
+    },
+    {
+      "term": "observar",
+      "pos": "m.",
+      "meaning": "观察"
+    },
+    {
+      "term": "por ningún motivo",
+      "pos": "loc.adv.",
+      "meaning": "任何情况下不得"
+    },
+    {
+      "term": "ruido",
+      "pos": "m.",
+      "meaning": "嘈杂声，噪音"
+    },
+    {
+      "term": "ni mucho menos",
+      "pos": "loc.adv.",
+      "meaning": "更不要……"
+    },
+    {
+      "term": "asustar(se)",
+      "pos": "tr.;prnl.",
+      "meaning": "使害怕；害怕"
+    },
+    {
+      "term": "animal",
+      "pos": "m.",
+      "meaning": "动物"
+    },
+    {
+      "term": "enfurecer(se)",
+      "pos": "tr.;prnl.",
+      "meaning": "使愤怒；愤怒"
+    },
+    {
+      "term": "demasiado",
+      "pos": "adv.",
+      "meaning": "太，过于"
+    },
+    {
+      "term": "amenazar",
+      "pos": "tr.",
+      "meaning": "威胁"
+    },
+    {
+      "term": "proteger",
+      "pos": "tr.",
+      "meaning": "保护，保卫"
+    },
+    {
+      "term": "de ninguna manera",
+      "pos": "loc.adv.",
+      "meaning": "无论如何不要……"
+    },
+    {
+      "term": "arrojar",
+      "pos": "tr.",
+      "meaning": "抛，扔"
+    },
+    {
+      "term": "atravesar",
+      "pos": "tr.",
+      "meaning": "穿过"
+    },
+    {
+      "term": "león, na",
+      "pos": "m.,f.",
+      "meaning": "狮子"
+    },
+    {
+      "term": "hiena",
+      "pos": "f.",
+      "meaning": "鬣狗"
+    }
+  ]
+}
