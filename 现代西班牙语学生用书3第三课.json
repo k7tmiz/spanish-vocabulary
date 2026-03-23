@@ -4,409 +4,394 @@
   "language": "auto",
   "words": [
     {
-      "term": "#",
-      "pos": "",
-      "meaning": "现代西班牙语 (学生用书 3) - 第三课单词"
-    },
-    {
-      "term": "###",
-      "pos": "",
-      "meaning": "词汇表 (VOCABULARIO)"
-    },
-    {
-      "term": "|",
-      "pos": "",
-      "meaning": "西班牙语 | 词性 | 中文释义 |"
-    },
-    {
-      "term": "| **desierto, ta** |",
+      "term": "desierto, ta",
       "pos": "adj.",
-      "meaning": "| 荒无人烟的 |"
+      "meaning": "荒无人烟的"
     },
     {
-      "term": "| **inca** | m.,",
-      "pos": "f.",
-      "meaning": "| 印加人；印加王 |"
+      "term": "inca",
+      "pos": "m., f.",
+      "meaning": "印加人；印加王"
     },
     {
-      "term": "| **al encuentro de** | loc.",
-      "pos": "adv.",
-      "meaning": "| 迎面 |"
+      "term": "al encuentro de",
+      "pos": "loc. adv.",
+      "meaning": "迎面"
     },
     {
-      "term": "| **desarrollar** |",
+      "term": "desarrollar",
       "pos": "tr.",
-      "meaning": "| 发展 |"
+      "meaning": "发展"
     },
     {
-      "term": "| **convertir(se) (a)** | tr.,",
-      "pos": "prnl.",
-      "meaning": "| 使皈依；皈依 |"
+      "term": "convertir(se) (a)",
+      "pos": "tr., prnl.",
+      "meaning": "使皈依；皈依"
     },
     {
-      "term": "| **civilización** |",
+      "term": "civilización",
       "pos": "f.",
-      "meaning": "| 文明 |"
+      "meaning": "文明"
     },
     {
-      "term": "| **cristianismo** |",
+      "term": "cristianismo",
       "pos": "m.",
-      "meaning": "| 基督教 |"
+      "meaning": "基督教"
     },
     {
-      "term": "| **invasor, ra** | m.,",
-      "pos": "f.",
-      "meaning": "| 侵略者 |"
+      "term": "invasor, ra",
+      "pos": "m., f.",
+      "meaning": "侵略者"
     },
     {
-      "term": "| **Papa** |",
+      "term": "Papa",
       "pos": "m.",
-      "meaning": "| 教皇 |"
+      "meaning": "教皇"
     },
     {
-      "term": "| **superioridad** |",
+      "term": "superioridad",
       "pos": "f.",
-      "meaning": "| 优势 |"
+      "meaning": "优势"
     },
     {
-      "term": "| **loco, ca** | adj., s. |",
-      "pos": "",
-      "meaning": "疯狂；疯子 |"
+      "term": "loco, ca",
+      "pos": "adj., s.",
+      "meaning": "疯狂；疯子"
     },
     {
-      "term": "| **arma** |",
+      "term": "arma",
       "pos": "f.",
-      "meaning": "| 武器 |"
+      "meaning": "武器"
     },
     {
-      "term": "| **derecho** |",
+      "term": "derecho",
       "pos": "m.",
-      "meaning": "| 权利 |"
+      "meaning": "权利"
     },
     {
-      "term": "| **estrategia** |",
+      "term": "estrategia",
       "pos": "f.",
-      "meaning": "| 战略 |"
+      "meaning": "战略"
     },
     {
-      "term": "| **firmeza** |",
+      "term": "firmeza",
       "pos": "f.",
-      "meaning": "| (意志)坚定 |"
+      "meaning": "(意志)坚定"
     },
     {
-      "term": "| **intriga** |",
+      "term": "intriga",
       "pos": "f.",
-      "meaning": "| 诡计 |"
+      "meaning": "诡计"
     },
     {
-      "term": "| **amenaza** |",
+      "term": "amenaza",
       "pos": "f.",
-      "meaning": "| 威胁 |"
+      "meaning": "威胁"
     },
     {
-      "term": "| **traición** |",
+      "term": "traición",
       "pos": "f.",
-      "meaning": "| 背叛 |"
+      "meaning": "背叛"
     },
     {
-      "term": "| **dádiva** |",
+      "term": "dádiva",
       "pos": "f.",
-      "meaning": "| 礼品，馈赠 |"
+      "meaning": "礼品，馈赠"
     },
     {
-      "term": "| **conquistar** |",
+      "term": "conquistar",
       "pos": "tr.",
-      "meaning": "| 征服 |"
+      "meaning": "征服"
     },
     {
-      "term": "| **fuerza** |",
+      "term": "fuerza",
       "pos": "f.",
-      "meaning": "| 力量 |"
+      "meaning": "力量"
     },
     {
-      "term": "| **someter(se)** | tr.,",
-      "pos": "prnl.",
-      "meaning": "| 使屈服；屈服 |"
+      "term": "someter(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使屈服；屈服"
     },
     {
-      "term": "| **por sorpresa** | loc.",
-      "pos": "adv.",
-      "meaning": "| 猝不及防地 |"
+      "term": "por sorpresa",
+      "pos": "loc. adv.",
+      "meaning": "猝不及防地"
     },
     {
-      "term": "| **destruir** |",
+      "term": "destruir",
       "pos": "tr.",
-      "meaning": "| 破坏，毁坏 |"
+      "meaning": "破坏，毁坏"
     },
     {
-      "term": "| **gracias a** | loc.",
-      "pos": "adv.",
-      "meaning": "| 由于 |"
+      "term": "gracias a",
+      "pos": "loc. adv.",
+      "meaning": "由于"
     },
     {
-      "term": "| **en lo esencial** | loc.",
-      "pos": "adv.",
-      "meaning": "| 本质上，基本上 |"
+      "term": "en lo esencial",
+      "pos": "loc. adv.",
+      "meaning": "本质上，基本上"
     },
     {
-      "term": "| **hacer prisionero** | perif. verb. |",
-      "pos": "",
-      "meaning": "俘虏 |"
+      "term": "hacer prisionero",
+      "pos": "perif. verb.",
+      "meaning": "俘虏"
     },
     {
-      "term": "| **político, ca** | adj., s. |",
-      "pos": "",
-      "meaning": "政治的；政治家 |"
+      "term": "político, ca",
+      "pos": "adj., s.",
+      "meaning": "政治的；政治家"
     },
     {
-      "term": "| **cuarto** |",
+      "term": "cuarto",
       "pos": "m.",
-      "meaning": "| 房间 |"
+      "meaning": "房间"
     },
     {
-      "term": "| **he aquí** | |",
+      "term": "he aquí",
       "pos": "",
-      "meaning": "下面就是 |"
+      "meaning": "下面就是"
     },
     {
-      "term": "| **metal** |",
+      "term": "metal",
       "pos": "m.",
-      "meaning": "| 金属 |"
+      "meaning": "金属"
     },
     {
-      "term": "| **episodio** |",
+      "term": "episodio",
       "pos": "m.",
-      "meaning": "| 轶事 |"
+      "meaning": "轶事"
     },
     {
-      "term": "| **libertad** |",
+      "term": "libertad",
       "pos": "f.",
-      "meaning": "| 自由 |"
+      "meaning": "自由"
     },
     {
-      "term": "| **denominar** |",
+      "term": "denominar",
       "pos": "tr.",
-      "meaning": "| 命名 |"
+      "meaning": "命名"
     },
     {
-      "term": "| **de seguro** | loc.",
-      "pos": "adv.",
-      "meaning": "| 肯定，一定 |"
+      "term": "de seguro",
+      "pos": "loc. adv.",
+      "meaning": "肯定，一定"
     },
     {
-      "term": "| **conquista** |",
+      "term": "conquista",
       "pos": "f.",
-      "meaning": "| 征服 |"
+      "meaning": "征服"
     },
     {
-      "term": "| **rebelión** |",
+      "term": "rebelión",
       "pos": "f.",
-      "meaning": "| 叛乱，起义 |"
+      "meaning": "叛乱，起义"
     },
     {
-      "term": "| **emperador, atriz** | m.,",
-      "pos": "f.",
-      "meaning": "| 皇帝，皇后 |"
+      "term": "emperador, atriz",
+      "pos": "m., f.",
+      "meaning": "皇帝，皇后"
     },
     {
-      "term": "| **mestizaje** |",
+      "term": "mestizaje",
       "pos": "m.",
-      "meaning": "| 混血；杂交；融合，混合 |"
+      "meaning": "混血；杂交；融合，混合"
     },
     {
-      "term": "| **campamento** |",
+      "term": "campamento",
       "pos": "m.",
-      "meaning": "| 军营 |"
+      "meaning": "军营"
     },
     {
-      "term": "| **extraño, ña** |",
+      "term": "extraño, ña",
       "pos": "adj.",
-      "meaning": "| 奇怪的 |"
+      "meaning": "奇怪的"
     },
     {
-      "term": "| **establecerse** |",
+      "term": "establecerse",
       "pos": "prnl.",
-      "meaning": "| 定居 |"
+      "meaning": "定居"
     },
     {
-      "term": "| **Nuevo Mundo** | |",
+      "term": "Nuevo Mundo",
       "pos": "",
-      "meaning": "新世界，新大陆 |"
+      "meaning": "新世界，新大陆"
     },
     {
-      "term": "| **derribar** |",
+      "term": "derribar",
       "pos": "tr.",
-      "meaning": "| 推倒 |"
+      "meaning": "推倒"
     },
     {
-      "term": "| **ley** |",
+      "term": "ley",
       "pos": "f.",
-      "meaning": "| 法律 |"
+      "meaning": "法律"
     },
     {
-      "term": "| **temor** |",
+      "term": "temor",
       "pos": "m.",
-      "meaning": "| 害怕 |"
+      "meaning": "害怕"
     },
     {
-      "term": "| **afectar** |",
+      "term": "afectar",
       "pos": "tr.",
-      "meaning": "| 波及，影响 |"
+      "meaning": "波及，影响"
     },
     {
-      "term": "| **permanecer** |",
+      "term": "permanecer",
       "pos": "intr.",
-      "meaning": "| 处在，保持……状态 |"
+      "meaning": "处在，保持……状态"
     },
     {
-      "term": "| **violencia** |",
+      "term": "violencia",
       "pos": "f.",
-      "meaning": "| 暴力 |"
+      "meaning": "暴力"
     },
     {
-      "term": "| **sereno, na** |",
+      "term": "sereno, na",
       "pos": "adj.",
-      "meaning": "| 镇静的 |"
+      "meaning": "镇静的"
     },
     {
-      "term": "| **destrucción** |",
+      "term": "destrucción",
       "pos": "f.",
-      "meaning": "| 摧毁 |"
+      "meaning": "摧毁"
     },
     {
-      "term": "| **visitante** | m.,",
+      "term": "visitante",
+      "pos": "m., f.",
+      "meaning": "来访者"
+    },
+    {
+      "term": "masacre",
       "pos": "f.",
-      "meaning": "| 来访者 |"
+      "meaning": "(大规模)屠杀"
     },
     {
-      "term": "| **masacre** |",
+      "term": "mensajero, ra",
+      "pos": "m., f.",
+      "meaning": "使者，送信人"
+    },
+    {
+      "term": "por completo",
+      "pos": "loc. adv.",
+      "meaning": "完全，彻底"
+    },
+    {
+      "term": "señal",
       "pos": "f.",
-      "meaning": "| (大规模)屠杀 |"
+      "meaning": "信号"
     },
     {
-      "term": "| **mensajero, ra** | m.,",
-      "pos": "f.",
-      "meaning": "| 使者，送信人 |"
+      "term": "conquistador, ra",
+      "pos": "m., f.",
+      "meaning": "征服者"
     },
     {
-      "term": "| **por completo** | loc.",
-      "pos": "adv.",
-      "meaning": "| 完全，彻底 |"
-    },
-    {
-      "term": "| **señal** |",
-      "pos": "f.",
-      "meaning": "| 信号 |"
-    },
-    {
-      "term": "| **conquistador, ra**| m.,",
-      "pos": "f.",
-      "meaning": "| 征服者 |"
-    },
-    {
-      "term": "| **suprimir** |",
+      "term": "suprimir",
       "pos": "tr.",
-      "meaning": "| 取消，删除 |"
+      "meaning": "取消，删除"
     },
     {
-      "term": "| **de un plumazo** | loc.",
-      "pos": "adv.",
-      "meaning": "| 一笔，一下子 |"
+      "term": "de un plumazo",
+      "pos": "loc. adv.",
+      "meaning": "一笔，一下子"
     },
     {
-      "term": "| **vencer** |",
+      "term": "vencer",
       "pos": "tr.",
-      "meaning": "| 战胜 |"
+      "meaning": "战胜"
     },
     {
-      "term": "| **sobrevivir** |",
+      "term": "sobrevivir",
       "pos": "intr.",
-      "meaning": "| 劫后余生 |"
+      "meaning": "劫后余生"
     },
     {
-      "term": "| **verse obligado a** | perif. verb. |",
-      "pos": "",
-      "meaning": "被迫 |"
+      "term": "verse obligado a",
+      "pos": "perif. verb.",
+      "meaning": "被迫"
     },
     {
-      "term": "| **trampa** |",
+      "term": "trampa",
       "pos": "f.",
-      "meaning": "| 陷阱 |"
+      "meaning": "陷阱"
     },
     {
-      "term": "| **invitación** |",
+      "term": "invitación",
       "pos": "f.",
-      "meaning": "| 邀请，邀请函 |"
+      "meaning": "邀请，邀请函"
     },
     {
-      "term": "| **encuentro** |",
+      "term": "encuentro",
       "pos": "m.",
-      "meaning": "| 会面，相会 |"
+      "meaning": "会面，相会"
     },
     {
-      "term": "| **fusión** |",
+      "term": "fusión",
       "pos": "f.",
-      "meaning": "| 融化；合并 |"
+      "meaning": "融化；合并"
     },
     {
-      "term": "| **ponerse en camino**| perif. verb. |",
-      "pos": "",
-      "meaning": "上路 |"
+      "term": "ponerse en camino",
+      "pos": "perif. verb.",
+      "meaning": "上路"
     },
     {
-      "term": "| **mestizo, za** |",
+      "term": "mestizo, za",
       "pos": "adj.",
-      "meaning": "| 混血的；杂交的 |"
+      "meaning": "混血的；杂交的"
     },
     {
-      "term": "| **amenazar** |",
+      "term": "amenazar",
       "pos": "tr.",
-      "meaning": "| 威胁 |"
+      "meaning": "威胁"
     },
     {
-      "term": "| **serenidad** |",
+      "term": "serenidad",
       "pos": "f.",
-      "meaning": "| 平静，镇定 |"
+      "meaning": "平静，镇定"
     },
     {
-      "term": "| **firme** |",
+      "term": "firme",
       "pos": "adj.",
-      "meaning": "| 坚定的 |"
+      "meaning": "坚定的"
     },
     {
-      "term": "| **traicionar** |",
+      "term": "traicionar",
       "pos": "tr.",
-      "meaning": "| 背叛 |"
+      "meaning": "背叛"
     },
     {
-      "term": "| **invadir** |",
+      "term": "invadir",
       "pos": "tr.",
-      "meaning": "| 侵略 |"
+      "meaning": "侵略"
     },
     {
-      "term": "| **traidor, ra** | m.,",
+      "term": "traidor, ra",
+      "pos": "m., f.",
+      "meaning": "叛徒"
+    },
+    {
+      "term": "locura",
       "pos": "f.",
-      "meaning": "| 叛徒 |"
+      "meaning": "疯狂，疯癫"
     },
     {
-      "term": "| **locura** |",
-      "pos": "f.",
-      "meaning": "| 疯狂，疯癫 |"
-    },
-    {
-      "term": "| **uso** |",
+      "term": "uso",
       "pos": "m.",
-      "meaning": "| 使用 |"
+      "meaning": "使用"
     },
     {
-      "term": "* **Hernando de",
+      "term": "Hernando de Soto",
       "pos": "",
-      "meaning": "Soto**：埃尔南多·德索托"
+      "meaning": "埃尔南多·德索托"
     },
     {
-      "term": "* **Francisco",
+      "term": "Francisco Pizarro",
       "pos": "",
-      "meaning": "Pizarro**：佛朗西斯科·皮萨罗"
+      "meaning": "佛朗西斯科·皮萨罗"
     }
   ]
 }
