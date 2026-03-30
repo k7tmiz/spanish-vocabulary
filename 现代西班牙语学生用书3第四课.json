@@ -1,0 +1,367 @@
+{
+  "name": "现代西班牙语学生用书3第四课",
+  "description": "",
+  "language": "auto",
+  "words": [
+    {
+      "term": "arca",
+      "pos": "f.",
+      "meaning": "方舟"
+    },
+    {
+      "term": "Biblia",
+      "pos": "f.",
+      "meaning": "圣经"
+    },
+    {
+      "term": "Dios",
+      "pos": "m.",
+      "meaning": "上帝，神"
+    },
+    {
+      "term": "infinidad",
+      "pos": "f.",
+      "meaning": "无数，大量"
+    },
+    {
+      "term": "hecho",
+      "pos": "m.",
+      "meaning": "事实，事件"
+    },
+    {
+      "term": "final",
+      "pos": "m.",
+      "meaning": "结尾，最后"
+    },
+    {
+      "term": "leyenda",
+      "pos": "f.",
+      "meaning": "传说，神话"
+    },
+    {
+      "term": "capítulo",
+      "pos": "m.",
+      "meaning": "章，节，回"
+    },
+    {
+      "term": "titular",
+      "pos": "tr.",
+      "meaning": "以...为题，做标题"
+    },
+    {
+      "term": "Génesis",
+      "pos": "f.",
+      "meaning": "创世纪"
+    },
+    {
+      "term": "mortificar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使苦恼；感到苦恼"
+    },
+    {
+      "term": "comportamiento",
+      "pos": "m.",
+      "meaning": "行为，举止"
+    },
+    {
+      "term": "humano, na",
+      "pos": "adj.",
+      "meaning": "人类的"
+    },
+    {
+      "term": "crear",
+      "pos": "tr.",
+      "meaning": "创造，创作"
+    },
+    {
+      "term": "recto, ta",
+      "pos": "adj.",
+      "meaning": "正直的"
+    },
+    {
+      "term": "estimar",
+      "pos": "tr.",
+      "meaning": "估价，评价，尊重"
+    },
+    {
+      "term": "maldad",
+      "pos": "f.",
+      "meaning": "邪恶，罪恶"
+    },
+    {
+      "term": "salvación",
+      "pos": "f.",
+      "meaning": "拯救，救赎"
+    },
+    {
+      "term": "pertenencia",
+      "pos": "f.",
+      "meaning": "财产，归属"
+    },
+    {
+      "term": "construir",
+      "pos": "tr.",
+      "meaning": "建造，建设"
+    },
+    {
+      "term": "listo, ta",
+      "pos": "adj.",
+      "meaning": "准备好的，聪明的"
+    },
+    {
+      "term": "diluvio",
+      "pos": "m.",
+      "meaning": "洪水"
+    },
+    {
+      "term": "arena",
+      "pos": "f.",
+      "meaning": "沙子"
+    },
+    {
+      "term": "desierto",
+      "pos": "m.",
+      "meaning": "沙漠"
+    },
+    {
+      "term": "a bordo",
+      "pos": "loc. adv.",
+      "meaning": "在船上"
+    },
+    {
+      "term": "Noé",
+      "pos": "m.",
+      "meaning": "诺亚"
+    },
+    {
+      "term": "macho",
+      "pos": "adj., m.",
+      "meaning": "公的，雄的；雄性"
+    },
+    {
+      "term": "hembra",
+      "pos": "adj., f.",
+      "meaning": "母的，雌的；雌性"
+    },
+    {
+      "term": "gigantesco, ca",
+      "pos": "adj.",
+      "meaning": "巨大的，庞大的"
+    },
+    {
+      "term": "embarcación",
+      "pos": "f.",
+      "meaning": "船舶"
+    },
+    {
+      "term": "torrencial",
+      "pos": "adj.",
+      "meaning": "湍急的，猛烈的"
+    },
+    {
+      "term": "crecer",
+      "pos": "intr.",
+      "meaning": "成长；涨高"
+    },
+    {
+      "term": "flotar",
+      "pos": "intr.",
+      "meaning": "漂浮，漂流"
+    },
+    {
+      "term": "monte",
+      "pos": "m.",
+      "meaning": "山"
+    },
+    {
+      "term": "inundación",
+      "pos": "f.",
+      "meaning": "洪水，水灾"
+    },
+    {
+      "term": "disminuir",
+      "pos": "tr., intr.",
+      "meaning": "减小，缩小"
+    },
+    {
+      "term": "soltar",
+      "pos": "tr.",
+      "meaning": "放开，放松"
+    },
+    {
+      "term": "paloma",
+      "pos": "f.",
+      "meaning": "鸽子"
+    },
+    {
+      "term": "explorar",
+      "pos": "tr.",
+      "meaning": "探索，考察"
+    },
+    {
+      "term": "asentarse",
+      "pos": "prnl.",
+      "meaning": "定居，安顿"
+    },
+    {
+      "term": "olivo",
+      "pos": "m.",
+      "meaning": "橄榄树"
+    },
+    {
+      "term": "a la vista",
+      "pos": "loc. adv.",
+      "meaning": "在眼前，看得见"
+    },
+    {
+      "term": "copa",
+      "pos": "f.",
+      "meaning": "树冠，酒杯"
+    },
+    {
+      "term": "pisar",
+      "pos": "tr.",
+      "meaning": "踏，踩，践踏"
+    },
+    {
+      "term": "multiplicar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "增加；繁殖"
+    },
+    {
+      "term": "surgir",
+      "pos": "intr.",
+      "meaning": "出现，涌现"
+    },
+    {
+      "term": "componente",
+      "pos": "m.",
+      "meaning": "成分，部分"
+    },
+    {
+      "term": "grecorromano, na",
+      "pos": "adj.",
+      "meaning": "希腊罗马的"
+    },
+    {
+      "term": "judeocristiano, na",
+      "pos": "adj.",
+      "meaning": "犹太基督教的"
+    },
+    {
+      "term": "fallar",
+      "pos": "intr.",
+      "meaning": "落空，失败"
+    },
+    {
+      "term": "memoria",
+      "pos": "f.",
+      "meaning": "记忆"
+    },
+    {
+      "term": "positivista",
+      "pos": "adj.",
+      "meaning": "实证的，实证主义的"
+    },
+    {
+      "term": "punta",
+      "pos": "f.",
+      "meaning": "尖，顶端"
+    },
+    {
+      "term": "judaísmo",
+      "pos": "m.",
+      "meaning": "犹太教"
+    },
+    {
+      "term": "equivocarse",
+      "pos": "prnl.",
+      "meaning": "搞错，弄错"
+    },
+    {
+      "term": "judío, a",
+      "pos": "m., f., adj.",
+      "meaning": "犹太人；犹太人的"
+    },
+    {
+      "term": "musulmán, na",
+      "pos": "m., f., adj.",
+      "meaning": "伊斯兰教徒；伊斯兰教的"
+    },
+    {
+      "term": "catolicismo",
+      "pos": "m.",
+      "meaning": "天主教"
+    },
+    {
+      "term": "islamismo",
+      "pos": "m.",
+      "meaning": "伊斯兰教"
+    },
+    {
+      "term": "primitivo, va",
+      "pos": "adj.",
+      "meaning": "原始的"
+    },
+    {
+      "term": "sagrado, da",
+      "pos": "adj.",
+      "meaning": "神圣的"
+    },
+    {
+      "term": "Antiguo Testamento",
+      "pos": "m.",
+      "meaning": "《旧约全书》"
+    },
+    {
+      "term": "recopilación",
+      "pos": "f.",
+      "meaning": "汇编，收集"
+    },
+    {
+      "term": "Nuevo Testamento",
+      "pos": "m.",
+      "meaning": "《新约全书》"
+    },
+    {
+      "term": "bíblico, ca",
+      "pos": "adj.",
+      "meaning": "圣经的"
+    },
+    {
+      "term": "comportarse",
+      "pos": "prnl.",
+      "meaning": "表现，行为举止"
+    },
+    {
+      "term": "construcción",
+      "pos": "f.",
+      "meaning": "建造，建筑"
+    },
+    {
+      "term": "creación",
+      "pos": "f.",
+      "meaning": "创造，作品"
+    },
+    {
+      "term": "exploración",
+      "pos": "f.",
+      "meaning": "探索，考察"
+    },
+    {
+      "term": "humanidad",
+      "pos": "f.",
+      "meaning": "人类，人性"
+    },
+    {
+      "term": "inundar",
+      "pos": "tr.",
+      "meaning": "淹没，泛滥"
+    },
+    {
+      "term": "Jesucristo",
+      "pos": "m.",
+      "meaning": "耶稣基督"
+    }
+  ]
+}
