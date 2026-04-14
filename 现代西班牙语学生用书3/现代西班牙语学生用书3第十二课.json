@@ -1,0 +1,367 @@
+{
+  "name": "现代西班牙语学生用书3第十二课",
+  "description": "现代西班牙语学生用书3第十二课",
+  "language": "es",
+  "words": [
+    {
+      "term": "Egipto",
+      "pos": "",
+      "meaning": "埃及"
+    },
+    {
+      "term": "Esfinge",
+      "pos": "f.",
+      "meaning": "狮身人面像"
+    },
+    {
+      "term": "película",
+      "pos": "f.",
+      "meaning": "电影；胶片"
+    },
+    {
+      "term": "valle",
+      "pos": "m.",
+      "meaning": "河谷，山谷"
+    },
+    {
+      "term": "el Nilo",
+      "pos": "",
+      "meaning": "尼罗河"
+    },
+    {
+      "term": "perfil",
+      "pos": "m.",
+      "meaning": "侧影；轮廓"
+    },
+    {
+      "term": "El Cairo",
+      "pos": "",
+      "meaning": "开罗"
+    },
+    {
+      "term": "reiterar",
+      "pos": "tr.",
+      "meaning": "重申，重做"
+    },
+    {
+      "term": "antigüedad",
+      "pos": "f.",
+      "meaning": "古代"
+    },
+    {
+      "term": "medir",
+      "pos": "tr., intr.",
+      "meaning": "度量；（长短、大小）尺寸是"
+    },
+    {
+      "term": "altura",
+      "pos": "f.",
+      "meaning": "高度"
+    },
+    {
+      "term": "deterioro",
+      "pos": "m.",
+      "meaning": "损坏，破损"
+    },
+    {
+      "term": "longitud",
+      "pos": "f.",
+      "meaning": "长度"
+    },
+    {
+      "term": "coloso",
+      "pos": "m.",
+      "meaning": "庞然大物，巨人"
+    },
+    {
+      "term": "rudimentario, ria",
+      "pos": "adj.",
+      "meaning": "简陋的"
+    },
+    {
+      "term": "edificar",
+      "pos": "tr.",
+      "meaning": "建造"
+    },
+    {
+      "term": "a la vez",
+      "pos": "loc. adv.",
+      "meaning": "同时"
+    },
+    {
+      "term": "renovar",
+      "pos": "tr.",
+      "meaning": "更新"
+    },
+    {
+      "term": "turno",
+      "pos": "m.",
+      "meaning": "轮班"
+    },
+    {
+      "term": "contingente",
+      "pos": "m.",
+      "meaning": "组，团队"
+    },
+    {
+      "term": "edificación",
+      "pos": "f.",
+      "meaning": "建造；建筑物"
+    },
+    {
+      "term": "tumba",
+      "pos": "f.",
+      "meaning": "坟墓"
+    },
+    {
+      "term": "enterrar",
+      "pos": "tr.",
+      "meaning": "埋，埋葬"
+    },
+    {
+      "term": "faraón",
+      "pos": "m.",
+      "meaning": "法老"
+    },
+    {
+      "term": "momia",
+      "pos": "f.",
+      "meaning": "木乃伊"
+    },
+    {
+      "term": "eternidad",
+      "pos": "f.",
+      "meaning": "永恒"
+    },
+    {
+      "term": "punto de vista",
+      "pos": "m.",
+      "meaning": "观点"
+    },
+    {
+      "term": "perpetuar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使永存；永存"
+    },
+    {
+      "term": "monumental",
+      "pos": "adj.",
+      "meaning": "巨大的，宏伟的"
+    },
+    {
+      "term": "ingenio",
+      "pos": "m.",
+      "meaning": "才智"
+    },
+    {
+      "term": "esplendoroso, sa",
+      "pos": "adj.",
+      "meaning": "光辉灿烂的"
+    },
+    {
+      "term": "restos",
+      "pos": "m. pl.",
+      "meaning": "遗骸，遗骨"
+    },
+    {
+      "term": "desprovisto, ta",
+      "pos": "p.p.",
+      "meaning": "被剥夺，缺乏"
+    },
+    {
+      "term": "grandeza",
+      "pos": "f.",
+      "meaning": "伟大，宏伟"
+    },
+    {
+      "term": "emerger",
+      "pos": "intr.",
+      "meaning": "露出（表面）"
+    },
+    {
+      "term": "misterioso, sa",
+      "pos": "adj.",
+      "meaning": "神秘的"
+    },
+    {
+      "term": "figura",
+      "pos": "f.",
+      "meaning": "外表，形象"
+    },
+    {
+      "term": "tallar",
+      "pos": "tr.",
+      "meaning": "雕刻"
+    },
+    {
+      "term": "inmenso, sa",
+      "pos": "adj.",
+      "meaning": "巨大的"
+    },
+    {
+      "term": "peñasco",
+      "pos": "m.",
+      "meaning": "巨石"
+    },
+    {
+      "term": "oreja",
+      "pos": "f.",
+      "meaning": "耳朵"
+    },
+    {
+      "term": "visible",
+      "pos": "adj.",
+      "meaning": "看得见的"
+    },
+    {
+      "term": "excavación",
+      "pos": "f.",
+      "meaning": "挖掘"
+    },
+    {
+      "term": "templete",
+      "pos": "m.",
+      "meaning": "小庙"
+    },
+    {
+      "term": "colocar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "放置；位于"
+    },
+    {
+      "term": "pecho",
+      "pos": "m.",
+      "meaning": "胸，胸部"
+    },
+    {
+      "term": "lomo",
+      "pos": "m.",
+      "meaning": "背脊"
+    },
+    {
+      "term": "imagen",
+      "pos": "f.",
+      "meaning": "造像，表征，形象"
+    },
+    {
+      "term": "personificar",
+      "pos": "tr.",
+      "meaning": "拟人化"
+    },
+    {
+      "term": "egipcio, cia",
+      "pos": "adj.-s.",
+      "meaning": "埃及的；埃及人"
+    },
+    {
+      "term": "transplantar",
+      "pos": "tr.",
+      "meaning": "移植"
+    },
+    {
+      "term": "alado, da",
+      "pos": "adj.",
+      "meaning": "有翅膀的"
+    },
+    {
+      "term": "monstruo, trua",
+      "pos": "m., f.",
+      "meaning": "妖魔，怪物"
+    },
+    {
+      "term": "apostar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使守候；守候"
+    },
+    {
+      "term": "enigma",
+      "pos": "m.",
+      "meaning": "谜，谜语"
+    },
+    {
+      "term": "caminante",
+      "pos": "m., f.",
+      "meaning": "行路人"
+    },
+    {
+      "term": "devorar",
+      "pos": "tr.",
+      "meaning": "吞食"
+    },
+    {
+      "term": "acertar",
+      "pos": "tr., intr.",
+      "meaning": "猜中；击中"
+    },
+    {
+      "term": "célebre",
+      "pos": "adj.",
+      "meaning": "著名的"
+    },
+    {
+      "term": "enfrentar",
+      "pos": "tr.",
+      "meaning": "面对，应对"
+    },
+    {
+      "term": "caminar",
+      "pos": "intr.",
+      "meaning": "行走，走路"
+    },
+    {
+      "term": "pata",
+      "pos": "f.",
+      "meaning": "蹄子，爪子"
+    },
+    {
+      "term": "dar con",
+      "pos": "perif. verb.",
+      "meaning": "找到"
+    },
+    {
+      "term": "clave",
+      "pos": "f.",
+      "meaning": "答案，谜底"
+    },
+    {
+      "term": "arrojar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "扔，投；纵身跳"
+    },
+    {
+      "term": "material",
+      "pos": "m.",
+      "meaning": "材料，资料"
+    },
+    {
+      "term": "archivar",
+      "pos": "tr.",
+      "meaning": "归档，存档"
+    },
+    {
+      "term": "USB",
+      "pos": "m.",
+      "meaning": "优盘"
+    },
+    {
+      "term": "copiar",
+      "pos": "tr.",
+      "meaning": "抄写；复制"
+    },
+    {
+      "term": "presionar",
+      "pos": "tr.",
+      "meaning": "施加压力"
+    },
+    {
+      "term": "imprimir",
+      "pos": "tr.",
+      "meaning": "刷印"
+    },
+    {
+      "term": "común y corriente",
+      "pos": "loc. adj.",
+      "meaning": "普通的"
+    }
+  ]
+}

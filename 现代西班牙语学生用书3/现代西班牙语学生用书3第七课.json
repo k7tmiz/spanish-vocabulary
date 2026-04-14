@@ -1,0 +1,407 @@
+{
+  "name": "现代西班牙语学生用书3第七课",
+  "description": "现代西班牙语学生用书3第七课",
+  "language": "es",
+  "words": [
+    {
+      "term": "conocedor, ra",
+      "pos": "m., f.",
+      "meaning": "知情者"
+    },
+    {
+      "term": "especializarse",
+      "pos": "prnl.",
+      "meaning": "以……为专业，擅长"
+    },
+    {
+      "term": "representar",
+      "pos": "tr.",
+      "meaning": "代表"
+    },
+    {
+      "term": "tortilla",
+      "pos": "f.",
+      "meaning": "薄饼"
+    },
+    {
+      "term": "taco",
+      "pos": "m. (Mex.)",
+      "meaning": "玉米饼（墨西哥）"
+    },
+    {
+      "term": "circular",
+      "pos": "adj.",
+      "meaning": "圆形的"
+    },
+    {
+      "term": "envolver",
+      "pos": "tr.",
+      "meaning": "包，裹"
+    },
+    {
+      "term": "freír",
+      "pos": "tr.",
+      "meaning": "炸，煎"
+    },
+    {
+      "term": "picar",
+      "pos": "tr.",
+      "meaning": "切碎"
+    },
+    {
+      "term": "legumbre",
+      "pos": "f.",
+      "meaning": "豆科蔬菜；蔬菜"
+    },
+    {
+      "term": "preparado",
+      "pos": "m.",
+      "meaning": "佐料"
+    },
+    {
+      "term": "mixto, ta",
+      "pos": "adj.",
+      "meaning": "混合的"
+    },
+    {
+      "term": "compromiso",
+      "pos": "m.",
+      "meaning": "约会；义务"
+    },
+    {
+      "term": "producto",
+      "pos": "m.",
+      "meaning": "产品"
+    },
+    {
+      "term": "alimenticio, cia",
+      "pos": "adj.",
+      "meaning": "食品的"
+    },
+    {
+      "term": "comestible",
+      "pos": "adj., m.",
+      "meaning": "可食用的；食品"
+    },
+    {
+      "term": "menú",
+      "pos": "m.",
+      "meaning": "菜单"
+    },
+    {
+      "term": "cotidiano, na",
+      "pos": "adj.",
+      "meaning": "日常的"
+    },
+    {
+      "term": "provenir",
+      "pos": "intr.",
+      "meaning": "来自"
+    },
+    {
+      "term": "de veras",
+      "pos": "loc. adv.",
+      "meaning": "真的"
+    },
+    {
+      "term": "originario, ria",
+      "pos": "adj.",
+      "meaning": "源自，来自"
+    },
+    {
+      "term": "Centroamérica",
+      "pos": "",
+      "meaning": "中美洲"
+    },
+    {
+      "term": "nutritivo, va",
+      "pos": "adj.",
+      "meaning": "营养的"
+    },
+    {
+      "term": "variedad",
+      "pos": "f.",
+      "meaning": "多种多样，品种"
+    },
+    {
+      "term": "papa",
+      "pos": "f.",
+      "meaning": "土豆"
+    },
+    {
+      "term": "patata",
+      "pos": "f.",
+      "meaning": "土豆"
+    },
+    {
+      "term": "aportar",
+      "pos": "tr.",
+      "meaning": "提供，贡献"
+    },
+    {
+      "term": "andino, na",
+      "pos": "adj.",
+      "meaning": "安第斯山的"
+    },
+    {
+      "term": "Galicia",
+      "pos": "",
+      "meaning": "加利西亚"
+    },
+    {
+      "term": "Irlanda",
+      "pos": "",
+      "meaning": "爱尔兰"
+    },
+    {
+      "term": "hambruna",
+      "pos": "f.",
+      "meaning": "大饥荒"
+    },
+    {
+      "term": "determinante",
+      "pos": "adj.",
+      "meaning": "决定性的"
+    },
+    {
+      "term": "ola",
+      "pos": "f.",
+      "meaning": "浪，浪潮"
+    },
+    {
+      "term": "migratorio, ria",
+      "pos": "adj.",
+      "meaning": "移民的"
+    },
+    {
+      "term": "ascendencia",
+      "pos": "f.",
+      "meaning": "祖先"
+    },
+    {
+      "term": "gallego, ga",
+      "pos": "adj.-s.",
+      "meaning": "加利西亚的；加利西亚人"
+    },
+    {
+      "term": "norteamericano, na",
+      "pos": "adj.-s.",
+      "meaning": "美国的；美国人"
+    },
+    {
+      "term": "irlandés, sa",
+      "pos": "adj.-s.",
+      "meaning": "爱尔兰的；爱尔兰人"
+    },
+    {
+      "term": "por lo visto",
+      "pos": "loc. adv.",
+      "meaning": "看来"
+    },
+    {
+      "term": "adaptar",
+      "pos": "tr.",
+      "meaning": "使适应；改编"
+    },
+    {
+      "term": "proveniente",
+      "pos": "adj.",
+      "meaning": "来自……的"
+    },
+    {
+      "term": "tomate",
+      "pos": "m.",
+      "meaning": "西红柿"
+    },
+    {
+      "term": "mencionar",
+      "pos": "tr.",
+      "meaning": "提及"
+    },
+    {
+      "term": "chocolate",
+      "pos": "m.",
+      "meaning": "巧克力"
+    },
+    {
+      "term": "cacao",
+      "pos": "m.",
+      "meaning": "可可"
+    },
+    {
+      "term": "grano",
+      "pos": "m.",
+      "meaning": "谷物；颗粒"
+    },
+    {
+      "term": "moneda",
+      "pos": "f.",
+      "meaning": "货币，硬币"
+    },
+    {
+      "term": "aporte",
+      "pos": "m.",
+      "meaning": "贡献"
+    },
+    {
+      "term": "negativo, va",
+      "pos": "adj.",
+      "meaning": "负面的，否定的"
+    },
+    {
+      "term": "difusión",
+      "pos": "f.",
+      "meaning": "传播"
+    },
+    {
+      "term": "pernicioso, sa",
+      "pos": "adj.",
+      "meaning": "有害的"
+    },
+    {
+      "term": "tabaco",
+      "pos": "m.",
+      "meaning": "烟草"
+    },
+    {
+      "term": "alimentación",
+      "pos": "f.",
+      "meaning": "饮食"
+    },
+    {
+      "term": "subsistir",
+      "pos": "intr.",
+      "meaning": "生存"
+    },
+    {
+      "term": "alimentarse",
+      "pos": "prnl.",
+      "meaning": "进食，摄取营养"
+    },
+    {
+      "term": "ingerirse",
+      "pos": "prnl.",
+      "meaning": "吃进，摄入"
+    },
+    {
+      "term": "extraerse",
+      "pos": "prnl.",
+      "meaning": "取出"
+    },
+    {
+      "term": "sustancia",
+      "pos": "f.",
+      "meaning": "物质"
+    },
+    {
+      "term": "reparar",
+      "pos": "tr.",
+      "meaning": "修理，弥补"
+    },
+    {
+      "term": "desgaste",
+      "pos": "m.",
+      "meaning": "损耗，消耗"
+    },
+    {
+      "term": "órgano",
+      "pos": "m.",
+      "meaning": "器官"
+    },
+    {
+      "term": "energía",
+      "pos": "f.",
+      "meaning": "能量"
+    },
+    {
+      "term": "elemental",
+      "pos": "adj.",
+      "meaning": "基本的"
+    },
+    {
+      "term": "nutrición",
+      "pos": "f.",
+      "meaning": "营养"
+    },
+    {
+      "term": "reproducción",
+      "pos": "f.",
+      "meaning": "繁殖"
+    },
+    {
+      "term": "relación",
+      "pos": "f.",
+      "meaning": "交际，交往"
+    },
+    {
+      "term": "a diferencia de",
+      "pos": "loc. adv.",
+      "meaning": "与……不同"
+    },
+    {
+      "term": "materia prima",
+      "pos": "loc. adj.",
+      "meaning": "原料"
+    },
+    {
+      "term": "proceso",
+      "pos": "m.",
+      "meaning": "步骤，过程"
+    },
+    {
+      "term": "aceleramiento",
+      "pos": "m.",
+      "meaning": "加速"
+    },
+    {
+      "term": "demanda",
+      "pos": "f.",
+      "meaning": "需求"
+    },
+    {
+      "term": "industrialmente",
+      "pos": "adv.",
+      "meaning": "工业方面地"
+    },
+    {
+      "term": "en lata",
+      "pos": "loc. adj.",
+      "meaning": "罐装的"
+    },
+    {
+      "term": "máximo",
+      "pos": "m.",
+      "meaning": "最大，极致"
+    },
+    {
+      "term": "provecho",
+      "pos": "m.",
+      "meaning": "收益"
+    },
+    {
+      "term": "modalidad",
+      "pos": "f.",
+      "meaning": "方式，样式"
+    },
+    {
+      "term": "a la carta",
+      "pos": "loc. adv.",
+      "meaning": "点菜；定制"
+    },
+    {
+      "term": "en forma de",
+      "pos": "loc. adv.",
+      "meaning": "以……方式"
+    },
+    {
+      "term": "buffet",
+      "pos": "loc. adj.",
+      "meaning": "自助餐"
+    },
+    {
+      "term": "auto-",
+      "pos": "",
+      "meaning": "自我"
+    }
+  ]
+}

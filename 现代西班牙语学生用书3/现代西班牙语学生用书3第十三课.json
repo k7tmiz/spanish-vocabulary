@@ -1,0 +1,377 @@
+{
+  "name": "现代西班牙语学生用书3第十三课",
+  "description": "现代西班牙语学生用书3第十三课",
+  "language": "es",
+  "words": [
+    {
+      "term": "instruido, da",
+      "pos": "adj.",
+      "meaning": "受过教育的"
+    },
+    {
+      "term": "boom",
+      "pos": "m. (ingl.)",
+      "meaning": "爆炸；繁荣"
+    },
+    {
+      "term": "realismo mágico",
+      "pos": "",
+      "meaning": "魔幻现实主义"
+    },
+    {
+      "term": "relativamente",
+      "pos": "adv.",
+      "meaning": "相对地"
+    },
+    {
+      "term": "variante",
+      "pos": "f.",
+      "meaning": "变体"
+    },
+    {
+      "term": "acusado, da",
+      "pos": "adj.",
+      "meaning": "明显的"
+    },
+    {
+      "term": "a fines de",
+      "pos": "loc. adv.",
+      "meaning": "在……末期"
+    },
+    {
+      "term": "originalidad",
+      "pos": "f.",
+      "meaning": "独特性，新颖性"
+    },
+    {
+      "term": "huella",
+      "pos": "f.",
+      "meaning": "足迹；印记"
+    },
+    {
+      "term": "letras",
+      "pos": "f. pl.",
+      "meaning": "人文科学，文学"
+    },
+    {
+      "term": "impresionante",
+      "pos": "adj.",
+      "meaning": "令人印象深刻的"
+    },
+    {
+      "term": "corriente",
+      "pos": "f.",
+      "meaning": "潮流"
+    },
+    {
+      "term": "modernismo",
+      "pos": "m.",
+      "meaning": "现代主义"
+    },
+    {
+      "term": "nicaragüense",
+      "pos": "adj.-s.",
+      "meaning": "尼加拉瓜的；尼加拉瓜人"
+    },
+    {
+      "term": "novedoso, sa",
+      "pos": "adj.",
+      "meaning": "新颖的"
+    },
+    {
+      "term": "metáfora",
+      "pos": "f.",
+      "meaning": "隐喻"
+    },
+    {
+      "term": "atrevido, da",
+      "pos": "adj.",
+      "meaning": "大胆的"
+    },
+    {
+      "term": "exótico, ca",
+      "pos": "adj.",
+      "meaning": "有异国情调的"
+    },
+    {
+      "term": "década",
+      "pos": "f.",
+      "meaning": "十年，年代"
+    },
+    {
+      "term": "acabar por + inf.",
+      "pos": "perif. verb.",
+      "meaning": "最终……"
+    },
+    {
+      "term": "resonancia",
+      "pos": "f.",
+      "meaning": "反响，回声"
+    },
+    {
+      "term": "Ginebra",
+      "pos": "",
+      "meaning": "日内瓦"
+    },
+    {
+      "term": "temporada",
+      "pos": "f.",
+      "meaning": "时期，时节"
+    },
+    {
+      "term": "nutrirse",
+      "pos": "prnl.",
+      "meaning": "汲取营养"
+    },
+    {
+      "term": "vanguardia",
+      "pos": "f.",
+      "meaning": "先锋"
+    },
+    {
+      "term": "creativo, va",
+      "pos": "adj.",
+      "meaning": "创造性的"
+    },
+    {
+      "term": "consagrarse",
+      "pos": "prnl.",
+      "meaning": "致力于……"
+    },
+    {
+      "term": "narrativa",
+      "pos": "f.",
+      "meaning": "小说，叙事文学"
+    },
+    {
+      "term": "cuentista",
+      "pos": "m., f.",
+      "meaning": "短篇小说作家"
+    },
+    {
+      "term": "original",
+      "pos": "adj.",
+      "meaning": "独特的"
+    },
+    {
+      "term": "armonizar",
+      "pos": "tr.",
+      "meaning": "使和谐，协调"
+    },
+    {
+      "term": "lenguaje",
+      "pos": "m.",
+      "meaning": "语言，语风"
+    },
+    {
+      "term": "argumental",
+      "pos": "adj.",
+      "meaning": "情节上的"
+    },
+    {
+      "term": "complejidad",
+      "pos": "f.",
+      "meaning": "复杂性"
+    },
+    {
+      "term": "adelanto",
+      "pos": "m.",
+      "meaning": "前进；进步"
+    },
+    {
+      "term": "armonía",
+      "pos": "f.",
+      "meaning": "和谐"
+    },
+    {
+      "term": "armonioso, sa",
+      "pos": "adj.",
+      "meaning": "和谐的"
+    },
+    {
+      "term": "argumento",
+      "pos": "m.",
+      "meaning": "情节"
+    },
+    {
+      "term": "consagración",
+      "pos": "f.",
+      "meaning": "献身，投身"
+    },
+    {
+      "term": "estructural",
+      "pos": "adj.",
+      "meaning": "结构上的"
+    },
+    {
+      "term": "volverse",
+      "pos": "prnl.",
+      "meaning": "变得"
+    },
+    {
+      "term": "elástico, ca",
+      "pos": "adj.",
+      "meaning": "有弹性的"
+    },
+    {
+      "term": "adelantar(se)",
+      "pos": "tr., intr., prnl.",
+      "meaning": "使前进；前进"
+    },
+    {
+      "term": "retroceder",
+      "pos": "intr.",
+      "meaning": "后退"
+    },
+    {
+      "term": "vuelta",
+      "pos": "f.",
+      "meaning": "转动，翻转"
+    },
+    {
+      "term": "destino",
+      "pos": "m.",
+      "meaning": "命运，目的地"
+    },
+    {
+      "term": "enmarañarse",
+      "pos": "prnl.",
+      "meaning": "纠缠不清"
+    },
+    {
+      "term": "profundizar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "深化"
+    },
+    {
+      "term": "elevar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "提高，升起"
+    },
+    {
+      "term": "poner de manifiesto",
+      "pos": "perif. verb.",
+      "meaning": "表明"
+    },
+    {
+      "term": "imaginación",
+      "pos": "f.",
+      "meaning": "想象"
+    },
+    {
+      "term": "ficción",
+      "pos": "f.",
+      "meaning": "虚构"
+    },
+    {
+      "term": "mundialmente",
+      "pos": "adv.",
+      "meaning": "世界范围地"
+    },
+    {
+      "term": "citar",
+      "pos": "tr.",
+      "meaning": "引用"
+    },
+    {
+      "term": "erudición",
+      "pos": "f.",
+      "meaning": "博学"
+    },
+    {
+      "term": "metafísico, ca",
+      "pos": "adj.",
+      "meaning": "形而上学的"
+    },
+    {
+      "term": "impenetrable",
+      "pos": "adj.",
+      "meaning": "无法进入的"
+    },
+    {
+      "term": "montaña",
+      "pos": "f.",
+      "meaning": "山"
+    },
+    {
+      "term": "inaccesible",
+      "pos": "adj.",
+      "meaning": "无法接近的"
+    },
+    {
+      "term": "tormentoso, sa",
+      "pos": "adj.",
+      "meaning": "波涛汹涌的"
+    },
+    {
+      "term": "prodigio",
+      "pos": "m.",
+      "meaning": "奇迹"
+    },
+    {
+      "term": "confluencia",
+      "pos": "f.",
+      "meaning": "交汇"
+    },
+    {
+      "term": "vigoroso, sa",
+      "pos": "adj.",
+      "meaning": "生气勃勃的"
+    },
+    {
+      "term": "trascendencia",
+      "pos": "f.",
+      "meaning": "深远影响，重要性"
+    },
+    {
+      "term": "inocultable",
+      "pos": "adj.",
+      "meaning": "无法掩饰的"
+    },
+    {
+      "term": "dar pie",
+      "pos": "perif. verb.",
+      "meaning": "提供口实"
+    },
+    {
+      "term": "explosivo, va",
+      "pos": "adj.",
+      "meaning": "爆炸性的"
+    },
+    {
+      "term": "distinguir",
+      "pos": "tr.",
+      "meaning": "区分；给予荣誉"
+    },
+    {
+      "term": "Nobel",
+      "pos": "",
+      "meaning": "诺贝尔"
+    },
+    {
+      "term": "últimamente",
+      "pos": "adv.",
+      "meaning": "最近"
+    },
+    {
+      "term": "comunal",
+      "pos": "adj.",
+      "meaning": "村社的"
+    },
+    {
+      "term": "simposio",
+      "pos": "m.",
+      "meaning": "研讨会"
+    },
+    {
+      "term": "tener que ver con",
+      "pos": "",
+      "meaning": "和……有关系"
+    },
+    {
+      "term": "muestra",
+      "pos": "f.",
+      "meaning": "样本，样品"
+    }
+  ]
+}

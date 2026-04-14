@@ -1,0 +1,317 @@
+{
+  "name": "现代西班牙语学生用书3第二课",
+  "description": "现代西班牙语学生用书3第二课",
+  "language": "es",
+  "words": [
+    {
+      "term": "premio",
+      "pos": "m.",
+      "meaning": "奖"
+    },
+    {
+      "term": "gordo, da",
+      "pos": "adj.",
+      "meaning": "胖的"
+    },
+    {
+      "term": "premio gordo",
+      "pos": "",
+      "meaning": "彩票头奖"
+    },
+    {
+      "term": "valerse",
+      "pos": "prnl.",
+      "meaning": "依靠，借助"
+    },
+    {
+      "term": "medicamento",
+      "pos": "m.",
+      "meaning": "药物"
+    },
+    {
+      "term": "desafortunadamente",
+      "pos": "adv.",
+      "meaning": "不幸地"
+    },
+    {
+      "term": "mitad",
+      "pos": "f.",
+      "meaning": "一半"
+    },
+    {
+      "term": "pinchar",
+      "pos": "tr.",
+      "meaning": "扎，扎破"
+    },
+    {
+      "term": "rueda",
+      "pos": "f.",
+      "meaning": "轮子"
+    },
+    {
+      "term": "desconocido, da",
+      "pos": "adj.-s.",
+      "meaning": "陌生的；陌生人"
+    },
+    {
+      "term": "peso",
+      "pos": "m.",
+      "meaning": "比索"
+    },
+    {
+      "term": "propina",
+      "pos": "f.",
+      "meaning": "小费"
+    },
+    {
+      "term": "cordialmente",
+      "pos": "adv.",
+      "meaning": "亲热地，真诚地"
+    },
+    {
+      "term": "como si",
+      "pos": "loc. conj.",
+      "meaning": "仿佛，好像"
+    },
+    {
+      "term": "darse cuenta",
+      "pos": "perif. verb.",
+      "meaning": "觉察"
+    },
+    {
+      "term": "vehículo",
+      "pos": "m.",
+      "meaning": "车，运载工具"
+    },
+    {
+      "term": "herramienta",
+      "pos": "f.",
+      "meaning": "工具"
+    },
+    {
+      "term": "reparación",
+      "pos": "f.",
+      "meaning": "修理"
+    },
+    {
+      "term": "registrar",
+      "pos": "tr.",
+      "meaning": "搜查，登记"
+    },
+    {
+      "term": "interior",
+      "pos": "m.",
+      "meaning": "内部，里面"
+    },
+    {
+      "term": "inventario",
+      "pos": "m.",
+      "meaning": "清单"
+    },
+    {
+      "term": "hallar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "发现，碰到；位于"
+    },
+    {
+      "term": "boleto",
+      "pos": "m.",
+      "meaning": "票（拉美）"
+    },
+    {
+      "term": "lotería",
+      "pos": "f.",
+      "meaning": "彩票"
+    },
+    {
+      "term": "sorteo",
+      "pos": "m.",
+      "meaning": "抽签，抽奖"
+    },
+    {
+      "term": "menudo, da",
+      "pos": "adj.",
+      "meaning": "细小的；好一个……！"
+    },
+    {
+      "term": "corresponder",
+      "pos": "intr.",
+      "meaning": "符合，对应"
+    },
+    {
+      "term": "anuncio",
+      "pos": "m.",
+      "meaning": "广告，告示"
+    },
+    {
+      "term": "convocar",
+      "pos": "tr.",
+      "meaning": "召集"
+    },
+    {
+      "term": "sinvergüenza",
+      "pos": "m., f.",
+      "meaning": "无赖，无耻的人"
+    },
+    {
+      "term": "reclamar",
+      "pos": "tr.",
+      "meaning": "索要"
+    },
+    {
+      "term": "premiar",
+      "pos": "tr.",
+      "meaning": "奖励"
+    },
+    {
+      "term": "asombrarse",
+      "pos": "prnl.",
+      "meaning": "吃惊"
+    },
+    {
+      "term": "robar",
+      "pos": "tr.",
+      "meaning": "偷窃"
+    },
+    {
+      "term": "no obstante",
+      "pos": "loc. conj.",
+      "meaning": "不过，然而"
+    },
+    {
+      "term": "ganador, ra",
+      "pos": "m., f.",
+      "meaning": "赢家"
+    },
+    {
+      "term": "agradecimiento",
+      "pos": "m.",
+      "meaning": "感谢"
+    },
+    {
+      "term": "convertirse",
+      "pos": "prnl.",
+      "meaning": "变为"
+    },
+    {
+      "term": "lágrima",
+      "pos": "f.",
+      "meaning": "眼泪"
+    },
+    {
+      "term": "suceso",
+      "pos": "m.",
+      "meaning": "事件"
+    },
+    {
+      "term": "extrañeza",
+      "pos": "f.",
+      "meaning": "惊异，诧异"
+    },
+    {
+      "term": "en presencia de",
+      "pos": "loc. adv.",
+      "meaning": "当……面"
+    },
+    {
+      "term": "ser legal",
+      "pos": "",
+      "meaning": "合法"
+    },
+    {
+      "term": "robo",
+      "pos": "m.",
+      "meaning": "偷窃"
+    },
+    {
+      "term": "merecer",
+      "pos": "tr.",
+      "meaning": "值得，配得上"
+    },
+    {
+      "term": "castigo",
+      "pos": "m.",
+      "meaning": "惩罚"
+    },
+    {
+      "term": "asesinato",
+      "pos": "m.",
+      "meaning": "杀人罪行"
+    },
+    {
+      "term": "fraude",
+      "pos": "m.",
+      "meaning": "营私舞弊"
+    },
+    {
+      "term": "quebrantamiento",
+      "pos": "m.",
+      "meaning": "破坏；违反"
+    },
+    {
+      "term": "condena",
+      "pos": "f.",
+      "meaning": "惩罚，刑罚；判决"
+    },
+    {
+      "term": "tener en cuenta",
+      "pos": "perif. verb.",
+      "meaning": "考虑到，注意"
+    },
+    {
+      "term": "denunciar",
+      "pos": "tr.",
+      "meaning": "报案，揭发"
+    },
+    {
+      "term": "cómplice",
+      "pos": "m., f.",
+      "meaning": "同伙"
+    },
+    {
+      "term": "pérdida",
+      "pos": "f.",
+      "meaning": "丢失；损失"
+    },
+    {
+      "term": "ocultar",
+      "pos": "tr.",
+      "meaning": "隐瞒"
+    },
+    {
+      "term": "beneficiar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "有益于；受益"
+    },
+    {
+      "term": "delincuente",
+      "pos": "m., f.",
+      "meaning": "罪犯"
+    },
+    {
+      "term": "bien",
+      "pos": "m.",
+      "meaning": "善行"
+    },
+    {
+      "term": "mal",
+      "pos": "m.",
+      "meaning": "恶行"
+    },
+    {
+      "term": "actuar",
+      "pos": "intr.",
+      "meaning": "行动，表现"
+    },
+    {
+      "term": "transformar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "变为"
+    },
+    {
+      "term": "reflexión",
+      "pos": "f.",
+      "meaning": "思索，思考"
+    }
+  ]
+}

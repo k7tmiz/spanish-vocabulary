@@ -1,0 +1,387 @@
+{
+  "name": "现代西班牙语学生用书3第六课",
+  "description": "现代西班牙语学生用书3第六课",
+  "language": "es",
+  "words": [
+    {
+      "term": "baja",
+      "pos": "f.",
+      "meaning": "伤亡"
+    },
+    {
+      "term": "heroico, ca",
+      "pos": "adj.",
+      "meaning": "英雄的，英勇的"
+    },
+    {
+      "term": "ibérico, ca",
+      "pos": "adj.",
+      "meaning": "伊比利亚的"
+    },
+    {
+      "term": "indomable",
+      "pos": "adj.",
+      "meaning": "不可征服的"
+    },
+    {
+      "term": "resistencia",
+      "pos": "f.",
+      "meaning": "抵抗，抵御"
+    },
+    {
+      "term": "invasión",
+      "pos": "f.",
+      "meaning": "侵略"
+    },
+    {
+      "term": "Senado",
+      "pos": "m.",
+      "meaning": "参议院，元老院"
+    },
+    {
+      "term": "general",
+      "pos": "m.",
+      "meaning": "将军"
+    },
+    {
+      "term": "numantino, na",
+      "pos": "adj.-s.",
+      "meaning": "努曼西亚的；努曼西亚人"
+    },
+    {
+      "term": "cerco",
+      "pos": "m.",
+      "meaning": "围困"
+    },
+    {
+      "term": "evitar",
+      "pos": "tr.",
+      "meaning": "避免"
+    },
+    {
+      "term": "descuido",
+      "pos": "m.",
+      "meaning": "疏忽，大意"
+    },
+    {
+      "term": "vigilancia",
+      "pos": "f.",
+      "meaning": "监视"
+    },
+    {
+      "term": "huir",
+      "pos": "intr.",
+      "meaning": "逃跑"
+    },
+    {
+      "term": "refuerzo",
+      "pos": "m.",
+      "meaning": "援军，后援"
+    },
+    {
+      "term": "zanja",
+      "pos": "f.",
+      "meaning": "壕沟"
+    },
+    {
+      "term": "transcurrir",
+      "pos": "intr.",
+      "meaning": "过，（时光）流逝"
+    },
+    {
+      "term": "escasear",
+      "pos": "intr.",
+      "meaning": "缺乏"
+    },
+    {
+      "term": "víveres",
+      "pos": "m. pl.",
+      "meaning": "食粮"
+    },
+    {
+      "term": "gemido",
+      "pos": "m.",
+      "meaning": "呻吟"
+    },
+    {
+      "term": "en vano",
+      "pos": "loc. adv.",
+      "meaning": "白白地，徒劳地"
+    },
+    {
+      "term": "a duras penas",
+      "pos": "loc. adv.",
+      "meaning": "很费力地，勉强地"
+    },
+    {
+      "term": "inanición",
+      "pos": "f.",
+      "meaning": "营养不良，饥饿"
+    },
+    {
+      "term": "fracasar",
+      "pos": "intr.",
+      "meaning": "失败"
+    },
+    {
+      "term": "franquear",
+      "pos": "tr.",
+      "meaning": "穿过，越过"
+    },
+    {
+      "term": "perecer",
+      "pos": "intr.",
+      "meaning": "死去，消亡"
+    },
+    {
+      "term": "inevitablemente",
+      "pos": "adv.",
+      "meaning": "不可避免地"
+    },
+    {
+      "term": "desesperante",
+      "pos": "adj.",
+      "meaning": "令人绝望的"
+    },
+    {
+      "term": "rendirse",
+      "pos": "prnl.",
+      "meaning": "投降，认输"
+    },
+    {
+      "term": "a cambio de",
+      "pos": "loc. adv.",
+      "meaning": "换取"
+    },
+    {
+      "term": "clemencia",
+      "pos": "f.",
+      "meaning": "慈悲，仁政"
+    },
+    {
+      "term": "unanimidad",
+      "pos": "f.",
+      "meaning": "一致"
+    },
+    {
+      "term": "antes que",
+      "pos": "loc. conj.",
+      "meaning": "宁肯……不愿"
+    },
+    {
+      "term": "atraer",
+      "pos": "tr.",
+      "meaning": "吸引"
+    },
+    {
+      "term": "sitiador, ra",
+      "pos": "m., f.",
+      "meaning": "围困者"
+    },
+    {
+      "term": "presenciar",
+      "pos": "tr.",
+      "meaning": "观看，目睹"
+    },
+    {
+      "term": "escena",
+      "pos": "f.",
+      "meaning": "场景"
+    },
+    {
+      "term": "mar",
+      "pos": "m., f.",
+      "meaning": "大海，海洋"
+    },
+    {
+      "term": "llama",
+      "pos": "f.",
+      "meaning": "火焰"
+    },
+    {
+      "term": "estrangular",
+      "pos": "tr.",
+      "meaning": "掐死，扼杀"
+    },
+    {
+      "term": "fiera",
+      "pos": "f.",
+      "meaning": "猛兽"
+    },
+    {
+      "term": "desesperado, da",
+      "pos": "adj.",
+      "meaning": "绝望的"
+    },
+    {
+      "term": "hoguera",
+      "pos": "f.",
+      "meaning": "篝火，大火"
+    },
+    {
+      "term": "vencedor, ra",
+      "pos": "adj.-s.",
+      "meaning": "战胜的；胜利者"
+    },
+    {
+      "term": "vencido, da",
+      "pos": "adj.-s.",
+      "meaning": "失败的；失败者"
+    },
+    {
+      "term": "penetrar",
+      "pos": "intr.",
+      "meaning": "进入，插入"
+    },
+    {
+      "term": "torre",
+      "pos": "f.",
+      "meaning": "塔楼"
+    },
+    {
+      "term": "término",
+      "pos": "m.",
+      "meaning": "措词，话语；术语，专门用语"
+    },
+    {
+      "term": "heredar",
+      "pos": "tr.",
+      "meaning": "继承"
+    },
+    {
+      "term": "valor",
+      "pos": "m.",
+      "meaning": "勇气；价值"
+    },
+    {
+      "term": "bienes",
+      "pos": "m. pl.",
+      "meaning": "财产"
+    },
+    {
+      "term": "riqueza",
+      "pos": "f.",
+      "meaning": "财富"
+    },
+    {
+      "term": "patria",
+      "pos": "f.",
+      "meaning": "祖国"
+    },
+    {
+      "term": "victoria",
+      "pos": "f.",
+      "meaning": "胜利"
+    },
+    {
+      "term": "ruina",
+      "pos": "f.",
+      "meaning": "废墟；破产"
+    },
+    {
+      "term": "negar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "否认；拒绝"
+    },
+    {
+      "term": "título",
+      "pos": "m.",
+      "meaning": "称号；标题"
+    },
+    {
+      "term": "estudio",
+      "pos": "m.",
+      "meaning": "工作室；照相馆"
+    },
+    {
+      "term": "revelar",
+      "pos": "tr.",
+      "meaning": "冲洗；显示"
+    },
+    {
+      "term": "tirar",
+      "pos": "tr.",
+      "meaning": "扔，抛掷"
+    },
+    {
+      "term": "cámara",
+      "pos": "f.",
+      "meaning": "照相机"
+    },
+    {
+      "term": "dinosaurio",
+      "pos": "m.",
+      "meaning": "恐龙"
+    },
+    {
+      "term": "digital",
+      "pos": "adj.",
+      "meaning": "数码的"
+    },
+    {
+      "term": "hacer caso",
+      "pos": "",
+      "meaning": "理睬"
+    },
+    {
+      "term": "rollo",
+      "pos": "m.",
+      "meaning": "一卷；胶卷"
+    },
+    {
+      "term": "suponer",
+      "pos": "tr.",
+      "meaning": "意味着"
+    },
+    {
+      "term": "desesperarse",
+      "pos": "prnl.",
+      "meaning": "绝望"
+    },
+    {
+      "term": "anticuado, da",
+      "pos": "adj.",
+      "meaning": "过时的"
+    },
+    {
+      "term": "navegar",
+      "pos": "intr.",
+      "meaning": "航行，漫游"
+    },
+    {
+      "term": "luminosidad",
+      "pos": "f.",
+      "meaning": "光亮"
+    },
+    {
+      "term": "fracaso",
+      "pos": "m.",
+      "meaning": "失败"
+    },
+    {
+      "term": "herencia",
+      "pos": "f.",
+      "meaning": "遗产"
+    },
+    {
+      "term": "héroe, ina",
+      "pos": "m., f.",
+      "meaning": "英雄"
+    },
+    {
+      "term": "heroísmo",
+      "pos": "m.",
+      "meaning": "英雄主义"
+    },
+    {
+      "term": "horror",
+      "pos": "m.",
+      "meaning": "恐怖，害怕"
+    },
+    {
+      "term": "huida",
+      "pos": "f.",
+      "meaning": "逃跑"
+    }
+  ]
+}

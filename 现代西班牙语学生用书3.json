@@ -1,0 +1,5072 @@
+{
+  "name": "现代西班牙语学生用书3",
+  "description": "现代西班牙语学生用书3",
+  "language": "es",
+  "words": [
+    {
+      "term": "paño",
+      "pos": "m.",
+      "meaning": "呢绒，布料"
+    },
+    {
+      "term": "maravilloso, sa",
+      "pos": "adj.",
+      "meaning": "极好的，神奇的"
+    },
+    {
+      "term": "pícaro, ra",
+      "pos": "m., f.",
+      "meaning": "无赖，混混儿"
+    },
+    {
+      "term": "fabricar",
+      "pos": "tr.",
+      "meaning": "制造"
+    },
+    {
+      "term": "ladrón, na",
+      "pos": "m., f.",
+      "meaning": "小偷，贼"
+    },
+    {
+      "term": "soberano, na",
+      "pos": "m., f.",
+      "meaning": "君主，国王"
+    },
+    {
+      "term": "extraordinario, ria",
+      "pos": "adj.",
+      "meaning": "异常的，非同一般的"
+    },
+    {
+      "term": "mandar",
+      "pos": "tr.",
+      "meaning": "命令，派"
+    },
+    {
+      "term": "naturaleza",
+      "pos": "f.",
+      "meaning": "特点，性质；自然"
+    },
+    {
+      "term": "fantástico, ca",
+      "pos": "adj.",
+      "meaning": "神奇的"
+    },
+    {
+      "term": "burlador, ra",
+      "pos": "adj.-s.",
+      "meaning": "嘲弄人的；骗子"
+    },
+    {
+      "term": "lana",
+      "pos": "f.",
+      "meaning": "羊毛"
+    },
+    {
+      "term": "hilo",
+      "pos": "m.",
+      "meaning": "线"
+    },
+    {
+      "term": "monarca",
+      "pos": "m., f.",
+      "meaning": "君主，国王"
+    },
+    {
+      "term": "conceder",
+      "pos": "tr.",
+      "meaning": "给予"
+    },
+    {
+      "term": "orden",
+      "pos": "f.",
+      "meaning": "命令"
+    },
+    {
+      "term": "suculento, ta",
+      "pos": "adj.",
+      "meaning": "鲜美的"
+    },
+    {
+      "term": "al cabo de",
+      "pos": "loc. prep.",
+      "meaning": "…之后"
+    },
+    {
+      "term": "cortesano, na",
+      "pos": "adj.-s.",
+      "meaning": "宫廷的；朝臣"
+    },
+    {
+      "term": "averiguar",
+      "pos": "tr.",
+      "meaning": "调查，打听"
+    },
+    {
+      "term": "efusión",
+      "pos": "f.",
+      "meaning": "欢快，热忱"
+    },
+    {
+      "term": "telar",
+      "pos": "m.",
+      "meaning": "织机"
+    },
+    {
+      "term": "incomparable",
+      "pos": "adj.",
+      "meaning": "无可比拟的"
+    },
+    {
+      "term": "ante",
+      "pos": "prep.",
+      "meaning": "在……面前"
+    },
+    {
+      "term": "honrado, da",
+      "pos": "adj.",
+      "meaning": "诚实的，正直的"
+    },
+    {
+      "term": "palacio",
+      "pos": "m.",
+      "meaning": "宫殿"
+    },
+    {
+      "term": "tejer",
+      "pos": "tr.",
+      "meaning": "织"
+    },
+    {
+      "term": "viento en popa",
+      "pos": "loc. adv.",
+      "meaning": "一帆风顺"
+    },
+    {
+      "term": "artesano, na",
+      "pos": "m., f.",
+      "meaning": "手工业者"
+    },
+    {
+      "term": "confeccionar",
+      "pos": "tr.",
+      "meaning": "制作"
+    },
+    {
+      "term": "traje",
+      "pos": "m.",
+      "meaning": "服装"
+    },
+    {
+      "term": "Su Majestad",
+      "pos": "",
+      "meaning": "陛下"
+    },
+    {
+      "term": "señalar",
+      "pos": "tr.",
+      "meaning": "指着；指出"
+    },
+    {
+      "term": "precioso, sa",
+      "pos": "adj.",
+      "meaning": "宝贵的，精美的"
+    },
+    {
+      "term": "dibujo",
+      "pos": "m.",
+      "meaning": "图案，图画"
+    },
+    {
+      "term": "remirar",
+      "pos": "tr.",
+      "meaning": "反复看"
+    },
+    {
+      "term": "asustar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使害怕；害怕"
+    },
+    {
+      "term": "reflexionar",
+      "pos": "intr.",
+      "meaning": "思考，考虑"
+    },
+    {
+      "term": "callar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使沉默；沉默；住嘴"
+    },
+    {
+      "term": "gobernante",
+      "pos": "m., f.",
+      "meaning": "统治者"
+    },
+    {
+      "term": "montar",
+      "pos": "tr.",
+      "meaning": "骑"
+    },
+    {
+      "term": "tela",
+      "pos": "f.",
+      "meaning": "布料"
+    },
+    {
+      "term": "invisible",
+      "pos": "adj.",
+      "meaning": "看不见的，隐形的"
+    },
+    {
+      "term": "desnudo, da",
+      "pos": "adj.",
+      "meaning": "裸体的"
+    },
+    {
+      "term": "cabalgadura",
+      "pos": "f.",
+      "meaning": "坐骑（马）"
+    },
+    {
+      "term": "reírse",
+      "pos": "prnl.",
+      "meaning": "大笑；嘲笑"
+    },
+    {
+      "term": "inocencia",
+      "pos": "f.",
+      "meaning": "无辜，天真无邪"
+    },
+    {
+      "term": "a gritos",
+      "pos": "loc. adv.",
+      "meaning": "大喊大叫"
+    },
+    {
+      "term": "finalmente",
+      "pos": "adv.",
+      "meaning": "最后，最终"
+    },
+    {
+      "term": "enojado, da",
+      "pos": "adj.",
+      "meaning": "愤怒的"
+    },
+    {
+      "term": "ordenar",
+      "pos": "tr.",
+      "meaning": "命令"
+    },
+    {
+      "term": "criado, da",
+      "pos": "m., f.",
+      "meaning": "仆人，侍从"
+    },
+    {
+      "term": "estafador, ra",
+      "pos": "m., f.",
+      "meaning": "骗子，诈骗犯"
+    },
+    {
+      "term": "kilómetro",
+      "pos": "m.",
+      "meaning": "公里"
+    },
+    {
+      "term": "dinero",
+      "pos": "m.",
+      "meaning": "钱"
+    },
+    {
+      "term": "prosista",
+      "pos": "m., f.",
+      "meaning": "散文家"
+    },
+    {
+      "term": "pleno, na",
+      "pos": "adj.",
+      "meaning": "满的，完整的"
+    },
+    {
+      "term": "conciencia",
+      "pos": "f.",
+      "meaning": "意识，觉悟"
+    },
+    {
+      "term": "oficio",
+      "pos": "m.",
+      "meaning": "行当"
+    },
+    {
+      "term": "responsabilidad",
+      "pos": "f.",
+      "meaning": "责任"
+    },
+    {
+      "term": "artesanía",
+      "pos": "f.",
+      "meaning": "手工艺"
+    },
+    {
+      "term": "averiguación",
+      "pos": "f.",
+      "meaning": "调查"
+    },
+    {
+      "term": "burlar",
+      "pos": "tr.",
+      "meaning": "欺骗"
+    },
+    {
+      "term": "dibujar",
+      "pos": "tr.",
+      "meaning": "绘画"
+    },
+    {
+      "term": "enojo",
+      "pos": "m.",
+      "meaning": "气愤"
+    },
+    {
+      "term": "estafar",
+      "pos": "tr.",
+      "meaning": "诈骗"
+    },
+    {
+      "term": "fábrica",
+      "pos": "f.",
+      "meaning": "工厂"
+    },
+    {
+      "term": "fabricación",
+      "pos": "f.",
+      "meaning": "制造"
+    },
+    {
+      "term": "inocente",
+      "pos": "adj.",
+      "meaning": "无辜的；天真的"
+    },
+    {
+      "term": "susto",
+      "pos": "m.",
+      "meaning": "惊恐，害怕"
+    },
+    {
+      "term": "premio",
+      "pos": "m.",
+      "meaning": "奖"
+    },
+    {
+      "term": "gordo, da",
+      "pos": "adj.",
+      "meaning": "胖的"
+    },
+    {
+      "term": "premio gordo",
+      "pos": "",
+      "meaning": "彩票头奖"
+    },
+    {
+      "term": "valerse",
+      "pos": "prnl.",
+      "meaning": "依靠，借助"
+    },
+    {
+      "term": "medicamento",
+      "pos": "m.",
+      "meaning": "药物"
+    },
+    {
+      "term": "desafortunadamente",
+      "pos": "adv.",
+      "meaning": "不幸地"
+    },
+    {
+      "term": "mitad",
+      "pos": "f.",
+      "meaning": "一半"
+    },
+    {
+      "term": "pinchar",
+      "pos": "tr.",
+      "meaning": "扎，扎破"
+    },
+    {
+      "term": "rueda",
+      "pos": "f.",
+      "meaning": "轮子"
+    },
+    {
+      "term": "desconocido, da",
+      "pos": "adj.-s.",
+      "meaning": "陌生的；陌生人"
+    },
+    {
+      "term": "peso",
+      "pos": "m.",
+      "meaning": "比索"
+    },
+    {
+      "term": "propina",
+      "pos": "f.",
+      "meaning": "小费"
+    },
+    {
+      "term": "cordialmente",
+      "pos": "adv.",
+      "meaning": "亲热地，真诚地"
+    },
+    {
+      "term": "como si",
+      "pos": "loc. conj.",
+      "meaning": "仿佛，好像"
+    },
+    {
+      "term": "darse cuenta",
+      "pos": "perif. verb.",
+      "meaning": "觉察"
+    },
+    {
+      "term": "vehículo",
+      "pos": "m.",
+      "meaning": "车，运载工具"
+    },
+    {
+      "term": "herramienta",
+      "pos": "f.",
+      "meaning": "工具"
+    },
+    {
+      "term": "reparación",
+      "pos": "f.",
+      "meaning": "修理"
+    },
+    {
+      "term": "registrar",
+      "pos": "tr.",
+      "meaning": "搜查，登记"
+    },
+    {
+      "term": "interior",
+      "pos": "m.",
+      "meaning": "内部，里面"
+    },
+    {
+      "term": "inventario",
+      "pos": "m.",
+      "meaning": "清单"
+    },
+    {
+      "term": "hallar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "发现，碰到；位于"
+    },
+    {
+      "term": "boleto",
+      "pos": "m.",
+      "meaning": "票（拉美）"
+    },
+    {
+      "term": "lotería",
+      "pos": "f.",
+      "meaning": "彩票"
+    },
+    {
+      "term": "sorteo",
+      "pos": "m.",
+      "meaning": "抽签，抽奖"
+    },
+    {
+      "term": "menudo, da",
+      "pos": "adj.",
+      "meaning": "细小的；好一个……！"
+    },
+    {
+      "term": "corresponder",
+      "pos": "intr.",
+      "meaning": "符合，对应"
+    },
+    {
+      "term": "anuncio",
+      "pos": "m.",
+      "meaning": "广告，告示"
+    },
+    {
+      "term": "convocar",
+      "pos": "tr.",
+      "meaning": "召集"
+    },
+    {
+      "term": "sinvergüenza",
+      "pos": "m., f.",
+      "meaning": "无赖，无耻的人"
+    },
+    {
+      "term": "reclamar",
+      "pos": "tr.",
+      "meaning": "索要"
+    },
+    {
+      "term": "premiar",
+      "pos": "tr.",
+      "meaning": "奖励"
+    },
+    {
+      "term": "asombrarse",
+      "pos": "prnl.",
+      "meaning": "吃惊"
+    },
+    {
+      "term": "robar",
+      "pos": "tr.",
+      "meaning": "偷窃"
+    },
+    {
+      "term": "no obstante",
+      "pos": "loc. conj.",
+      "meaning": "不过，然而"
+    },
+    {
+      "term": "ganador, ra",
+      "pos": "m., f.",
+      "meaning": "赢家"
+    },
+    {
+      "term": "agradecimiento",
+      "pos": "m.",
+      "meaning": "感谢"
+    },
+    {
+      "term": "convertirse",
+      "pos": "prnl.",
+      "meaning": "变为"
+    },
+    {
+      "term": "lágrima",
+      "pos": "f.",
+      "meaning": "眼泪"
+    },
+    {
+      "term": "suceso",
+      "pos": "m.",
+      "meaning": "事件"
+    },
+    {
+      "term": "extrañeza",
+      "pos": "f.",
+      "meaning": "惊异，诧异"
+    },
+    {
+      "term": "en presencia de",
+      "pos": "loc. adv.",
+      "meaning": "当……面"
+    },
+    {
+      "term": "ser legal",
+      "pos": "",
+      "meaning": "合法"
+    },
+    {
+      "term": "robo",
+      "pos": "m.",
+      "meaning": "偷窃"
+    },
+    {
+      "term": "merecer",
+      "pos": "tr.",
+      "meaning": "值得，配得上"
+    },
+    {
+      "term": "castigo",
+      "pos": "m.",
+      "meaning": "惩罚"
+    },
+    {
+      "term": "asesinato",
+      "pos": "m.",
+      "meaning": "杀人罪行"
+    },
+    {
+      "term": "fraude",
+      "pos": "m.",
+      "meaning": "营私舞弊"
+    },
+    {
+      "term": "quebrantamiento",
+      "pos": "m.",
+      "meaning": "破坏；违反"
+    },
+    {
+      "term": "condena",
+      "pos": "f.",
+      "meaning": "惩罚，刑罚；判决"
+    },
+    {
+      "term": "tener en cuenta",
+      "pos": "perif. verb.",
+      "meaning": "考虑到，注意"
+    },
+    {
+      "term": "denunciar",
+      "pos": "tr.",
+      "meaning": "报案，揭发"
+    },
+    {
+      "term": "cómplice",
+      "pos": "m., f.",
+      "meaning": "同伙"
+    },
+    {
+      "term": "pérdida",
+      "pos": "f.",
+      "meaning": "丢失；损失"
+    },
+    {
+      "term": "ocultar",
+      "pos": "tr.",
+      "meaning": "隐瞒"
+    },
+    {
+      "term": "beneficiar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "有益于；受益"
+    },
+    {
+      "term": "delincuente",
+      "pos": "m., f.",
+      "meaning": "罪犯"
+    },
+    {
+      "term": "bien",
+      "pos": "m.",
+      "meaning": "善行"
+    },
+    {
+      "term": "mal",
+      "pos": "m.",
+      "meaning": "恶行"
+    },
+    {
+      "term": "actuar",
+      "pos": "intr.",
+      "meaning": "行动，表现"
+    },
+    {
+      "term": "transformar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "变为"
+    },
+    {
+      "term": "reflexión",
+      "pos": "f.",
+      "meaning": "思索，思考"
+    },
+    {
+      "term": "inca",
+      "pos": "m., f.",
+      "meaning": "印加人；印加王"
+    },
+    {
+      "term": "desarrollar",
+      "pos": "tr.",
+      "meaning": "发展"
+    },
+    {
+      "term": "civilización",
+      "pos": "f.",
+      "meaning": "文明"
+    },
+    {
+      "term": "invasor, ra",
+      "pos": "m., f.",
+      "meaning": "侵略者"
+    },
+    {
+      "term": "superioridad",
+      "pos": "f.",
+      "meaning": "优势"
+    },
+    {
+      "term": "arma",
+      "pos": "f.",
+      "meaning": "武器"
+    },
+    {
+      "term": "estrategia",
+      "pos": "f.",
+      "meaning": "战略"
+    },
+    {
+      "term": "intriga",
+      "pos": "f.",
+      "meaning": "诡计"
+    },
+    {
+      "term": "traición",
+      "pos": "f.",
+      "meaning": "背叛"
+    },
+    {
+      "term": "conquistar",
+      "pos": "tr.",
+      "meaning": "征服"
+    },
+    {
+      "term": "someter(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使屈服；屈服"
+    },
+    {
+      "term": "destruir",
+      "pos": "tr.",
+      "meaning": "破坏，毁坏"
+    },
+    {
+      "term": "en lo esencial",
+      "pos": "loc. adv.",
+      "meaning": "本质上，基本上"
+    },
+    {
+      "term": "político, ca",
+      "pos": "adj.-s.",
+      "meaning": "政治的；政治家"
+    },
+    {
+      "term": "he aquí",
+      "pos": "",
+      "meaning": "下面就是"
+    },
+    {
+      "term": "episodio",
+      "pos": "m.",
+      "meaning": "轶事"
+    },
+    {
+      "term": "denominar",
+      "pos": "tr.",
+      "meaning": "命名"
+    },
+    {
+      "term": "conquista",
+      "pos": "f.",
+      "meaning": "征服"
+    },
+    {
+      "term": "emperador, atriz",
+      "pos": "m., f.",
+      "meaning": "皇帝，皇后"
+    },
+    {
+      "term": "campamento",
+      "pos": "m.",
+      "meaning": "军营"
+    },
+    {
+      "term": "extraño, ña",
+      "pos": "adj.",
+      "meaning": "奇怪的"
+    },
+    {
+      "term": "derribar",
+      "pos": "tr.",
+      "meaning": "推倒"
+    },
+    {
+      "term": "temor",
+      "pos": "m.",
+      "meaning": "害怕"
+    },
+    {
+      "term": "permanecer",
+      "pos": "intr.",
+      "meaning": "处在，保持……状态"
+    },
+    {
+      "term": "sereno, na",
+      "pos": "adj.",
+      "meaning": "镇静的"
+    },
+    {
+      "term": "visitante",
+      "pos": "m., f.",
+      "meaning": "来访者"
+    },
+    {
+      "term": "mensajero, ra",
+      "pos": "m., f.",
+      "meaning": "使者，送信人"
+    },
+    {
+      "term": "por completo",
+      "pos": "loc. adv.",
+      "meaning": "完全，彻底"
+    },
+    {
+      "term": "señal",
+      "pos": "f.",
+      "meaning": "信号"
+    },
+    {
+      "term": "vencer",
+      "pos": "tr.",
+      "meaning": "战胜"
+    },
+    {
+      "term": "verse obligado a",
+      "pos": "perif. verb.",
+      "meaning": "被迫"
+    },
+    {
+      "term": "trampa",
+      "pos": "f.",
+      "meaning": "陷阱"
+    },
+    {
+      "term": "invitación",
+      "pos": "f.",
+      "meaning": "邀请，邀请函"
+    },
+    {
+      "term": "ponerse en camino",
+      "pos": "perif. verb.",
+      "meaning": "上路"
+    },
+    {
+      "term": "desierto, ta",
+      "pos": "adj.",
+      "meaning": "荒无人烟的"
+    },
+    {
+      "term": "al encuentro de",
+      "pos": "loc. adv.",
+      "meaning": "迎面"
+    },
+    {
+      "term": "convertir(se) (a)",
+      "pos": "tr., prnl.",
+      "meaning": "使皈依；皈依"
+    },
+    {
+      "term": "cristianismo",
+      "pos": "m.",
+      "meaning": "基督教"
+    },
+    {
+      "term": "Papa",
+      "pos": "m.",
+      "meaning": "教皇"
+    },
+    {
+      "term": "loco, ca",
+      "pos": "adj.-s.",
+      "meaning": "疯狂；疯子"
+    },
+    {
+      "term": "derecho",
+      "pos": "m.",
+      "meaning": "权利"
+    },
+    {
+      "term": "firmeza",
+      "pos": "f.",
+      "meaning": "坚定"
+    },
+    {
+      "term": "amenaza",
+      "pos": "f.",
+      "meaning": "威胁"
+    },
+    {
+      "term": "dádiva",
+      "pos": "f.",
+      "meaning": "礼品，馈赠"
+    },
+    {
+      "term": "fuerza",
+      "pos": "f.",
+      "meaning": "力量"
+    },
+    {
+      "term": "por sorpresa",
+      "pos": "loc. adv.",
+      "meaning": "猝不及防地"
+    },
+    {
+      "term": "gracias a",
+      "pos": "loc. adv.",
+      "meaning": "由于"
+    },
+    {
+      "term": "hacer prisionero",
+      "pos": "perif. verb.",
+      "meaning": "俘虏"
+    },
+    {
+      "term": "cuarto",
+      "pos": "m.",
+      "meaning": "房间"
+    },
+    {
+      "term": "metal",
+      "pos": "m.",
+      "meaning": "金属"
+    },
+    {
+      "term": "libertad",
+      "pos": "f.",
+      "meaning": "自由"
+    },
+    {
+      "term": "de seguro",
+      "pos": "loc. adv.",
+      "meaning": "肯定，一定"
+    },
+    {
+      "term": "rebelión",
+      "pos": "f.",
+      "meaning": "叛乱，起义"
+    },
+    {
+      "term": "mestizaje",
+      "pos": "m.",
+      "meaning": "混血；杂交；融合，混合"
+    },
+    {
+      "term": "establecerse",
+      "pos": "prnl.",
+      "meaning": "定居"
+    },
+    {
+      "term": "Nuevo Mundo",
+      "pos": "",
+      "meaning": "新世界，新大陆"
+    },
+    {
+      "term": "ley",
+      "pos": "f.",
+      "meaning": "法律"
+    },
+    {
+      "term": "afectar",
+      "pos": "tr.",
+      "meaning": "波及，影响"
+    },
+    {
+      "term": "violencia",
+      "pos": "f.",
+      "meaning": "暴力"
+    },
+    {
+      "term": "destrucción",
+      "pos": "f.",
+      "meaning": "摧毁"
+    },
+    {
+      "term": "masacre",
+      "pos": "f.",
+      "meaning": "大规模屠杀"
+    },
+    {
+      "term": "conquistador, ra",
+      "pos": "m., f.",
+      "meaning": "征服者"
+    },
+    {
+      "term": "suprimir",
+      "pos": "tr.",
+      "meaning": "取消，删除"
+    },
+    {
+      "term": "de un plumazo",
+      "pos": "loc. adv.",
+      "meaning": "一笔，一下子"
+    },
+    {
+      "term": "sobrevivir",
+      "pos": "intr.",
+      "meaning": "劫后余生"
+    },
+    {
+      "term": "encuentro",
+      "pos": "m.",
+      "meaning": "会面，相会"
+    },
+    {
+      "term": "fusión",
+      "pos": "f.",
+      "meaning": "融合；合并"
+    },
+    {
+      "term": "mestizo, za",
+      "pos": "adj.",
+      "meaning": "混血的；杂交的"
+    },
+    {
+      "term": "arca",
+      "pos": "f.",
+      "meaning": "方舟"
+    },
+    {
+      "term": "Noé",
+      "pos": "m.",
+      "meaning": "诺亚"
+    },
+    {
+      "term": "Biblia",
+      "pos": "f.",
+      "meaning": "圣经"
+    },
+    {
+      "term": "Dios",
+      "pos": "m.",
+      "meaning": "上帝，神"
+    },
+    {
+      "term": "infinidad",
+      "pos": "f.",
+      "meaning": "无数，大量"
+    },
+    {
+      "term": "hecho",
+      "pos": "m.",
+      "meaning": "事实，事件"
+    },
+    {
+      "term": "final",
+      "pos": "m.",
+      "meaning": "结尾，最后"
+    },
+    {
+      "term": "leyenda",
+      "pos": "f.",
+      "meaning": "传说，神话"
+    },
+    {
+      "term": "capítulo",
+      "pos": "m.",
+      "meaning": "章，节，回"
+    },
+    {
+      "term": "titular",
+      "pos": "tr.",
+      "meaning": "以……为题，做标题"
+    },
+    {
+      "term": "Génesis",
+      "pos": "m.",
+      "meaning": "创世纪"
+    },
+    {
+      "term": "mortificar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使苦恼；感到苦恼"
+    },
+    {
+      "term": "comportamiento",
+      "pos": "m.",
+      "meaning": "行为，举止"
+    },
+    {
+      "term": "humano, na",
+      "pos": "adj.",
+      "meaning": "人类的"
+    },
+    {
+      "term": "crear",
+      "pos": "tr.",
+      "meaning": "创造，创作"
+    },
+    {
+      "term": "recto, ta",
+      "pos": "adj.",
+      "meaning": "正直的"
+    },
+    {
+      "term": "estimar",
+      "pos": "tr.",
+      "meaning": "估价，评价，尊重"
+    },
+    {
+      "term": "maldad",
+      "pos": "f.",
+      "meaning": "邪恶，罪恶"
+    },
+    {
+      "term": "fe",
+      "pos": "f.",
+      "meaning": "信仰"
+    },
+    {
+      "term": "salvación",
+      "pos": "f.",
+      "meaning": "拯救，救赎"
+    },
+    {
+      "term": "pertenencia",
+      "pos": "f.",
+      "meaning": "财产，归属"
+    },
+    {
+      "term": "construir",
+      "pos": "tr.",
+      "meaning": "建造，建设"
+    },
+    {
+      "term": "listo, ta",
+      "pos": "adj.",
+      "meaning": "准备好的，聪明的"
+    },
+    {
+      "term": "diluvio",
+      "pos": "m.",
+      "meaning": "洪水"
+    },
+    {
+      "term": "arena",
+      "pos": "f.",
+      "meaning": "沙子"
+    },
+    {
+      "term": "desierto",
+      "pos": "m.",
+      "meaning": "沙漠"
+    },
+    {
+      "term": "a bordo",
+      "pos": "loc. adv.",
+      "meaning": "在船上"
+    },
+    {
+      "term": "nuera",
+      "pos": "f.",
+      "meaning": "儿媳"
+    },
+    {
+      "term": "yerno",
+      "pos": "m.",
+      "meaning": "女婿"
+    },
+    {
+      "term": "macho",
+      "pos": "adj., m.",
+      "meaning": "公的，雄的；雄性"
+    },
+    {
+      "term": "hembra",
+      "pos": "adj., f.",
+      "meaning": "母的，雌的；雌性"
+    },
+    {
+      "term": "gigantesco, ca",
+      "pos": "adj.",
+      "meaning": "巨大的，庞大的"
+    },
+    {
+      "term": "embarcación",
+      "pos": "f.",
+      "meaning": "船舶"
+    },
+    {
+      "term": "torrencial",
+      "pos": "adj.",
+      "meaning": "汹涌的；倾盆的"
+    },
+    {
+      "term": "crecer",
+      "pos": "intr.",
+      "meaning": "成长；涨高"
+    },
+    {
+      "term": "flotar",
+      "pos": "intr.",
+      "meaning": "漂浮"
+    },
+    {
+      "term": "monte",
+      "pos": "m.",
+      "meaning": "山"
+    },
+    {
+      "term": "inundación",
+      "pos": "f.",
+      "meaning": "洪水，水灾"
+    },
+    {
+      "term": "disminuir",
+      "pos": "tr., intr.",
+      "meaning": "减少，缩小"
+    },
+    {
+      "term": "soltar",
+      "pos": "tr.",
+      "meaning": "放开，放松"
+    },
+    {
+      "term": "paloma",
+      "pos": "f.",
+      "meaning": "鸽子"
+    },
+    {
+      "term": "explorar",
+      "pos": "tr.",
+      "meaning": "勘探，勘察，探测"
+    },
+    {
+      "term": "asentarse",
+      "pos": "prnl.",
+      "meaning": "栖息，落脚"
+    },
+    {
+      "term": "olivo",
+      "pos": "m.",
+      "meaning": "油橄榄树"
+    },
+    {
+      "term": "a la vista",
+      "pos": "loc. adv.",
+      "meaning": "看得见"
+    },
+    {
+      "term": "copa",
+      "pos": "f.",
+      "meaning": "树冠"
+    },
+    {
+      "term": "pisar",
+      "pos": "tr.",
+      "meaning": "踏，踩"
+    },
+    {
+      "term": "multiplicar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "增加；繁殖"
+    },
+    {
+      "term": "surgir",
+      "pos": "intr.",
+      "meaning": "出现"
+    },
+    {
+      "term": "componente",
+      "pos": "m.",
+      "meaning": "组成部分，成员"
+    },
+    {
+      "term": "grecorromano, na",
+      "pos": "adj.",
+      "meaning": "希腊罗马的"
+    },
+    {
+      "term": "judeocristiano, na",
+      "pos": "adj.",
+      "meaning": "犹太基督教的"
+    },
+    {
+      "term": "fallar",
+      "pos": "intr.",
+      "meaning": "失败；失手"
+    },
+    {
+      "term": "memoria",
+      "pos": "f.",
+      "meaning": "记忆"
+    },
+    {
+      "term": "positivista",
+      "pos": "adj.",
+      "meaning": "实证主义的"
+    },
+    {
+      "term": "punta",
+      "pos": "f.",
+      "meaning": "尖，顶端"
+    },
+    {
+      "term": "judaísmo",
+      "pos": "m.",
+      "meaning": "犹太教"
+    },
+    {
+      "term": "equivocarse",
+      "pos": "prnl.",
+      "meaning": "搞错，弄错"
+    },
+    {
+      "term": "judío, día",
+      "pos": "m., f.",
+      "meaning": "犹太人"
+    },
+    {
+      "term": "musulmán, na",
+      "pos": "adj.-s.",
+      "meaning": "伊斯兰教的；伊斯兰教徒"
+    },
+    {
+      "term": "catolicismo",
+      "pos": "m.",
+      "meaning": "天主教"
+    },
+    {
+      "term": "islamismo",
+      "pos": "m.",
+      "meaning": "伊斯兰教"
+    },
+    {
+      "term": "primitivo, va",
+      "pos": "adj.",
+      "meaning": "原始的"
+    },
+    {
+      "term": "sagrado, da",
+      "pos": "adj.",
+      "meaning": "神圣的"
+    },
+    {
+      "term": "Antiguo Testamento",
+      "pos": "",
+      "meaning": "旧约全书"
+    },
+    {
+      "term": "recopilación",
+      "pos": "f.",
+      "meaning": "汇编，收集"
+    },
+    {
+      "term": "Nuevo Testamento",
+      "pos": "",
+      "meaning": "新约全书"
+    },
+    {
+      "term": "bíblico, ca",
+      "pos": "adj.",
+      "meaning": "圣经的"
+    },
+    {
+      "term": "comportarse",
+      "pos": "prnl.",
+      "meaning": "行为举止"
+    },
+    {
+      "term": "construcción",
+      "pos": "f.",
+      "meaning": "建设；建筑物"
+    },
+    {
+      "term": "creación",
+      "pos": "f.",
+      "meaning": "创造"
+    },
+    {
+      "term": "Jesucristo",
+      "pos": "",
+      "meaning": "耶稣基督"
+    },
+    {
+      "term": "exploración",
+      "pos": "f.",
+      "meaning": "勘探，勘测，探测"
+    },
+    {
+      "term": "humanidad",
+      "pos": "f.",
+      "meaning": "人类"
+    },
+    {
+      "term": "inundar",
+      "pos": "tr.",
+      "meaning": "淹没"
+    },
+    {
+      "term": "clima",
+      "pos": "m.",
+      "meaning": "气候"
+    },
+    {
+      "term": "primavera",
+      "pos": "f.",
+      "meaning": "春天"
+    },
+    {
+      "term": "otoño",
+      "pos": "m.",
+      "meaning": "秋天"
+    },
+    {
+      "term": "invierno",
+      "pos": "m.",
+      "meaning": "冬天"
+    },
+    {
+      "term": "climático, ca",
+      "pos": "adj.",
+      "meaning": "气候的"
+    },
+    {
+      "term": "templado, da",
+      "pos": "adj.",
+      "meaning": "温和的"
+    },
+    {
+      "term": "perceptible",
+      "pos": "adj.",
+      "meaning": "可察觉的"
+    },
+    {
+      "term": "trópico",
+      "pos": "m.",
+      "meaning": "热带"
+    },
+    {
+      "term": "estación",
+      "pos": "f.",
+      "meaning": "季节"
+    },
+    {
+      "term": "ártico, ca",
+      "pos": "adj.",
+      "meaning": "北极的"
+    },
+    {
+      "term": "antártico, ca",
+      "pos": "adj.",
+      "meaning": "南极的"
+    },
+    {
+      "term": "dividir(se)",
+      "pos": "tr., prnl.",
+      "meaning": "分割；分开"
+    },
+    {
+      "term": "temperatura",
+      "pos": "f.",
+      "meaning": "温度"
+    },
+    {
+      "term": "cero",
+      "pos": "m.",
+      "meaning": "零"
+    },
+    {
+      "term": "polar",
+      "pos": "adj.",
+      "meaning": "极地的"
+    },
+    {
+      "term": "derretirse",
+      "pos": "prnl.",
+      "meaning": "融化"
+    },
+    {
+      "term": "nieve",
+      "pos": "f.",
+      "meaning": "雪"
+    },
+    {
+      "term": "hielo",
+      "pos": "m.",
+      "meaning": "冰"
+    },
+    {
+      "term": "ecuador",
+      "pos": "m.",
+      "meaning": "赤道"
+    },
+    {
+      "term": "hemisferio",
+      "pos": "m.",
+      "meaning": "半球"
+    },
+    {
+      "term": "latitud",
+      "pos": "f.",
+      "meaning": "纬度"
+    },
+    {
+      "term": "territorio",
+      "pos": "m.",
+      "meaning": "领土"
+    },
+    {
+      "term": "hallarse",
+      "pos": "prnl.",
+      "meaning": "位于"
+    },
+    {
+      "term": "seco, ca",
+      "pos": "adj.",
+      "meaning": "干燥的"
+    },
+    {
+      "term": "lluvioso, sa",
+      "pos": "adj.",
+      "meaning": "多雨的"
+    },
+    {
+      "term": "cálido, da",
+      "pos": "adj.",
+      "meaning": "温暖的"
+    },
+    {
+      "term": "húmedo, da",
+      "pos": "adj.",
+      "meaning": "潮湿的"
+    },
+    {
+      "term": "frecuente",
+      "pos": "adj.",
+      "meaning": "经常的"
+    },
+    {
+      "term": "adaptar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使适应；适应"
+    },
+    {
+      "term": "proveniente",
+      "pos": "adj.",
+      "meaning": "来自……的"
+    },
+    {
+      "term": "tomate",
+      "pos": "m.",
+      "meaning": "西红柿"
+    },
+    {
+      "term": "mencionar",
+      "pos": "tr.",
+      "meaning": "提及"
+    },
+    {
+      "term": "chocolate",
+      "pos": "m.",
+      "meaning": "巧克力"
+    },
+    {
+      "term": "cacao",
+      "pos": "m.",
+      "meaning": "可可"
+    },
+    {
+      "term": "grano",
+      "pos": "m.",
+      "meaning": "谷物；颗粒"
+    },
+    {
+      "term": "moneda",
+      "pos": "f.",
+      "meaning": "货币，硬币"
+    },
+    {
+      "term": "aporte",
+      "pos": "m.",
+      "meaning": "贡献"
+    },
+    {
+      "term": "negativo, va",
+      "pos": "adj.",
+      "meaning": "负面的，否定的"
+    },
+    {
+      "term": "difusión",
+      "pos": "f.",
+      "meaning": "传播"
+    },
+    {
+      "term": "pernicioso, sa",
+      "pos": "adj.",
+      "meaning": "有害的"
+    },
+    {
+      "term": "tabaco",
+      "pos": "m.",
+      "meaning": "烟草"
+    },
+    {
+      "term": "alimentación",
+      "pos": "f.",
+      "meaning": "饮食"
+    },
+    {
+      "term": "subsistir",
+      "pos": "intr.",
+      "meaning": "生存"
+    },
+    {
+      "term": "alimentarse",
+      "pos": "prnl.",
+      "meaning": "进食，摄取营养"
+    },
+    {
+      "term": "ingerirse",
+      "pos": "prnl.",
+      "meaning": "吃进，摄入"
+    },
+    {
+      "term": "extraerse",
+      "pos": "prnl.",
+      "meaning": "取出"
+    },
+    {
+      "term": "sustancia",
+      "pos": "f.",
+      "meaning": "物质"
+    },
+    {
+      "term": "reparar",
+      "pos": "tr.",
+      "meaning": "修理，弥补"
+    },
+    {
+      "term": "desgaste",
+      "pos": "m.",
+      "meaning": "损耗，消耗"
+    },
+    {
+      "term": "órgano",
+      "pos": "m.",
+      "meaning": "器官"
+    },
+    {
+      "term": "energía",
+      "pos": "f.",
+      "meaning": "能量"
+    },
+    {
+      "term": "elemental",
+      "pos": "adj.",
+      "meaning": "基本的"
+    },
+    {
+      "term": "nutrición",
+      "pos": "f.",
+      "meaning": "营养"
+    },
+    {
+      "term": "reproducción",
+      "pos": "f.",
+      "meaning": "繁殖"
+    },
+    {
+      "term": "relación",
+      "pos": "f.",
+      "meaning": "关系，交往"
+    },
+    {
+      "term": "a diferencia de",
+      "pos": "loc. adv.",
+      "meaning": "与……不同"
+    },
+    {
+      "term": "materia prima",
+      "pos": "loc. adj.",
+      "meaning": "原料"
+    },
+    {
+      "term": "proceso",
+      "pos": "m.",
+      "meaning": "步骤，过程"
+    },
+    {
+      "term": "aceleramiento",
+      "pos": "m.",
+      "meaning": "加速"
+    },
+    {
+      "term": "demanda",
+      "pos": "f.",
+      "meaning": "需求"
+    },
+    {
+      "term": "industrialmente",
+      "pos": "adv.",
+      "meaning": "工业方面地"
+    },
+    {
+      "term": "en lata",
+      "pos": "loc. adj.",
+      "meaning": "罐装的"
+    },
+    {
+      "term": "máximo",
+      "pos": "m.",
+      "meaning": "最大，极致"
+    },
+    {
+      "term": "provecho",
+      "pos": "m.",
+      "meaning": "收益"
+    },
+    {
+      "term": "modalidad",
+      "pos": "f.",
+      "meaning": "方式，样式"
+    },
+    {
+      "term": "a la carta",
+      "pos": "loc. adv.",
+      "meaning": "点菜；定制"
+    },
+    {
+      "term": "en forma de",
+      "pos": "loc. adv.",
+      "meaning": "以……方式"
+    },
+    {
+      "term": "buffet",
+      "pos": "loc. adj.",
+      "meaning": "自助餐"
+    },
+    {
+      "term": "auto-",
+      "pos": "",
+      "meaning": "自我"
+    },
+    {
+      "term": "baja",
+      "pos": "f.",
+      "meaning": "伤亡"
+    },
+    {
+      "term": "heroico, ca",
+      "pos": "adj.",
+      "meaning": "英雄的，英勇的"
+    },
+    {
+      "term": "ibérico, ca",
+      "pos": "adj.",
+      "meaning": "伊比利亚的"
+    },
+    {
+      "term": "indomable",
+      "pos": "adj.",
+      "meaning": "不可征服的"
+    },
+    {
+      "term": "resistencia",
+      "pos": "f.",
+      "meaning": "抵抗，抵御"
+    },
+    {
+      "term": "invasión",
+      "pos": "f.",
+      "meaning": "侵略"
+    },
+    {
+      "term": "Senado",
+      "pos": "m.",
+      "meaning": "参议院，元老院"
+    },
+    {
+      "term": "general",
+      "pos": "m.",
+      "meaning": "将军"
+    },
+    {
+      "term": "numantino, na",
+      "pos": "adj.-s.",
+      "meaning": "努曼西亚的；努曼西亚人"
+    },
+    {
+      "term": "cerco",
+      "pos": "m.",
+      "meaning": "围困"
+    },
+    {
+      "term": "evitar",
+      "pos": "tr.",
+      "meaning": "避免"
+    },
+    {
+      "term": "descuido",
+      "pos": "m.",
+      "meaning": "疏忽，大意"
+    },
+    {
+      "term": "vigilancia",
+      "pos": "f.",
+      "meaning": "监视"
+    },
+    {
+      "term": "huir",
+      "pos": "intr.",
+      "meaning": "逃跑"
+    },
+    {
+      "term": "refuerzo",
+      "pos": "m.",
+      "meaning": "援军，后援"
+    },
+    {
+      "term": "zanja",
+      "pos": "f.",
+      "meaning": "壕沟"
+    },
+    {
+      "term": "transcurrir",
+      "pos": "intr.",
+      "meaning": "过，（时光）流逝"
+    },
+    {
+      "term": "escasear",
+      "pos": "intr.",
+      "meaning": "缺乏"
+    },
+    {
+      "term": "víveres",
+      "pos": "m. pl.",
+      "meaning": "食粮"
+    },
+    {
+      "term": "gemido",
+      "pos": "m.",
+      "meaning": "呻吟"
+    },
+    {
+      "term": "en vano",
+      "pos": "loc. adv.",
+      "meaning": "白白地，徒劳地"
+    },
+    {
+      "term": "a duras penas",
+      "pos": "loc. adv.",
+      "meaning": "很费力地，勉强地"
+    },
+    {
+      "term": "inanición",
+      "pos": "f.",
+      "meaning": "营养不良，饥饿"
+    },
+    {
+      "term": "fracasar",
+      "pos": "intr.",
+      "meaning": "失败"
+    },
+    {
+      "term": "franquear",
+      "pos": "tr.",
+      "meaning": "穿过，越过"
+    },
+    {
+      "term": "perecer",
+      "pos": "intr.",
+      "meaning": "死去，消亡"
+    },
+    {
+      "term": "inevitablemente",
+      "pos": "adv.",
+      "meaning": "不可避免地"
+    },
+    {
+      "term": "desesperante",
+      "pos": "adj.",
+      "meaning": "令人绝望的"
+    },
+    {
+      "term": "rendirse",
+      "pos": "prnl.",
+      "meaning": "投降，认输"
+    },
+    {
+      "term": "a cambio de",
+      "pos": "loc. adv.",
+      "meaning": "换取"
+    },
+    {
+      "term": "clemencia",
+      "pos": "f.",
+      "meaning": "慈悲，仁政"
+    },
+    {
+      "term": "unanimidad",
+      "pos": "f.",
+      "meaning": "一致"
+    },
+    {
+      "term": "antes que",
+      "pos": "loc. conj.",
+      "meaning": "宁肯……不愿"
+    },
+    {
+      "term": "atraer",
+      "pos": "tr.",
+      "meaning": "吸引"
+    },
+    {
+      "term": "sitiador, ra",
+      "pos": "m., f.",
+      "meaning": "围困者"
+    },
+    {
+      "term": "presenciar",
+      "pos": "tr.",
+      "meaning": "观看，目睹"
+    },
+    {
+      "term": "escena",
+      "pos": "f.",
+      "meaning": "场景"
+    },
+    {
+      "term": "mar",
+      "pos": "m., f.",
+      "meaning": "大海，海洋"
+    },
+    {
+      "term": "llama",
+      "pos": "f.",
+      "meaning": "火焰"
+    },
+    {
+      "term": "estrangular",
+      "pos": "tr.",
+      "meaning": "掐死，扼杀"
+    },
+    {
+      "term": "fiera",
+      "pos": "f.",
+      "meaning": "猛兽"
+    },
+    {
+      "term": "desesperado, da",
+      "pos": "adj.",
+      "meaning": "绝望的"
+    },
+    {
+      "term": "hoguera",
+      "pos": "f.",
+      "meaning": "篝火，大火"
+    },
+    {
+      "term": "vencedor, ra",
+      "pos": "adj.-s.",
+      "meaning": "战胜的；胜利者"
+    },
+    {
+      "term": "vencido, da",
+      "pos": "adj.-s.",
+      "meaning": "失败的；失败者"
+    },
+    {
+      "term": "penetrar",
+      "pos": "intr.",
+      "meaning": "进入，插入"
+    },
+    {
+      "term": "torre",
+      "pos": "f.",
+      "meaning": "塔楼"
+    },
+    {
+      "term": "término",
+      "pos": "m.",
+      "meaning": "措词，话语；术语，专门用语"
+    },
+    {
+      "term": "heredar",
+      "pos": "tr.",
+      "meaning": "继承"
+    },
+    {
+      "term": "valor",
+      "pos": "m.",
+      "meaning": "勇气；价值"
+    },
+    {
+      "term": "bienes",
+      "pos": "m. pl.",
+      "meaning": "财产"
+    },
+    {
+      "term": "riqueza",
+      "pos": "f.",
+      "meaning": "财富"
+    },
+    {
+      "term": "patria",
+      "pos": "f.",
+      "meaning": "祖国"
+    },
+    {
+      "term": "victoria",
+      "pos": "f.",
+      "meaning": "胜利"
+    },
+    {
+      "term": "ruina",
+      "pos": "f.",
+      "meaning": "废墟；破产"
+    },
+    {
+      "term": "negar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "否认；拒绝"
+    },
+    {
+      "term": "título",
+      "pos": "m.",
+      "meaning": "称号；标题"
+    },
+    {
+      "term": "estudio",
+      "pos": "m.",
+      "meaning": "工作室；照相馆"
+    },
+    {
+      "term": "revelar",
+      "pos": "tr.",
+      "meaning": "冲洗；显示"
+    },
+    {
+      "term": "tirar",
+      "pos": "tr.",
+      "meaning": "扔，抛掷"
+    },
+    {
+      "term": "cámara",
+      "pos": "f.",
+      "meaning": "照相机"
+    },
+    {
+      "term": "dinosaurio",
+      "pos": "m.",
+      "meaning": "恐龙"
+    },
+    {
+      "term": "digital",
+      "pos": "adj.",
+      "meaning": "数码的"
+    },
+    {
+      "term": "hacer caso",
+      "pos": "",
+      "meaning": "理睬"
+    },
+    {
+      "term": "rollo",
+      "pos": "m.",
+      "meaning": "一卷；胶卷"
+    },
+    {
+      "term": "suponer",
+      "pos": "tr.",
+      "meaning": "意味着"
+    },
+    {
+      "term": "desesperarse",
+      "pos": "prnl.",
+      "meaning": "绝望"
+    },
+    {
+      "term": "anticuado, da",
+      "pos": "adj.",
+      "meaning": "过时的"
+    },
+    {
+      "term": "navegar",
+      "pos": "intr.",
+      "meaning": "航行，漫游"
+    },
+    {
+      "term": "luminosidad",
+      "pos": "f.",
+      "meaning": "光亮"
+    },
+    {
+      "term": "fracaso",
+      "pos": "m.",
+      "meaning": "失败"
+    },
+    {
+      "term": "herencia",
+      "pos": "f.",
+      "meaning": "遗产"
+    },
+    {
+      "term": "héroe, ina",
+      "pos": "m., f.",
+      "meaning": "英雄"
+    },
+    {
+      "term": "heroísmo",
+      "pos": "m.",
+      "meaning": "英雄主义"
+    },
+    {
+      "term": "horror",
+      "pos": "m.",
+      "meaning": "恐怖，害怕"
+    },
+    {
+      "term": "huida",
+      "pos": "f.",
+      "meaning": "逃跑"
+    },
+    {
+      "term": "conocedor, ra",
+      "pos": "m., f.",
+      "meaning": "知情者"
+    },
+    {
+      "term": "especializarse",
+      "pos": "prnl.",
+      "meaning": "以……为专业，擅长"
+    },
+    {
+      "term": "representar",
+      "pos": "tr.",
+      "meaning": "代表"
+    },
+    {
+      "term": "tortilla",
+      "pos": "f.",
+      "meaning": "薄饼"
+    },
+    {
+      "term": "taco",
+      "pos": "m. (Mex.)",
+      "meaning": "玉米饼（墨西哥）"
+    },
+    {
+      "term": "circular",
+      "pos": "adj.",
+      "meaning": "圆形的"
+    },
+    {
+      "term": "envolver",
+      "pos": "tr.",
+      "meaning": "包，裹"
+    },
+    {
+      "term": "freír",
+      "pos": "tr.",
+      "meaning": "炸，煎"
+    },
+    {
+      "term": "picar",
+      "pos": "tr.",
+      "meaning": "切碎"
+    },
+    {
+      "term": "legumbre",
+      "pos": "f.",
+      "meaning": "豆科蔬菜；蔬菜"
+    },
+    {
+      "term": "preparado",
+      "pos": "m.",
+      "meaning": "佐料"
+    },
+    {
+      "term": "mixto, ta",
+      "pos": "adj.",
+      "meaning": "混合的"
+    },
+    {
+      "term": "compromiso",
+      "pos": "m.",
+      "meaning": "约会；义务"
+    },
+    {
+      "term": "producto",
+      "pos": "m.",
+      "meaning": "产品"
+    },
+    {
+      "term": "alimenticio, cia",
+      "pos": "adj.",
+      "meaning": "食品的"
+    },
+    {
+      "term": "comestible",
+      "pos": "adj., m.",
+      "meaning": "可食用的；食品"
+    },
+    {
+      "term": "menú",
+      "pos": "m.",
+      "meaning": "菜单"
+    },
+    {
+      "term": "cotidiano, na",
+      "pos": "adj.",
+      "meaning": "日常的"
+    },
+    {
+      "term": "provenir",
+      "pos": "intr.",
+      "meaning": "来自"
+    },
+    {
+      "term": "de veras",
+      "pos": "loc. adv.",
+      "meaning": "真的"
+    },
+    {
+      "term": "originario, ria",
+      "pos": "adj.",
+      "meaning": "源自，来自"
+    },
+    {
+      "term": "Centroamérica",
+      "pos": "",
+      "meaning": "中美洲"
+    },
+    {
+      "term": "nutritivo, va",
+      "pos": "adj.",
+      "meaning": "营养的"
+    },
+    {
+      "term": "variedad",
+      "pos": "f.",
+      "meaning": "多种多样，品种"
+    },
+    {
+      "term": "papa",
+      "pos": "f.",
+      "meaning": "土豆"
+    },
+    {
+      "term": "patata",
+      "pos": "f.",
+      "meaning": "土豆"
+    },
+    {
+      "term": "aportar",
+      "pos": "tr.",
+      "meaning": "提供，贡献"
+    },
+    {
+      "term": "andino, na",
+      "pos": "adj.",
+      "meaning": "安第斯山的"
+    },
+    {
+      "term": "Galicia",
+      "pos": "",
+      "meaning": "加利西亚"
+    },
+    {
+      "term": "Irlanda",
+      "pos": "",
+      "meaning": "爱尔兰"
+    },
+    {
+      "term": "hambruna",
+      "pos": "f.",
+      "meaning": "大饥荒"
+    },
+    {
+      "term": "determinante",
+      "pos": "adj.",
+      "meaning": "决定性的"
+    },
+    {
+      "term": "ola",
+      "pos": "f.",
+      "meaning": "浪，浪潮"
+    },
+    {
+      "term": "migratorio, ria",
+      "pos": "adj.",
+      "meaning": "移民的"
+    },
+    {
+      "term": "ascendencia",
+      "pos": "f.",
+      "meaning": "祖先"
+    },
+    {
+      "term": "gallego, ga",
+      "pos": "adj.-s.",
+      "meaning": "加利西亚的；加利西亚人"
+    },
+    {
+      "term": "norteamericano, na",
+      "pos": "adj.-s.",
+      "meaning": "美国的；美国人"
+    },
+    {
+      "term": "irlandés, sa",
+      "pos": "adj.-s.",
+      "meaning": "爱尔兰的；爱尔兰人"
+    },
+    {
+      "term": "por lo visto",
+      "pos": "loc. adv.",
+      "meaning": "看来"
+    },
+    {
+      "term": "adaptar",
+      "pos": "tr.",
+      "meaning": "使适应；改编"
+    },
+    {
+      "term": "relación",
+      "pos": "f.",
+      "meaning": "交际，交往"
+    },
+    {
+      "term": "precolombino, na",
+      "pos": "adj.",
+      "meaning": "哥伦布之前的"
+    },
+    {
+      "term": "vasto, ta",
+      "pos": "adj.",
+      "meaning": "辽阔的"
+    },
+    {
+      "term": "múltiple",
+      "pos": "adj.",
+      "meaning": "众多的"
+    },
+    {
+      "term": "apogeo",
+      "pos": "m.",
+      "meaning": "繁荣，富裕"
+    },
+    {
+      "term": "poderío",
+      "pos": "m.",
+      "meaning": "灿烂，光辉；强盛"
+    },
+    {
+      "term": "influencia",
+      "pos": "f.",
+      "meaning": "影响"
+    },
+    {
+      "term": "marcadamente",
+      "pos": "adv.",
+      "meaning": "明显地，突出地"
+    },
+    {
+      "term": "abarcar",
+      "pos": "tr.",
+      "meaning": "包括"
+    },
+    {
+      "term": "Ecuador",
+      "pos": "",
+      "meaning": "厄瓜多尔"
+    },
+    {
+      "term": "red",
+      "pos": "f.",
+      "meaning": "网，网络"
+    },
+    {
+      "term": "civil",
+      "pos": "adj.",
+      "meaning": "民间的，民用的"
+    },
+    {
+      "term": "completo, ta",
+      "pos": "adj.",
+      "meaning": "完整的"
+    },
+    {
+      "term": "derrota",
+      "pos": "f.",
+      "meaning": "失败"
+    },
+    {
+      "term": "orgulloso, sa",
+      "pos": "adj.",
+      "meaning": "骄傲的"
+    },
+    {
+      "term": "fundar",
+      "pos": "tr.",
+      "meaning": "建立"
+    },
+    {
+      "term": "Machu Picchu",
+      "pos": "",
+      "meaning": "马丘比丘"
+    },
+    {
+      "term": "turístico, ca",
+      "pos": "adj.",
+      "meaning": "旅游的"
+    },
+    {
+      "term": "piedra",
+      "pos": "f.",
+      "meaning": "石头"
+    },
+    {
+      "term": "labrar",
+      "pos": "tr.",
+      "meaning": "雕琢；加工"
+    },
+    {
+      "term": "acequia",
+      "pos": "f.",
+      "meaning": "水渠"
+    },
+    {
+      "term": "roca",
+      "pos": "f.",
+      "meaning": "岩石"
+    },
+    {
+      "term": "escalinata",
+      "pos": "f.",
+      "meaning": "阶梯，台阶"
+    },
+    {
+      "term": "sensación",
+      "pos": "f.",
+      "meaning": "感觉"
+    },
+    {
+      "term": "entablar",
+      "pos": "tr.",
+      "meaning": "开始，建立"
+    },
+    {
+      "term": "artículo",
+      "pos": "m.",
+      "meaning": "商品；文章"
+    },
+    {
+      "term": "tocador",
+      "pos": "m.",
+      "meaning": "梳妆台"
+    },
+    {
+      "term": "sección",
+      "pos": "f.",
+      "meaning": "部门，部分"
+    },
+    {
+      "term": "objeto",
+      "pos": "m.",
+      "meaning": "物品"
+    },
+    {
+      "term": "crema",
+      "pos": "f.",
+      "meaning": "（护肤的）油膏"
+    },
+    {
+      "term": "jabón",
+      "pos": "m.",
+      "meaning": "肥皂"
+    },
+    {
+      "term": "pasta",
+      "pos": "f.",
+      "meaning": "糊状物；面团"
+    },
+    {
+      "term": "diente",
+      "pos": "m.",
+      "meaning": "牙齿"
+    },
+    {
+      "term": "distraído, da",
+      "pos": "adj.",
+      "meaning": "心不在焉的"
+    },
+    {
+      "term": "tubo",
+      "pos": "m.",
+      "meaning": "管子"
+    },
+    {
+      "term": "dentífrico, ca",
+      "pos": "adj.",
+      "meaning": "牙齿的；牙膏的"
+    },
+    {
+      "term": "pastilla",
+      "pos": "f.",
+      "meaning": "小块，小片"
+    },
+    {
+      "term": "frasco",
+      "pos": "m.",
+      "meaning": "小瓶子"
+    },
+    {
+      "term": "champú",
+      "pos": "m.",
+      "meaning": "香波"
+    },
+    {
+      "term": "peine",
+      "pos": "m.",
+      "meaning": "梳子"
+    },
+    {
+      "term": "calvo, va",
+      "pos": "adj.",
+      "meaning": "秃头的，谢顶的"
+    },
+    {
+      "term": "Génova",
+      "pos": "",
+      "meaning": "热那亚"
+    },
+    {
+      "term": "descubrir",
+      "pos": "tr.",
+      "meaning": "发现"
+    },
+    {
+      "term": "suposición",
+      "pos": "f.",
+      "meaning": "假设"
+    },
+    {
+      "term": "enriquecer(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使……丰富；发财"
+    },
+    {
+      "term": "hazaña",
+      "pos": "f.",
+      "meaning": "壮举"
+    },
+    {
+      "term": "tejedor, ra",
+      "pos": "m., f.",
+      "meaning": "织工"
+    },
+    {
+      "term": "guiar",
+      "pos": "tr.",
+      "meaning": "引导"
+    },
+    {
+      "term": "afición",
+      "pos": "f.",
+      "meaning": "爱好"
+    },
+    {
+      "term": "geografía",
+      "pos": "f.",
+      "meaning": "地理"
+    },
+    {
+      "term": "travesía",
+      "pos": "f.",
+      "meaning": "旅行，航海"
+    },
+    {
+      "term": "marinero, ra",
+      "pos": "m., f.",
+      "meaning": "海员"
+    },
+    {
+      "term": "antepasado, da",
+      "pos": "m., f.",
+      "meaning": "祖先"
+    },
+    {
+      "term": "oeste",
+      "pos": "m.",
+      "meaning": "西边，西部"
+    },
+    {
+      "term": "curiosidad",
+      "pos": "f.",
+      "meaning": "好奇心"
+    },
+    {
+      "term": "partidario, ria",
+      "pos": "adj.-s.",
+      "meaning": "支持的，拥护的；支持者，拥护者"
+    },
+    {
+      "term": "descabellado, da",
+      "pos": "adj.",
+      "meaning": "荒唐的"
+    },
+    {
+      "term": "temerario, ria",
+      "pos": "adj.",
+      "meaning": "胆大的，鲁莽的"
+    },
+    {
+      "term": "rechazar",
+      "pos": "tr.",
+      "meaning": "拒绝"
+    },
+    {
+      "term": "proyecto",
+      "pos": "m.",
+      "meaning": "方案，项目"
+    },
+    {
+      "term": "Portugal",
+      "pos": "",
+      "meaning": "葡萄牙"
+    },
+    {
+      "term": "asesor, ra",
+      "pos": "m., f.",
+      "meaning": "顾问"
+    },
+    {
+      "term": "comerciar",
+      "pos": "intr.",
+      "meaning": "做生意"
+    },
+    {
+      "term": "genovés, sa",
+      "pos": "adj.-s.",
+      "meaning": "热那亚的；热那亚人"
+    },
+    {
+      "term": "flota",
+      "pos": "f.",
+      "meaning": "船队，舰队"
+    },
+    {
+      "term": "componer",
+      "pos": "tr.",
+      "meaning": "组成"
+    },
+    {
+      "term": "inquietar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使不安；不安"
+    },
+    {
+      "term": "a punto de",
+      "pos": "loc. adj.",
+      "meaning": "差点，几乎"
+    },
+    {
+      "term": "rebelarse",
+      "pos": "prnl.",
+      "meaning": "造反，反抗"
+    },
+    {
+      "term": "salvador, ra",
+      "pos": "adj.-s.",
+      "meaning": "救命的；救星"
+    },
+    {
+      "term": "isla",
+      "pos": "f.",
+      "meaning": "岛屿"
+    },
+    {
+      "term": "desembarcar",
+      "pos": "intr.",
+      "meaning": "下船，登陆"
+    },
+    {
+      "term": "bautizar",
+      "pos": "tr.",
+      "meaning": "洗礼，命名"
+    },
+    {
+      "term": "San Salvador",
+      "pos": "",
+      "meaning": "圣萨尔瓦多"
+    },
+    {
+      "term": "Guanahaní",
+      "pos": "",
+      "meaning": "瓜纳阿尼"
+    },
+    {
+      "term": "descubrimiento",
+      "pos": "m.",
+      "meaning": "发现"
+    },
+    {
+      "term": "fisonomía",
+      "pos": "f.",
+      "meaning": "面貌"
+    },
+    {
+      "term": "fiar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "赊账；信任"
+    },
+    {
+      "term": "apuro",
+      "pos": "m.",
+      "meaning": "窘境"
+    },
+    {
+      "term": "céntimo",
+      "pos": "m.",
+      "meaning": "分币"
+    },
+    {
+      "term": "leche",
+      "pos": "f.",
+      "meaning": "奶，乳"
+    },
+    {
+      "term": "de verdad",
+      "pos": "loc. adv.",
+      "meaning": "确实"
+    },
+    {
+      "term": "letrero",
+      "pos": "m.",
+      "meaning": "招牌，标语"
+    },
+    {
+      "term": "independencia",
+      "pos": "f.",
+      "meaning": "独立"
+    },
+    {
+      "term": "contribuir",
+      "pos": "intr.",
+      "meaning": "纳税，捐赠；促成"
+    },
+    {
+      "term": "nacimiento",
+      "pos": "m.",
+      "meaning": "出生，诞生"
+    },
+    {
+      "term": "choque",
+      "pos": "m.",
+      "meaning": "冲突，撞击"
+    },
+    {
+      "term": "colonial",
+      "pos": "adj.",
+      "meaning": "殖民的"
+    },
+    {
+      "term": "parto",
+      "pos": "m.",
+      "meaning": "分娩"
+    },
+    {
+      "term": "gestación",
+      "pos": "f.",
+      "meaning": "孕育，酝酿"
+    },
+    {
+      "term": "etnia",
+      "pos": "f.",
+      "meaning": "民族，人种"
+    },
+    {
+      "term": "drásticamente",
+      "pos": "adv.",
+      "meaning": "剧烈地"
+    },
+    {
+      "term": "esclavizar",
+      "pos": "tr.",
+      "meaning": "奴役"
+    },
+    {
+      "term": "mezclarse",
+      "pos": "prnl.",
+      "meaning": "混合，融合"
+    },
+    {
+      "term": "racialmente",
+      "pos": "adv.",
+      "meaning": "种族上（间）"
+    },
+    {
+      "term": "sociedad",
+      "pos": "f.",
+      "meaning": "社会"
+    },
+    {
+      "term": "basarse",
+      "pos": "prnl.",
+      "meaning": "基础是；以……为基础"
+    },
+    {
+      "term": "desigualdad",
+      "pos": "f.",
+      "meaning": "不平等"
+    },
+    {
+      "term": "cumbre",
+      "pos": "f.",
+      "meaning": "高峰；峰会"
+    },
+    {
+      "term": "virrey",
+      "pos": "m.",
+      "meaning": "总督"
+    },
+    {
+      "term": "clase",
+      "pos": "f.",
+      "meaning": "阶级"
+    },
+    {
+      "term": "criollo, lla",
+      "pos": "adj.-s.",
+      "meaning": "克里奥尔的；土生白人"
+    },
+    {
+      "term": "base",
+      "pos": "f.",
+      "meaning": "基础"
+    },
+    {
+      "term": "remediar",
+      "pos": "tr.",
+      "meaning": "补救，解决"
+    },
+    {
+      "term": "carencia",
+      "pos": "f.",
+      "meaning": "缺乏"
+    },
+    {
+      "term": "posteriormente",
+      "pos": "adv.",
+      "meaning": "后来，随后"
+    },
+    {
+      "term": "introducir(se)",
+      "pos": "tr., prnl.",
+      "meaning": "引进；进入"
+    },
+    {
+      "term": "esclavo, va",
+      "pos": "m., f.",
+      "meaning": "奴隶"
+    },
+    {
+      "term": "agregar",
+      "pos": "tr.",
+      "meaning": "补充，添加"
+    },
+    {
+      "term": "elemento",
+      "pos": "m.",
+      "meaning": "成分，元素"
+    },
+    {
+      "term": "étnico, ca",
+      "pos": "adj.",
+      "meaning": "种族的，民族的"
+    },
+    {
+      "term": "próspero, ra",
+      "pos": "adj.",
+      "meaning": "繁荣的"
+    },
+    {
+      "term": "prohibir",
+      "pos": "tr.",
+      "meaning": "禁止"
+    },
+    {
+      "term": "metrópoli",
+      "pos": "f.",
+      "meaning": "宗主国"
+    },
+    {
+      "term": "suministrar",
+      "pos": "tr.",
+      "meaning": "提供，供给"
+    },
+    {
+      "term": "resignarse",
+      "pos": "prnl.",
+      "meaning": "认命；隐忍"
+    },
+    {
+      "term": "inconforme",
+      "pos": "adj.",
+      "meaning": "不满的，持异见的"
+    },
+    {
+      "term": "coyuntura",
+      "pos": "f.",
+      "meaning": "景况，机会"
+    },
+    {
+      "term": "movimiento",
+      "pos": "m.",
+      "meaning": "运动"
+    },
+    {
+      "term": "independista",
+      "pos": "adj.-s.",
+      "meaning": "主张独立的"
+    },
+    {
+      "term": "destacar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使突出；突出"
+    },
+    {
+      "term": "dirigente",
+      "pos": "m., f.",
+      "meaning": "领导人"
+    },
+    {
+      "term": "iniciador, ra",
+      "pos": "m., f.",
+      "meaning": "启动者"
+    },
+    {
+      "term": "sacerdote",
+      "pos": "m.",
+      "meaning": "教士"
+    },
+    {
+      "term": "influir",
+      "pos": "tr.",
+      "meaning": "影响"
+    },
+    {
+      "term": "revolución",
+      "pos": "f.",
+      "meaning": "革命"
+    },
+    {
+      "term": "expedir",
+      "pos": "tr.",
+      "meaning": "发布"
+    },
+    {
+      "term": "declaración",
+      "pos": "f.",
+      "meaning": "声明，宣言"
+    },
+    {
+      "term": "decretar",
+      "pos": "tr.",
+      "meaning": "发布法令"
+    },
+    {
+      "term": "libertador, ra",
+      "pos": "m., f.",
+      "meaning": "解放者"
+    },
+    {
+      "term": "república",
+      "pos": "f.",
+      "meaning": "共和国"
+    },
+    {
+      "term": "proclamar",
+      "pos": "tr.",
+      "meaning": "宣布"
+    },
+    {
+      "term": "ideal",
+      "pos": "adj., m.",
+      "meaning": "理想的；理想"
+    },
+    {
+      "term": "ceder",
+      "pos": "tr., intr.",
+      "meaning": "让给；让步，退让"
+    },
+    {
+      "term": "escenario",
+      "pos": "m.",
+      "meaning": "舞台"
+    },
+    {
+      "term": "gloria",
+      "pos": "f.",
+      "meaning": "荣耀，光荣"
+    },
+    {
+      "term": "victorioso, sa",
+      "pos": "adj.",
+      "meaning": "胜利的"
+    },
+    {
+      "term": "real",
+      "pos": "adj.",
+      "meaning": "国王的；真实的"
+    },
+    {
+      "term": "Venezuela",
+      "pos": "",
+      "meaning": "委内瑞拉"
+    },
+    {
+      "term": "juntar",
+      "pos": "tr.",
+      "meaning": "汇集，合并"
+    },
+    {
+      "term": "liberar",
+      "pos": "tr.",
+      "meaning": "解放"
+    },
+    {
+      "term": "unificar",
+      "pos": "tr.",
+      "meaning": "统一"
+    },
+    {
+      "term": "arquitectura",
+      "pos": "f.",
+      "meaning": "建筑技术（科学）"
+    },
+    {
+      "term": "escultura",
+      "pos": "f.",
+      "meaning": "雕塑"
+    },
+    {
+      "term": "bordear",
+      "pos": "tr.",
+      "meaning": "使围绕"
+    },
+    {
+      "term": "palmera",
+      "pos": "f.",
+      "meaning": "棕榈树"
+    },
+    {
+      "term": "catedral",
+      "pos": "f.",
+      "meaning": "大教堂，主教堂"
+    },
+    {
+      "term": "barroco, ca",
+      "pos": "adj.",
+      "meaning": "巴洛克的"
+    },
+    {
+      "term": "joya",
+      "pos": "f.",
+      "meaning": "珍宝；珠宝"
+    },
+    {
+      "term": "arquitectónico, ca",
+      "pos": "adj.",
+      "meaning": "建筑的"
+    },
+    {
+      "term": "barroquismo",
+      "pos": "m.",
+      "meaning": "巴洛克主义"
+    },
+    {
+      "term": "típicamente",
+      "pos": "adv.",
+      "meaning": "典型地，地道地"
+    },
+    {
+      "term": "característica",
+      "pos": "f.",
+      "meaning": "特点"
+    },
+    {
+      "term": "local",
+      "pos": "adj.",
+      "meaning": "地方的，当地的"
+    },
+    {
+      "term": "neoclásico, ca",
+      "pos": "adj.",
+      "meaning": "新古典的"
+    },
+    {
+      "term": "compañía",
+      "pos": "f.",
+      "meaning": "剧团；公司"
+    },
+    {
+      "term": "fama",
+      "pos": "f.",
+      "meaning": "声誉，声望"
+    },
+    {
+      "term": "conservar",
+      "pos": "tr.",
+      "meaning": "保留，保存"
+    },
+    {
+      "term": "estatua",
+      "pos": "f.",
+      "meaning": "塑像"
+    },
+    {
+      "term": "erigir",
+      "pos": "tr., intr.",
+      "meaning": "竖起，筑起；矗立"
+    },
+    {
+      "term": "plazoleta",
+      "pos": "f.",
+      "meaning": "小广场"
+    },
+    {
+      "term": "en memoria de",
+      "pos": "loc. adv.",
+      "meaning": "为纪念……的"
+    },
+    {
+      "term": "probablemente",
+      "pos": "adv.",
+      "meaning": "可能"
+    },
+    {
+      "term": "hincha",
+      "pos": "m., f.",
+      "meaning": "球迷"
+    },
+    {
+      "term": "vitorear",
+      "pos": "tr.",
+      "meaning": "欢呼"
+    },
+    {
+      "term": "triunfo",
+      "pos": "m.",
+      "meaning": "胜利"
+    },
+    {
+      "term": "a fondo",
+      "pos": "loc. adv.",
+      "meaning": "深入地"
+    },
+    {
+      "term": "justificar",
+      "pos": "tr.",
+      "meaning": "证实，辩解"
+    },
+    {
+      "term": "acto",
+      "pos": "m.",
+      "meaning": "行为"
+    },
+    {
+      "term": "nimiedad",
+      "pos": "f.",
+      "meaning": "小事，琐事"
+    },
+    {
+      "term": "fanático, ca",
+      "pos": "adj.-s.",
+      "meaning": "狂热的，着迷的；狂热分子"
+    },
+    {
+      "term": "alienado, da",
+      "pos": "adj.-s.",
+      "meaning": "异化了的，走火入魔的人"
+    },
+    {
+      "term": "promover",
+      "pos": "tr.",
+      "meaning": "推动，促进"
+    },
+    {
+      "term": "desmedido, da",
+      "pos": "adj.",
+      "meaning": "过分的，夸张的"
+    },
+    {
+      "term": "admiración",
+      "pos": "f.",
+      "meaning": "崇敬，惊羡"
+    },
+    {
+      "term": "riesgo",
+      "pos": "m.",
+      "meaning": "风险"
+    },
+    {
+      "term": "fanatismo",
+      "pos": "m.",
+      "meaning": "狂热，着迷"
+    },
+    {
+      "term": "acción",
+      "pos": "f.",
+      "meaning": "行动"
+    },
+    {
+      "term": "favorito, ta",
+      "pos": "adj.-s.",
+      "meaning": "宠爱的，得宠的；宠儿"
+    },
+    {
+      "term": "incondicional",
+      "pos": "adj.",
+      "meaning": "无条件的"
+    },
+    {
+      "term": "irracional",
+      "pos": "adj.",
+      "meaning": "缺乏理性的"
+    },
+    {
+      "term": "constituir",
+      "pos": "tr.",
+      "meaning": "构成，是"
+    },
+    {
+      "term": "ocio",
+      "pos": "m.",
+      "meaning": "闲暇"
+    },
+    {
+      "term": "chocante",
+      "pos": "adj.",
+      "meaning": "令人惊讶的；令人反感的"
+    },
+    {
+      "term": "afán",
+      "pos": "m.",
+      "meaning": "强烈的愿望，十足的干劲"
+    },
+    {
+      "term": "mercantil",
+      "pos": "adj.",
+      "meaning": "商业的"
+    },
+    {
+      "term": "primordial",
+      "pos": "adj.",
+      "meaning": "首要的"
+    },
+    {
+      "term": "fortalecer",
+      "pos": "tr.",
+      "meaning": "增强，加强"
+    },
+    {
+      "term": "músculo",
+      "pos": "m.",
+      "meaning": "肌肉"
+    },
+    {
+      "term": "desarrollarse",
+      "pos": "prnl.",
+      "meaning": "发展"
+    },
+    {
+      "term": "rendir",
+      "pos": "intr.",
+      "meaning": "产生成效，出活儿"
+    },
+    {
+      "term": "físico, ca",
+      "pos": "adj.",
+      "meaning": "体力的；物理的"
+    },
+    {
+      "term": "intelectual",
+      "pos": "adj.-s.",
+      "meaning": "智力的；知识分子"
+    },
+    {
+      "term": "Egipto",
+      "pos": "",
+      "meaning": "埃及"
+    },
+    {
+      "term": "Esfinge",
+      "pos": "f.",
+      "meaning": "狮身人面像"
+    },
+    {
+      "term": "película",
+      "pos": "f.",
+      "meaning": "电影；胶片"
+    },
+    {
+      "term": "valle",
+      "pos": "m.",
+      "meaning": "河谷，山谷"
+    },
+    {
+      "term": "el Nilo",
+      "pos": "",
+      "meaning": "尼罗河"
+    },
+    {
+      "term": "perfil",
+      "pos": "m.",
+      "meaning": "侧影；轮廓"
+    },
+    {
+      "term": "El Cairo",
+      "pos": "",
+      "meaning": "开罗"
+    },
+    {
+      "term": "reiterar",
+      "pos": "tr.",
+      "meaning": "重申，重做"
+    },
+    {
+      "term": "antigüedad",
+      "pos": "f.",
+      "meaning": "古代"
+    },
+    {
+      "term": "medir",
+      "pos": "tr., intr.",
+      "meaning": "度量；（长短、大小）尺寸是"
+    },
+    {
+      "term": "altura",
+      "pos": "f.",
+      "meaning": "高度"
+    },
+    {
+      "term": "deterioro",
+      "pos": "m.",
+      "meaning": "损坏，破损"
+    },
+    {
+      "term": "longitud",
+      "pos": "f.",
+      "meaning": "长度"
+    },
+    {
+      "term": "coloso",
+      "pos": "m.",
+      "meaning": "庞然大物，巨人"
+    },
+    {
+      "term": "rudimentario, ria",
+      "pos": "adj.",
+      "meaning": "简陋的"
+    },
+    {
+      "term": "edificar",
+      "pos": "tr.",
+      "meaning": "建造"
+    },
+    {
+      "term": "a la vez",
+      "pos": "loc. adv.",
+      "meaning": "同时"
+    },
+    {
+      "term": "renovar",
+      "pos": "tr.",
+      "meaning": "更新"
+    },
+    {
+      "term": "turno",
+      "pos": "m.",
+      "meaning": "轮班"
+    },
+    {
+      "term": "contingente",
+      "pos": "m.",
+      "meaning": "组，团队"
+    },
+    {
+      "term": "edificación",
+      "pos": "f.",
+      "meaning": "建造；建筑物"
+    },
+    {
+      "term": "tumba",
+      "pos": "f.",
+      "meaning": "坟墓"
+    },
+    {
+      "term": "enterrar",
+      "pos": "tr.",
+      "meaning": "埋，埋葬"
+    },
+    {
+      "term": "faraón",
+      "pos": "m.",
+      "meaning": "法老"
+    },
+    {
+      "term": "momia",
+      "pos": "f.",
+      "meaning": "木乃伊"
+    },
+    {
+      "term": "eternidad",
+      "pos": "f.",
+      "meaning": "永恒"
+    },
+    {
+      "term": "punto de vista",
+      "pos": "m.",
+      "meaning": "观点"
+    },
+    {
+      "term": "perpetuar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使永存；永存"
+    },
+    {
+      "term": "monumental",
+      "pos": "adj.",
+      "meaning": "巨大的，宏伟的"
+    },
+    {
+      "term": "ingenio",
+      "pos": "m.",
+      "meaning": "才智"
+    },
+    {
+      "term": "esplendoroso, sa",
+      "pos": "adj.",
+      "meaning": "光辉灿烂的"
+    },
+    {
+      "term": "restos",
+      "pos": "m. pl.",
+      "meaning": "遗骸，遗骨"
+    },
+    {
+      "term": "desprovisto, ta",
+      "pos": "p.p.",
+      "meaning": "被剥夺，缺乏"
+    },
+    {
+      "term": "grandeza",
+      "pos": "f.",
+      "meaning": "伟大，宏伟"
+    },
+    {
+      "term": "emerger",
+      "pos": "intr.",
+      "meaning": "露出（表面）"
+    },
+    {
+      "term": "misterioso, sa",
+      "pos": "adj.",
+      "meaning": "神秘的"
+    },
+    {
+      "term": "figura",
+      "pos": "f.",
+      "meaning": "外表，形象"
+    },
+    {
+      "term": "tallar",
+      "pos": "tr.",
+      "meaning": "雕刻"
+    },
+    {
+      "term": "inmenso, sa",
+      "pos": "adj.",
+      "meaning": "巨大的"
+    },
+    {
+      "term": "peñasco",
+      "pos": "m.",
+      "meaning": "巨石"
+    },
+    {
+      "term": "oreja",
+      "pos": "f.",
+      "meaning": "耳朵"
+    },
+    {
+      "term": "visible",
+      "pos": "adj.",
+      "meaning": "看得见的"
+    },
+    {
+      "term": "excavación",
+      "pos": "f.",
+      "meaning": "挖掘"
+    },
+    {
+      "term": "templete",
+      "pos": "m.",
+      "meaning": "小庙"
+    },
+    {
+      "term": "colocar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "放置；位于"
+    },
+    {
+      "term": "pecho",
+      "pos": "m.",
+      "meaning": "胸，胸部"
+    },
+    {
+      "term": "lomo",
+      "pos": "m.",
+      "meaning": "背脊"
+    },
+    {
+      "term": "imagen",
+      "pos": "f.",
+      "meaning": "造像，表征，形象"
+    },
+    {
+      "term": "personificar",
+      "pos": "tr.",
+      "meaning": "拟人化"
+    },
+    {
+      "term": "egipcio, cia",
+      "pos": "adj.-s.",
+      "meaning": "埃及的；埃及人"
+    },
+    {
+      "term": "transplantar",
+      "pos": "tr.",
+      "meaning": "移植"
+    },
+    {
+      "term": "alado, da",
+      "pos": "adj.",
+      "meaning": "有翅膀的"
+    },
+    {
+      "term": "monstruo, trua",
+      "pos": "m., f.",
+      "meaning": "妖魔，怪物"
+    },
+    {
+      "term": "apostar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使守候；守候"
+    },
+    {
+      "term": "enigma",
+      "pos": "m.",
+      "meaning": "谜，谜语"
+    },
+    {
+      "term": "caminante",
+      "pos": "m., f.",
+      "meaning": "行路人"
+    },
+    {
+      "term": "devorar",
+      "pos": "tr.",
+      "meaning": "吞食"
+    },
+    {
+      "term": "acertar",
+      "pos": "tr., intr.",
+      "meaning": "猜中；击中"
+    },
+    {
+      "term": "célebre",
+      "pos": "adj.",
+      "meaning": "著名的"
+    },
+    {
+      "term": "enfrentar",
+      "pos": "tr.",
+      "meaning": "面对，应对"
+    },
+    {
+      "term": "caminar",
+      "pos": "intr.",
+      "meaning": "行走，走路"
+    },
+    {
+      "term": "pata",
+      "pos": "f.",
+      "meaning": "蹄子，爪子"
+    },
+    {
+      "term": "dar con",
+      "pos": "perif. verb.",
+      "meaning": "找到"
+    },
+    {
+      "term": "clave",
+      "pos": "f.",
+      "meaning": "答案，谜底"
+    },
+    {
+      "term": "arrojar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "扔，投；纵身跳"
+    },
+    {
+      "term": "material",
+      "pos": "m.",
+      "meaning": "材料，资料"
+    },
+    {
+      "term": "archivar",
+      "pos": "tr.",
+      "meaning": "归档，存档"
+    },
+    {
+      "term": "USB",
+      "pos": "m.",
+      "meaning": "优盘"
+    },
+    {
+      "term": "copiar",
+      "pos": "tr.",
+      "meaning": "抄写；复制"
+    },
+    {
+      "term": "presionar",
+      "pos": "tr.",
+      "meaning": "施加压力"
+    },
+    {
+      "term": "imprimir",
+      "pos": "tr.",
+      "meaning": "刷印"
+    },
+    {
+      "term": "común y corriente",
+      "pos": "loc. adj.",
+      "meaning": "普通的"
+    },
+    {
+      "term": "instruido, da",
+      "pos": "adj.",
+      "meaning": "受过教育的"
+    },
+    {
+      "term": "boom",
+      "pos": "m. (ingl.)",
+      "meaning": "爆炸；繁荣"
+    },
+    {
+      "term": "realismo mágico",
+      "pos": "",
+      "meaning": "魔幻现实主义"
+    },
+    {
+      "term": "relativamente",
+      "pos": "adv.",
+      "meaning": "相对地"
+    },
+    {
+      "term": "variante",
+      "pos": "f.",
+      "meaning": "变体"
+    },
+    {
+      "term": "acusado, da",
+      "pos": "adj.",
+      "meaning": "明显的"
+    },
+    {
+      "term": "a fines de",
+      "pos": "loc. adv.",
+      "meaning": "在……末期"
+    },
+    {
+      "term": "originalidad",
+      "pos": "f.",
+      "meaning": "独特性，新颖性"
+    },
+    {
+      "term": "huella",
+      "pos": "f.",
+      "meaning": "足迹；印记"
+    },
+    {
+      "term": "letras",
+      "pos": "f. pl.",
+      "meaning": "人文科学，文学"
+    },
+    {
+      "term": "impresionante",
+      "pos": "adj.",
+      "meaning": "令人印象深刻的"
+    },
+    {
+      "term": "corriente",
+      "pos": "f.",
+      "meaning": "潮流"
+    },
+    {
+      "term": "modernismo",
+      "pos": "m.",
+      "meaning": "现代主义"
+    },
+    {
+      "term": "nicaragüense",
+      "pos": "adj.-s.",
+      "meaning": "尼加拉瓜的；尼加拉瓜人"
+    },
+    {
+      "term": "novedoso, sa",
+      "pos": "adj.",
+      "meaning": "新颖的"
+    },
+    {
+      "term": "metáfora",
+      "pos": "f.",
+      "meaning": "隐喻"
+    },
+    {
+      "term": "atrevido, da",
+      "pos": "adj.",
+      "meaning": "大胆的"
+    },
+    {
+      "term": "exótico, ca",
+      "pos": "adj.",
+      "meaning": "有异国情调的"
+    },
+    {
+      "term": "década",
+      "pos": "f.",
+      "meaning": "十年，年代"
+    },
+    {
+      "term": "acabar por + inf.",
+      "pos": "perif. verb.",
+      "meaning": "最终……"
+    },
+    {
+      "term": "resonancia",
+      "pos": "f.",
+      "meaning": "反响，回声"
+    },
+    {
+      "term": "Ginebra",
+      "pos": "",
+      "meaning": "日内瓦"
+    },
+    {
+      "term": "temporada",
+      "pos": "f.",
+      "meaning": "时期，时节"
+    },
+    {
+      "term": "nutrirse",
+      "pos": "prnl.",
+      "meaning": "汲取营养"
+    },
+    {
+      "term": "vanguardia",
+      "pos": "f.",
+      "meaning": "先锋"
+    },
+    {
+      "term": "creativo, va",
+      "pos": "adj.",
+      "meaning": "创造性的"
+    },
+    {
+      "term": "consagrarse",
+      "pos": "prnl.",
+      "meaning": "致力于……"
+    },
+    {
+      "term": "narrativa",
+      "pos": "f.",
+      "meaning": "小说，叙事文学"
+    },
+    {
+      "term": "cuentista",
+      "pos": "m., f.",
+      "meaning": "短篇小说作家"
+    },
+    {
+      "term": "original",
+      "pos": "adj.",
+      "meaning": "独特的"
+    },
+    {
+      "term": "armonizar",
+      "pos": "tr.",
+      "meaning": "使和谐，协调"
+    },
+    {
+      "term": "lenguaje",
+      "pos": "m.",
+      "meaning": "语言，语风"
+    },
+    {
+      "term": "argumental",
+      "pos": "adj.",
+      "meaning": "情节上的"
+    },
+    {
+      "term": "complejidad",
+      "pos": "f.",
+      "meaning": "复杂性"
+    },
+    {
+      "term": "adelanto",
+      "pos": "m.",
+      "meaning": "前进；进步"
+    },
+    {
+      "term": "armonía",
+      "pos": "f.",
+      "meaning": "和谐"
+    },
+    {
+      "term": "armonioso, sa",
+      "pos": "adj.",
+      "meaning": "和谐的"
+    },
+    {
+      "term": "argumento",
+      "pos": "m.",
+      "meaning": "情节"
+    },
+    {
+      "term": "consagración",
+      "pos": "f.",
+      "meaning": "献身，投身"
+    },
+    {
+      "term": "estructural",
+      "pos": "adj.",
+      "meaning": "结构上的"
+    },
+    {
+      "term": "volverse",
+      "pos": "prnl.",
+      "meaning": "变得"
+    },
+    {
+      "term": "elástico, ca",
+      "pos": "adj.",
+      "meaning": "有弹性的"
+    },
+    {
+      "term": "adelantar(se)",
+      "pos": "tr., intr., prnl.",
+      "meaning": "使前进；前进"
+    },
+    {
+      "term": "retroceder",
+      "pos": "intr.",
+      "meaning": "后退"
+    },
+    {
+      "term": "vuelta",
+      "pos": "f.",
+      "meaning": "转动，翻转"
+    },
+    {
+      "term": "destino",
+      "pos": "m.",
+      "meaning": "命运，目的地"
+    },
+    {
+      "term": "enmarañarse",
+      "pos": "prnl.",
+      "meaning": "纠缠不清"
+    },
+    {
+      "term": "profundizar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "深化"
+    },
+    {
+      "term": "elevar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "提高，升起"
+    },
+    {
+      "term": "poner de manifiesto",
+      "pos": "perif. verb.",
+      "meaning": "表明"
+    },
+    {
+      "term": "imaginación",
+      "pos": "f.",
+      "meaning": "想象"
+    },
+    {
+      "term": "ficción",
+      "pos": "f.",
+      "meaning": "虚构"
+    },
+    {
+      "term": "mundialmente",
+      "pos": "adv.",
+      "meaning": "世界范围地"
+    },
+    {
+      "term": "citar",
+      "pos": "tr.",
+      "meaning": "引用"
+    },
+    {
+      "term": "erudición",
+      "pos": "f.",
+      "meaning": "博学"
+    },
+    {
+      "term": "metafísico, ca",
+      "pos": "adj.",
+      "meaning": "形而上学的"
+    },
+    {
+      "term": "impenetrable",
+      "pos": "adj.",
+      "meaning": "无法进入的"
+    },
+    {
+      "term": "montaña",
+      "pos": "f.",
+      "meaning": "山"
+    },
+    {
+      "term": "inaccesible",
+      "pos": "adj.",
+      "meaning": "无法接近的"
+    },
+    {
+      "term": "tormentoso, sa",
+      "pos": "adj.",
+      "meaning": "波涛汹涌的"
+    },
+    {
+      "term": "prodigio",
+      "pos": "m.",
+      "meaning": "奇迹"
+    },
+    {
+      "term": "confluencia",
+      "pos": "f.",
+      "meaning": "交汇"
+    },
+    {
+      "term": "vigoroso, sa",
+      "pos": "adj.",
+      "meaning": "生气勃勃的"
+    },
+    {
+      "term": "trascendencia",
+      "pos": "f.",
+      "meaning": "深远影响，重要性"
+    },
+    {
+      "term": "inocultable",
+      "pos": "adj.",
+      "meaning": "无法掩饰的"
+    },
+    {
+      "term": "dar pie",
+      "pos": "perif. verb.",
+      "meaning": "提供口实"
+    },
+    {
+      "term": "explosivo, va",
+      "pos": "adj.",
+      "meaning": "爆炸性的"
+    },
+    {
+      "term": "distinguir",
+      "pos": "tr.",
+      "meaning": "区分；给予荣誉"
+    },
+    {
+      "term": "Nobel",
+      "pos": "",
+      "meaning": "诺贝尔"
+    },
+    {
+      "term": "últimamente",
+      "pos": "adv.",
+      "meaning": "最近"
+    },
+    {
+      "term": "comunal",
+      "pos": "adj.",
+      "meaning": "村社的"
+    },
+    {
+      "term": "simposio",
+      "pos": "m.",
+      "meaning": "研讨会"
+    },
+    {
+      "term": "tener que ver con",
+      "pos": "",
+      "meaning": "和……有关系"
+    },
+    {
+      "term": "muestra",
+      "pos": "f.",
+      "meaning": "样本，样品"
+    },
+    {
+      "term": "destacado, da",
+      "pos": "adj.",
+      "meaning": "突出的"
+    },
+    {
+      "term": "publicar",
+      "pos": "tr.",
+      "meaning": "发表，公布，出版"
+    },
+    {
+      "term": "haber",
+      "pos": "m.",
+      "meaning": "资产，财产；收入款项栏"
+    },
+    {
+      "term": "colección",
+      "pos": "f.",
+      "meaning": "收藏；选集"
+    },
+    {
+      "term": "relato",
+      "pos": "m.",
+      "meaning": "短篇小说，故事"
+    },
+    {
+      "term": "guión",
+      "pos": "m.",
+      "meaning": "脚本"
+    },
+    {
+      "term": "cinematográfico, ca",
+      "pos": "adj.",
+      "meaning": "电影的"
+    },
+    {
+      "term": "colaboración",
+      "pos": "f.",
+      "meaning": "合作；撰稿"
+    },
+    {
+      "term": "periodístico, ca",
+      "pos": "adj.",
+      "meaning": "报纸的，新闻业的"
+    },
+    {
+      "term": "éxito",
+      "pos": "m.",
+      "meaning": "成功，成绩"
+    },
+    {
+      "term": "fecundidad",
+      "pos": "f.",
+      "meaning": "肥沃，多产"
+    },
+    {
+      "term": "fascinante",
+      "pos": "adj.",
+      "meaning": "迷人的"
+    },
+    {
+      "term": "sobrio, bria",
+      "pos": "adj.",
+      "meaning": "简洁的，朴素的；清醒的"
+    },
+    {
+      "term": "tenso, sa",
+      "pos": "adj.",
+      "meaning": "紧张的"
+    },
+    {
+      "term": "narrativo, va",
+      "pos": "adj.",
+      "meaning": "叙述的"
+    },
+    {
+      "term": "en vilo",
+      "pos": "loc. adv.",
+      "meaning": "悬空地，悬着心"
+    },
+    {
+      "term": "desatento, ta",
+      "pos": "adj.",
+      "meaning": "漫不经心的"
+    },
+    {
+      "term": "escandaloso, sa",
+      "pos": "adj.",
+      "meaning": "令人哗然的"
+    },
+    {
+      "term": "magistral",
+      "pos": "adj.",
+      "meaning": "精湛的"
+    },
+    {
+      "term": "soledad",
+      "pos": "f.",
+      "meaning": "孤独"
+    },
+    {
+      "term": "marca",
+      "pos": "f.",
+      "meaning": "标记"
+    },
+    {
+      "term": "resumen",
+      "pos": "m.",
+      "meaning": "内容概述"
+    },
+    {
+      "term": "crónica",
+      "pos": "f.",
+      "meaning": "编年史；报道"
+    },
+    {
+      "term": "sumamente",
+      "pos": "adv.",
+      "meaning": "极其"
+    },
+    {
+      "term": "principio",
+      "pos": "m.",
+      "meaning": "初期，开始"
+    },
+    {
+      "term": "apartado, da",
+      "pos": "adj.",
+      "meaning": "偏僻的"
+    },
+    {
+      "term": "navegable",
+      "pos": "adj.",
+      "meaning": "通航的"
+    },
+    {
+      "term": "obispo",
+      "pos": "m.",
+      "meaning": "主教"
+    },
+    {
+      "term": "barco",
+      "pos": "m.",
+      "meaning": "船"
+    },
+    {
+      "term": "vapor",
+      "pos": "m.",
+      "meaning": "蒸汽"
+    },
+    {
+      "term": "anterior",
+      "pos": "adj.",
+      "meaning": "前一个"
+    },
+    {
+      "term": "boda",
+      "pos": "f.",
+      "meaning": "婚礼"
+    },
+    {
+      "term": "fastuoso, sa",
+      "pos": "adj.",
+      "meaning": "豪华的"
+    },
+    {
+      "term": "paraje",
+      "pos": "m.",
+      "meaning": "偏僻的地方"
+    },
+    {
+      "term": "recóndito, ta",
+      "pos": "adj.",
+      "meaning": "隐蔽的，偏僻的"
+    },
+    {
+      "term": "adinerado, da",
+      "pos": "adj.",
+      "meaning": "很有钱的"
+    },
+    {
+      "term": "forastero, ra",
+      "pos": "adj.-s.",
+      "meaning": "外来的；外乡人"
+    },
+    {
+      "term": "contraer matrimonio",
+      "pos": "perif. verb.",
+      "meaning": "结婚，联姻"
+    },
+    {
+      "term": "festejo",
+      "pos": "m.",
+      "meaning": "庆祝活动"
+    },
+    {
+      "term": "contundente",
+      "pos": "adj.",
+      "meaning": "坚定的；无可辩驳的"
+    },
+    {
+      "term": "virgen",
+      "pos": "adj.-s.",
+      "meaning": "童贞，未开垦的；童子，处女"
+    },
+    {
+      "term": "nupcial",
+      "pos": "adj.",
+      "meaning": "婚礼的"
+    },
+    {
+      "term": "escándalo",
+      "pos": "m.",
+      "meaning": "丑闻；喧闹"
+    },
+    {
+      "term": "monstruoso, sa",
+      "pos": "adj.",
+      "meaning": "畸形的，庞大的"
+    },
+    {
+      "term": "mancillar",
+      "pos": "tr.",
+      "meaning": "玷污"
+    },
+    {
+      "term": "honra",
+      "pos": "f.",
+      "meaning": "名誉"
+    },
+    {
+      "term": "gemelos, las",
+      "pos": "m. pl.",
+      "meaning": "孪生子"
+    },
+    {
+      "term": "interrogatorio",
+      "pos": "m.",
+      "meaning": "审问，盘问"
+    },
+    {
+      "term": "deshonra",
+      "pos": "f.",
+      "meaning": "蒙羞"
+    },
+    {
+      "term": "confesar",
+      "pos": "tr.",
+      "meaning": "坦白"
+    },
+    {
+      "term": "acusación",
+      "pos": "f.",
+      "meaning": "指控"
+    },
+    {
+      "term": "falso, sa",
+      "pos": "adj.",
+      "meaning": "虚假的"
+    },
+    {
+      "term": "injustamente",
+      "pos": "adv.",
+      "meaning": "不公正地"
+    },
+    {
+      "term": "inculpado, da",
+      "pos": "adj.-s.",
+      "meaning": "被指控的"
+    },
+    {
+      "term": "odiar",
+      "pos": "tr.",
+      "meaning": "恨"
+    },
+    {
+      "term": "obligado, da",
+      "pos": "adj.",
+      "meaning": "有义务，被迫"
+    },
+    {
+      "term": "afrenta",
+      "pos": "f.",
+      "meaning": "辱骂，羞辱"
+    },
+    {
+      "term": "cuchillo",
+      "pos": "m.",
+      "meaning": "刀"
+    },
+    {
+      "term": "recibimiento",
+      "pos": "m.",
+      "meaning": "迎接"
+    },
+    {
+      "term": "ignorar",
+      "pos": "tr.",
+      "meaning": "不知道"
+    },
+    {
+      "term": "pregonar",
+      "pos": "tr.",
+      "meaning": "叫卖；张扬"
+    },
+    {
+      "term": "a los cuatro vientos",
+      "pos": "loc. adv.",
+      "meaning": "四处（张扬）"
+    },
+    {
+      "term": "borracho, cha",
+      "pos": "adj.-s.",
+      "meaning": "喝醉的；醉汉"
+    },
+    {
+      "term": "prevenido, da",
+      "pos": "adj.",
+      "meaning": "有防备，预先知道"
+    },
+    {
+      "term": "precaución",
+      "pos": "f.",
+      "meaning": "提防，戒备"
+    },
+    {
+      "term": "merodear",
+      "pos": "intr.",
+      "meaning": "转悠"
+    },
+    {
+      "term": "vestíbulo",
+      "pos": "m.",
+      "meaning": "前厅"
+    },
+    {
+      "term": "atrancar",
+      "pos": "tr.",
+      "meaning": "闩门"
+    },
+    {
+      "term": "cúmulo",
+      "pos": "m.",
+      "meaning": "堆，大量"
+    },
+    {
+      "term": "circunstancia",
+      "pos": "f.",
+      "meaning": "情况，局面；因素"
+    },
+    {
+      "term": "inspirar",
+      "pos": "tr.",
+      "meaning": "启发"
+    },
+    {
+      "term": "inspiración",
+      "pos": "f.",
+      "meaning": "启发，灵感"
+    },
+    {
+      "term": "artístico, ca",
+      "pos": "adj.",
+      "meaning": "艺术的"
+    },
+    {
+      "term": "aventurar",
+      "pos": "tr.",
+      "meaning": "冒险；大胆提出"
+    },
+    {
+      "term": "imbuir(se)",
+      "pos": "tr., prnl.",
+      "meaning": "熏陶；受熏陶"
+    },
+    {
+      "term": "obsesión",
+      "pos": "f.",
+      "meaning": "执著的念头，痴迷"
+    },
+    {
+      "term": "datar de",
+      "pos": "perif. verb.",
+      "meaning": "追溯到"
+    },
+    {
+      "term": "adivino, na",
+      "pos": "m., f.",
+      "meaning": "占卜者，预言者"
+    },
+    {
+      "term": "profecía",
+      "pos": "f.",
+      "meaning": "预言"
+    },
+    {
+      "term": "trágico, ca",
+      "pos": "adj.",
+      "meaning": "悲剧性的，悲惨的"
+    },
+    {
+      "term": "complejo",
+      "pos": "m.",
+      "meaning": "综合征"
+    },
+    {
+      "term": "Complejo de Edipo",
+      "pos": "",
+      "meaning": "俄狄浦斯情结"
+    },
+    {
+      "term": "afectivo, va",
+      "pos": "adj.",
+      "meaning": "情感的"
+    },
+    {
+      "term": "pictórico, ca",
+      "pos": "adj.",
+      "meaning": "绘画的"
+    },
+    {
+      "term": "representativo, va",
+      "pos": "adj.",
+      "meaning": "有代表性的"
+    },
+    {
+      "term": "pintor, ra",
+      "pos": "m., f.",
+      "meaning": "画家；漆工"
+    },
+    {
+      "term": "caber",
+      "pos": "intr.",
+      "meaning": "容纳；穿、戴得下；应当"
+    },
+    {
+      "term": "Sevilla",
+      "pos": "",
+      "meaning": "塞维利亚"
+    },
+    {
+      "term": "aprecio",
+      "pos": "m.",
+      "meaning": "赏识，尊重"
+    },
+    {
+      "term": "en busca de",
+      "pos": "loc. adv.",
+      "meaning": "寻找"
+    },
+    {
+      "term": "tras",
+      "pos": "prep.",
+      "meaning": "在……之后"
+    },
+    {
+      "term": "esfuerzo",
+      "pos": "m.",
+      "meaning": "努力"
+    },
+    {
+      "term": "nombrar",
+      "pos": "tr.",
+      "meaning": "指名点姓；任命"
+    },
+    {
+      "term": "etapa",
+      "pos": "f.",
+      "meaning": "阶段，时期"
+    },
+    {
+      "term": "costumbrista",
+      "pos": "adj.",
+      "meaning": "风俗的"
+    },
+    {
+      "term": "motivo",
+      "pos": "m.",
+      "meaning": "图案，图形；主题"
+    },
+    {
+      "term": "mitológico, ca",
+      "pos": "adj.",
+      "meaning": "神话的"
+    },
+    {
+      "term": "retrato",
+      "pos": "m.",
+      "meaning": "肖像"
+    },
+    {
+      "term": "pincel",
+      "pos": "m.",
+      "meaning": "画笔"
+    },
+    {
+      "term": "plasmar",
+      "pos": "tr.",
+      "meaning": "刻画，塑造"
+    },
+    {
+      "term": "fidelidad",
+      "pos": "f.",
+      "meaning": "忠实"
+    },
+    {
+      "term": "posición",
+      "pos": "f.",
+      "meaning": "位置，地位"
+    },
+    {
+      "term": "bufón, na",
+      "pos": "m., f.",
+      "meaning": "小丑，弄臣"
+    },
+    {
+      "term": "cuadro",
+      "pos": "m.",
+      "meaning": "画"
+    },
+    {
+      "term": "hilandero, ra",
+      "pos": "m., f.",
+      "meaning": "纺纱工"
+    },
+    {
+      "term": "menina",
+      "pos": "f.",
+      "meaning": "侍女"
+    },
+    {
+      "term": "último, ma",
+      "pos": "adj.",
+      "meaning": "最后的；最近的"
+    },
+    {
+      "term": "plano",
+      "pos": "m.",
+      "meaning": "景别；平面"
+    },
+    {
+      "term": "infante, ta",
+      "pos": "m., f.",
+      "meaning": "王子，公主"
+    },
+    {
+      "term": "lienzo",
+      "pos": "m.",
+      "meaning": "画布，画作"
+    },
+    {
+      "term": "reflejar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "反映，反射"
+    },
+    {
+      "term": "enano, na",
+      "pos": "m., f.",
+      "meaning": "侏儒"
+    },
+    {
+      "term": "pintura",
+      "pos": "f.",
+      "meaning": "绘画"
+    },
+    {
+      "term": "dotes",
+      "pos": "f. pl.",
+      "meaning": "天赋，禀赋"
+    },
+    {
+      "term": "carga",
+      "pos": "f.",
+      "meaning": "负担；冲锋"
+    },
+    {
+      "term": "mameluco, ca",
+      "pos": "m., f.",
+      "meaning": "法国的北非雇佣军；蠢笨之人"
+    },
+    {
+      "term": "fusilamiento",
+      "pos": "m.",
+      "meaning": "枪毙"
+    },
+    {
+      "term": "arte",
+      "pos": "m. (sing.); f. (pl.)",
+      "meaning": "艺术"
+    },
+    {
+      "term": "genial",
+      "pos": "adj.",
+      "meaning": "天才的"
+    },
+    {
+      "term": "memorable",
+      "pos": "adj.",
+      "meaning": "值得纪念的"
+    },
+    {
+      "term": "sacrificio",
+      "pos": "m.",
+      "meaning": "牺牲"
+    },
+    {
+      "term": "genialidad",
+      "pos": "f.",
+      "meaning": "天才，才干"
+    },
+    {
+      "term": "cautivar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "俘获；吸引"
+    },
+    {
+      "term": "belleza",
+      "pos": "f.",
+      "meaning": "美"
+    },
+    {
+      "term": "sensual",
+      "pos": "adj.",
+      "meaning": "感官的，性感的"
+    },
+    {
+      "term": "capricho",
+      "pos": "m.",
+      "meaning": "任性"
+    },
+    {
+      "term": "percibir",
+      "pos": "tr.",
+      "meaning": "感到，察觉"
+    },
+    {
+      "term": "sublime",
+      "pos": "adj.",
+      "meaning": "崇高的"
+    },
+    {
+      "term": "grotesco, ca",
+      "pos": "adj.",
+      "meaning": "怪诞的，粗俗的"
+    },
+    {
+      "term": "fantasmal",
+      "pos": "adj.",
+      "meaning": "虚幻的，梦魇般的"
+    },
+    {
+      "term": "explicarse",
+      "pos": "prnl.",
+      "meaning": "讲清楚"
+    },
+    {
+      "term": "pésimo, ma",
+      "pos": "adj.",
+      "meaning": "最差的"
+    },
+    {
+      "term": "calumniar",
+      "pos": "tr.",
+      "meaning": "诬陷，诽谤"
+    },
+    {
+      "term": "calumnia",
+      "pos": "f.",
+      "meaning": "诬陷，诽谤"
+    },
+    {
+      "term": "estafa",
+      "pos": "f.",
+      "meaning": "诈骗，欺诈"
+    },
+    {
+      "term": "tapiz",
+      "pos": "m.",
+      "meaning": "壁毯；面料"
+    },
+    {
+      "term": "jirón",
+      "pos": "m.",
+      "meaning": "碎布条"
+    },
+    {
+      "term": "deshacer(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使解体；解体"
+    },
+    {
+      "term": "notoriamente",
+      "pos": "adv.",
+      "meaning": "明显地"
+    },
+    {
+      "term": "vincular(se)",
+      "pos": "tr., prnl.",
+      "meaning": "联系；与……联系"
+    },
+    {
+      "term": "Navidad",
+      "pos": "f.",
+      "meaning": "圣诞节"
+    },
+    {
+      "term": "acontecimiento",
+      "pos": "m.",
+      "meaning": "事件"
+    },
+    {
+      "term": "legendario, ria",
+      "pos": "adj.",
+      "meaning": "传说的"
+    },
+    {
+      "term": "protestante",
+      "pos": "adj.-s.",
+      "meaning": "新教的；新教徒"
+    },
+    {
+      "term": "ortodoxo, xa",
+      "pos": "adj.-s.",
+      "meaning": "东正教的；东正教徒"
+    },
+    {
+      "term": "propiamente dicho, cha",
+      "pos": "loc. adj.",
+      "meaning": "名副其实的，真正的"
+    },
+    {
+      "term": "festivo, va",
+      "pos": "adj.",
+      "meaning": "节日的，节庆的"
+    },
+    {
+      "term": "anticipación",
+      "pos": "f.",
+      "meaning": "提前"
+    },
+    {
+      "term": "metamorfosearse",
+      "pos": "prnl.",
+      "meaning": "变形"
+    },
+    {
+      "term": "acicalar",
+      "pos": "tr.",
+      "meaning": "打扮，装饰"
+    },
+    {
+      "term": "navideño, ha",
+      "pos": "adj.",
+      "meaning": "圣诞节的"
+    },
+    {
+      "term": "afanosamente",
+      "pos": "adv.",
+      "meaning": "辛苦地，勤奋地；忙忙碌碌地"
+    },
+    {
+      "term": "Nochebuena",
+      "pos": "f.",
+      "meaning": "平安夜"
+    },
+    {
+      "term": "asar",
+      "pos": "tr.",
+      "meaning": "烧烤"
+    },
+    {
+      "term": "besugo",
+      "pos": "m.",
+      "meaning": "海鲷"
+    },
+    {
+      "term": "horno",
+      "pos": "m.",
+      "meaning": "炉子，烤箱"
+    },
+    {
+      "term": "delicia",
+      "pos": "f.",
+      "meaning": "快感；美食"
+    },
+    {
+      "term": "gastronómico, ca",
+      "pos": "adj.",
+      "meaning": "美食的，烹调术的"
+    },
+    {
+      "term": "turrón",
+      "pos": "m.",
+      "meaning": "果仁糖"
+    },
+    {
+      "term": "dulce",
+      "pos": "adj.-s.",
+      "meaning": "甜的；糖果"
+    },
+    {
+      "term": "almendra",
+      "pos": "f.",
+      "meaning": "杏仁"
+    },
+    {
+      "term": "masticar",
+      "pos": "tr.",
+      "meaning": "嚼"
+    },
+    {
+      "term": "festividad",
+      "pos": "f.",
+      "meaning": "节日，节庆"
+    },
+    {
+      "term": "prolongar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "延长"
+    },
+    {
+      "term": "Semana Santa",
+      "pos": "",
+      "meaning": "圣周，复活节"
+    },
+    {
+      "term": "crucifixión",
+      "pos": "f.",
+      "meaning": "钉上十字架"
+    },
+    {
+      "term": "resurrección",
+      "pos": "f.",
+      "meaning": "复活"
+    },
+    {
+      "term": "creyente",
+      "pos": "m., f.",
+      "meaning": "信徒"
+    },
+    {
+      "term": "concurrido, da",
+      "pos": "adj.",
+      "meaning": "聚集很多人的"
+    },
+    {
+      "term": "procesión",
+      "pos": "f.",
+      "meaning": "宗教游行"
+    },
+    {
+      "term": "carnaval",
+      "pos": "m.",
+      "meaning": "狂欢节"
+    },
+    {
+      "term": "peculiaridad",
+      "pos": "f.",
+      "meaning": "特质，独特性"
+    },
+    {
+      "term": "derivarse",
+      "pos": "prnl.",
+      "meaning": "来自，源自"
+    },
+    {
+      "term": "concepto",
+      "pos": "m.",
+      "meaning": "概念"
+    },
+    {
+      "term": "doctrina",
+      "pos": "f.",
+      "meaning": "学说，教义"
+    },
+    {
+      "term": "instinto",
+      "pos": "m.",
+      "meaning": "本能"
+    },
+    {
+      "term": "contraponerse",
+      "pos": "prnl.",
+      "meaning": "与……对立"
+    },
+    {
+      "term": "castidad",
+      "pos": "f.",
+      "meaning": "贞洁；禁欲"
+    },
+    {
+      "term": "pureza",
+      "pos": "f.",
+      "meaning": "纯洁"
+    },
+    {
+      "term": "espiritual",
+      "pos": "adj.",
+      "meaning": "精神的，心灵的"
+    },
+    {
+      "term": "diversión",
+      "pos": "f.",
+      "meaning": "游戏，娱乐"
+    },
+    {
+      "term": "máscara",
+      "pos": "f.",
+      "meaning": "面罩，面具"
+    },
+    {
+      "term": "burlesco, ca",
+      "pos": "adj.",
+      "meaning": "嘲讽的，滑稽的"
+    },
+    {
+      "term": "prestarse",
+      "pos": "tr., prnl.",
+      "meaning": "造成，引起；自告奋勇"
+    },
+    {
+      "term": "exceso",
+      "pos": "m.",
+      "meaning": "过分，无节制"
+    },
+    {
+      "term": "proceder",
+      "pos": "intr.",
+      "meaning": "来自，源自"
+    },
+    {
+      "term": "en honor de",
+      "pos": "loc. adv.",
+      "meaning": "庆祝……；欢迎……"
+    },
+    {
+      "term": "divinidad",
+      "pos": "f.",
+      "meaning": "神祇"
+    },
+    {
+      "term": "carácter",
+      "pos": "m.",
+      "meaning": "特点，性格"
+    },
+    {
+      "term": "pagano, na",
+      "pos": "adj.",
+      "meaning": "非基督教的，异教的"
+    },
+    {
+      "term": "libertino, na",
+      "pos": "adj.",
+      "meaning": "放纵的"
+    },
+    {
+      "term": "jolgorio",
+      "pos": "m.",
+      "meaning": "热闹欢快的聚会"
+    },
+    {
+      "term": "persistir",
+      "pos": "intr.",
+      "meaning": "坚持，持续"
+    },
+    {
+      "term": "tolerancia",
+      "pos": "f.",
+      "meaning": "容忍，宽容"
+    },
+    {
+      "term": "Iglesia",
+      "pos": "f.",
+      "meaning": "教会；教堂"
+    },
+    {
+      "term": "Venecia",
+      "pos": "",
+      "meaning": "威尼斯"
+    },
+    {
+      "term": "Italia",
+      "pos": "",
+      "meaning": "意大利"
+    },
+    {
+      "term": "Río de Janeiro",
+      "pos": "",
+      "meaning": "里约热内卢"
+    },
+    {
+      "term": "Brasil",
+      "pos": "",
+      "meaning": "巴西"
+    },
+    {
+      "term": "santo",
+      "pos": "m.",
+      "meaning": "圣徒；教名日"
+    },
+    {
+      "term": "obvio, via",
+      "pos": "adj.",
+      "meaning": "明显的"
+    },
+    {
+      "term": "connotación",
+      "pos": "f.",
+      "meaning": "引申含义"
+    },
+    {
+      "term": "extrañar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使感到奇怪；奇怪；想念"
+    },
+    {
+      "term": "ámbito",
+      "pos": "m.",
+      "meaning": "范围"
+    },
+    {
+      "term": "lógicamente",
+      "pos": "adv.",
+      "meaning": "按照逻辑；理所当然"
+    },
+    {
+      "term": "abundar",
+      "pos": "intr.",
+      "meaning": "大量有"
+    },
+    {
+      "term": "folklórico, ca",
+      "pos": "adj.",
+      "meaning": "民俗的"
+    },
+    {
+      "term": "Día Nacional",
+      "pos": "",
+      "meaning": "国庆节"
+    },
+    {
+      "term": "Constitución",
+      "pos": "f.",
+      "meaning": "宪法"
+    },
+    {
+      "term": "fijo, ja",
+      "pos": "adj.",
+      "meaning": "固定的"
+    },
+    {
+      "term": "víspera",
+      "pos": "f.",
+      "meaning": "前夕"
+    },
+    {
+      "term": "acordar",
+      "pos": "tr.",
+      "meaning": "商定，约定"
+    },
+    {
+      "term": "insólito, ta",
+      "pos": "adj.",
+      "meaning": "罕见的"
+    },
+    {
+      "term": "Reyes Magos",
+      "pos": "",
+      "meaning": "东方三圣，东方三博士"
+    }
+  ]
+}

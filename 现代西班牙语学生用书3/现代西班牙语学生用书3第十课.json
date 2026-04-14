@@ -1,0 +1,402 @@
+{
+  "name": "现代西班牙语学生用书3第十课",
+  "description": "现代西班牙语学生用书3第十课",
+  "language": "es",
+  "words": [
+    {
+      "term": "independencia",
+      "pos": "f.",
+      "meaning": "独立"
+    },
+    {
+      "term": "contribuir",
+      "pos": "intr.",
+      "meaning": "纳税，捐赠；促成"
+    },
+    {
+      "term": "nacimiento",
+      "pos": "m.",
+      "meaning": "出生，诞生"
+    },
+    {
+      "term": "choque",
+      "pos": "m.",
+      "meaning": "冲突，撞击"
+    },
+    {
+      "term": "colonial",
+      "pos": "adj.",
+      "meaning": "殖民的"
+    },
+    {
+      "term": "parto",
+      "pos": "m.",
+      "meaning": "分娩"
+    },
+    {
+      "term": "gestación",
+      "pos": "f.",
+      "meaning": "孕育，酝酿"
+    },
+    {
+      "term": "etnia",
+      "pos": "f.",
+      "meaning": "民族，人种"
+    },
+    {
+      "term": "drásticamente",
+      "pos": "adv.",
+      "meaning": "剧烈地"
+    },
+    {
+      "term": "esclavizar",
+      "pos": "tr.",
+      "meaning": "奴役"
+    },
+    {
+      "term": "mezclarse",
+      "pos": "prnl.",
+      "meaning": "混合，融合"
+    },
+    {
+      "term": "racialmente",
+      "pos": "adv.",
+      "meaning": "种族上（间）"
+    },
+    {
+      "term": "sociedad",
+      "pos": "f.",
+      "meaning": "社会"
+    },
+    {
+      "term": "basarse",
+      "pos": "prnl.",
+      "meaning": "基础是；以……为基础"
+    },
+    {
+      "term": "desigualdad",
+      "pos": "f.",
+      "meaning": "不平等"
+    },
+    {
+      "term": "cumbre",
+      "pos": "f.",
+      "meaning": "高峰；峰会"
+    },
+    {
+      "term": "virrey",
+      "pos": "m.",
+      "meaning": "总督"
+    },
+    {
+      "term": "clase",
+      "pos": "f.",
+      "meaning": "阶级"
+    },
+    {
+      "term": "criollo, lla",
+      "pos": "adj.-s.",
+      "meaning": "克里奥尔的；土生白人"
+    },
+    {
+      "term": "base",
+      "pos": "f.",
+      "meaning": "基础"
+    },
+    {
+      "term": "remediar",
+      "pos": "tr.",
+      "meaning": "补救，解决"
+    },
+    {
+      "term": "carencia",
+      "pos": "f.",
+      "meaning": "缺乏"
+    },
+    {
+      "term": "posteriormente",
+      "pos": "adv.",
+      "meaning": "后来，随后"
+    },
+    {
+      "term": "introducir(se)",
+      "pos": "tr., prnl.",
+      "meaning": "引进；进入"
+    },
+    {
+      "term": "esclavo, va",
+      "pos": "m., f.",
+      "meaning": "奴隶"
+    },
+    {
+      "term": "agregar",
+      "pos": "tr.",
+      "meaning": "补充，添加"
+    },
+    {
+      "term": "elemento",
+      "pos": "m.",
+      "meaning": "成分，元素"
+    },
+    {
+      "term": "étnico, ca",
+      "pos": "adj.",
+      "meaning": "种族的，民族的"
+    },
+    {
+      "term": "próspero, ra",
+      "pos": "adj.",
+      "meaning": "繁荣的"
+    },
+    {
+      "term": "prohibir",
+      "pos": "tr.",
+      "meaning": "禁止"
+    },
+    {
+      "term": "metrópoli",
+      "pos": "f.",
+      "meaning": "宗主国"
+    },
+    {
+      "term": "suministrar",
+      "pos": "tr.",
+      "meaning": "提供，供给"
+    },
+    {
+      "term": "resignarse",
+      "pos": "prnl.",
+      "meaning": "认命；隐忍"
+    },
+    {
+      "term": "inconforme",
+      "pos": "adj.",
+      "meaning": "不满的，持异见的"
+    },
+    {
+      "term": "coyuntura",
+      "pos": "f.",
+      "meaning": "景况，机会"
+    },
+    {
+      "term": "movimiento",
+      "pos": "m.",
+      "meaning": "运动"
+    },
+    {
+      "term": "independista",
+      "pos": "adj.-s.",
+      "meaning": "主张独立的"
+    },
+    {
+      "term": "destacar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使突出；突出"
+    },
+    {
+      "term": "dirigente",
+      "pos": "m., f.",
+      "meaning": "领导人"
+    },
+    {
+      "term": "iniciador, ra",
+      "pos": "m., f.",
+      "meaning": "启动者"
+    },
+    {
+      "term": "sacerdote",
+      "pos": "m.",
+      "meaning": "教士"
+    },
+    {
+      "term": "influir",
+      "pos": "tr.",
+      "meaning": "影响"
+    },
+    {
+      "term": "revolución",
+      "pos": "f.",
+      "meaning": "革命"
+    },
+    {
+      "term": "expedir",
+      "pos": "tr.",
+      "meaning": "发布"
+    },
+    {
+      "term": "declaración",
+      "pos": "f.",
+      "meaning": "声明，宣言"
+    },
+    {
+      "term": "decretar",
+      "pos": "tr.",
+      "meaning": "发布法令"
+    },
+    {
+      "term": "libertador, ra",
+      "pos": "m., f.",
+      "meaning": "解放者"
+    },
+    {
+      "term": "república",
+      "pos": "f.",
+      "meaning": "共和国"
+    },
+    {
+      "term": "proclamar",
+      "pos": "tr.",
+      "meaning": "宣布"
+    },
+    {
+      "term": "ideal",
+      "pos": "adj., m.",
+      "meaning": "理想的；理想"
+    },
+    {
+      "term": "ceder",
+      "pos": "tr., intr.",
+      "meaning": "让给；让步，退让"
+    },
+    {
+      "term": "escenario",
+      "pos": "m.",
+      "meaning": "舞台"
+    },
+    {
+      "term": "gloria",
+      "pos": "f.",
+      "meaning": "荣耀，光荣"
+    },
+    {
+      "term": "victorioso, sa",
+      "pos": "adj.",
+      "meaning": "胜利的"
+    },
+    {
+      "term": "real",
+      "pos": "adj.",
+      "meaning": "国王的；真实的"
+    },
+    {
+      "term": "Venezuela",
+      "pos": "",
+      "meaning": "委内瑞拉"
+    },
+    {
+      "term": "juntar",
+      "pos": "tr.",
+      "meaning": "汇集，合并"
+    },
+    {
+      "term": "liberar",
+      "pos": "tr.",
+      "meaning": "解放"
+    },
+    {
+      "term": "unificar",
+      "pos": "tr.",
+      "meaning": "统一"
+    },
+    {
+      "term": "arquitectura",
+      "pos": "f.",
+      "meaning": "建筑技术（科学）"
+    },
+    {
+      "term": "escultura",
+      "pos": "f.",
+      "meaning": "雕塑"
+    },
+    {
+      "term": "bordear",
+      "pos": "tr.",
+      "meaning": "使围绕"
+    },
+    {
+      "term": "palmera",
+      "pos": "f.",
+      "meaning": "棕榈树"
+    },
+    {
+      "term": "catedral",
+      "pos": "f.",
+      "meaning": "大教堂，主教堂"
+    },
+    {
+      "term": "barroco, ca",
+      "pos": "adj.",
+      "meaning": "巴洛克的"
+    },
+    {
+      "term": "joya",
+      "pos": "f.",
+      "meaning": "珍宝；珠宝"
+    },
+    {
+      "term": "arquitectónico, ca",
+      "pos": "adj.",
+      "meaning": "建筑的"
+    },
+    {
+      "term": "barroquismo",
+      "pos": "m.",
+      "meaning": "巴洛克主义"
+    },
+    {
+      "term": "típicamente",
+      "pos": "adv.",
+      "meaning": "典型地，地道地"
+    },
+    {
+      "term": "característica",
+      "pos": "f.",
+      "meaning": "特点"
+    },
+    {
+      "term": "local",
+      "pos": "adj.",
+      "meaning": "地方的，当地的"
+    },
+    {
+      "term": "neoclásico, ca",
+      "pos": "adj.",
+      "meaning": "新古典的"
+    },
+    {
+      "term": "compañía",
+      "pos": "f.",
+      "meaning": "剧团；公司"
+    },
+    {
+      "term": "fama",
+      "pos": "f.",
+      "meaning": "声誉，声望"
+    },
+    {
+      "term": "conservar",
+      "pos": "tr.",
+      "meaning": "保留，保存"
+    },
+    {
+      "term": "estatua",
+      "pos": "f.",
+      "meaning": "塑像"
+    },
+    {
+      "term": "erigir",
+      "pos": "tr., intr.",
+      "meaning": "竖起，筑起；矗立"
+    },
+    {
+      "term": "plazoleta",
+      "pos": "f.",
+      "meaning": "小广场"
+    },
+    {
+      "term": "en memoria de",
+      "pos": "loc. adv.",
+      "meaning": "为纪念……的"
+    }
+  ]
+}

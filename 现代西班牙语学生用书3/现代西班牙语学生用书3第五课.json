@@ -1,0 +1,352 @@
+{
+  "name": "现代西班牙语学生用书3第五课",
+  "description": "现代西班牙语学生用书3第五课",
+  "language": "es",
+  "words": [
+    {
+      "term": "clima",
+      "pos": "m.",
+      "meaning": "气候"
+    },
+    {
+      "term": "primavera",
+      "pos": "f.",
+      "meaning": "春天"
+    },
+    {
+      "term": "otoño",
+      "pos": "m.",
+      "meaning": "秋天"
+    },
+    {
+      "term": "invierno",
+      "pos": "m.",
+      "meaning": "冬天"
+    },
+    {
+      "term": "climático, ca",
+      "pos": "adj.",
+      "meaning": "气候的"
+    },
+    {
+      "term": "templado, da",
+      "pos": "adj.",
+      "meaning": "温和的"
+    },
+    {
+      "term": "perceptible",
+      "pos": "adj.",
+      "meaning": "可察觉的"
+    },
+    {
+      "term": "trópico",
+      "pos": "m.",
+      "meaning": "热带"
+    },
+    {
+      "term": "estación",
+      "pos": "f.",
+      "meaning": "季节"
+    },
+    {
+      "term": "ártico, ca",
+      "pos": "adj.",
+      "meaning": "北极的"
+    },
+    {
+      "term": "antártico, ca",
+      "pos": "adj.",
+      "meaning": "南极的"
+    },
+    {
+      "term": "dividir(se)",
+      "pos": "tr., prnl.",
+      "meaning": "分割；分开"
+    },
+    {
+      "term": "temperatura",
+      "pos": "f.",
+      "meaning": "温度"
+    },
+    {
+      "term": "cero",
+      "pos": "m.",
+      "meaning": "零"
+    },
+    {
+      "term": "polar",
+      "pos": "adj.",
+      "meaning": "极地的"
+    },
+    {
+      "term": "derretirse",
+      "pos": "prnl.",
+      "meaning": "融化"
+    },
+    {
+      "term": "nieve",
+      "pos": "f.",
+      "meaning": "雪"
+    },
+    {
+      "term": "hielo",
+      "pos": "m.",
+      "meaning": "冰"
+    },
+    {
+      "term": "ecuador",
+      "pos": "m.",
+      "meaning": "赤道"
+    },
+    {
+      "term": "hemisferio",
+      "pos": "m.",
+      "meaning": "半球"
+    },
+    {
+      "term": "latitud",
+      "pos": "f.",
+      "meaning": "纬度"
+    },
+    {
+      "term": "territorio",
+      "pos": "m.",
+      "meaning": "领土"
+    },
+    {
+      "term": "hallarse",
+      "pos": "prnl.",
+      "meaning": "位于"
+    },
+    {
+      "term": "seco, ca",
+      "pos": "adj.",
+      "meaning": "干燥的"
+    },
+    {
+      "term": "lluvioso, sa",
+      "pos": "adj.",
+      "meaning": "多雨的"
+    },
+    {
+      "term": "cálido, da",
+      "pos": "adj.",
+      "meaning": "温暖的"
+    },
+    {
+      "term": "húmedo, da",
+      "pos": "adj.",
+      "meaning": "潮湿的"
+    },
+    {
+      "term": "frecuente",
+      "pos": "adj.",
+      "meaning": "经常的"
+    },
+    {
+      "term": "adaptar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使适应；适应"
+    },
+    {
+      "term": "proveniente",
+      "pos": "adj.",
+      "meaning": "来自……的"
+    },
+    {
+      "term": "tomate",
+      "pos": "m.",
+      "meaning": "西红柿"
+    },
+    {
+      "term": "mencionar",
+      "pos": "tr.",
+      "meaning": "提及"
+    },
+    {
+      "term": "chocolate",
+      "pos": "m.",
+      "meaning": "巧克力"
+    },
+    {
+      "term": "cacao",
+      "pos": "m.",
+      "meaning": "可可"
+    },
+    {
+      "term": "grano",
+      "pos": "m.",
+      "meaning": "谷物；颗粒"
+    },
+    {
+      "term": "moneda",
+      "pos": "f.",
+      "meaning": "货币，硬币"
+    },
+    {
+      "term": "aporte",
+      "pos": "m.",
+      "meaning": "贡献"
+    },
+    {
+      "term": "negativo, va",
+      "pos": "adj.",
+      "meaning": "负面的，否定的"
+    },
+    {
+      "term": "difusión",
+      "pos": "f.",
+      "meaning": "传播"
+    },
+    {
+      "term": "pernicioso, sa",
+      "pos": "adj.",
+      "meaning": "有害的"
+    },
+    {
+      "term": "tabaco",
+      "pos": "m.",
+      "meaning": "烟草"
+    },
+    {
+      "term": "alimentación",
+      "pos": "f.",
+      "meaning": "饮食"
+    },
+    {
+      "term": "subsistir",
+      "pos": "intr.",
+      "meaning": "生存"
+    },
+    {
+      "term": "alimentarse",
+      "pos": "prnl.",
+      "meaning": "进食，摄取营养"
+    },
+    {
+      "term": "ingerirse",
+      "pos": "prnl.",
+      "meaning": "吃进，摄入"
+    },
+    {
+      "term": "extraerse",
+      "pos": "prnl.",
+      "meaning": "取出"
+    },
+    {
+      "term": "sustancia",
+      "pos": "f.",
+      "meaning": "物质"
+    },
+    {
+      "term": "reparar",
+      "pos": "tr.",
+      "meaning": "修理，弥补"
+    },
+    {
+      "term": "desgaste",
+      "pos": "m.",
+      "meaning": "损耗，消耗"
+    },
+    {
+      "term": "órgano",
+      "pos": "m.",
+      "meaning": "器官"
+    },
+    {
+      "term": "energía",
+      "pos": "f.",
+      "meaning": "能量"
+    },
+    {
+      "term": "elemental",
+      "pos": "adj.",
+      "meaning": "基本的"
+    },
+    {
+      "term": "nutrición",
+      "pos": "f.",
+      "meaning": "营养"
+    },
+    {
+      "term": "reproducción",
+      "pos": "f.",
+      "meaning": "繁殖"
+    },
+    {
+      "term": "relación",
+      "pos": "f.",
+      "meaning": "关系，交往"
+    },
+    {
+      "term": "a diferencia de",
+      "pos": "loc. adv.",
+      "meaning": "与……不同"
+    },
+    {
+      "term": "materia prima",
+      "pos": "loc. adj.",
+      "meaning": "原料"
+    },
+    {
+      "term": "proceso",
+      "pos": "m.",
+      "meaning": "步骤，过程"
+    },
+    {
+      "term": "aceleramiento",
+      "pos": "m.",
+      "meaning": "加速"
+    },
+    {
+      "term": "demanda",
+      "pos": "f.",
+      "meaning": "需求"
+    },
+    {
+      "term": "industrialmente",
+      "pos": "adv.",
+      "meaning": "工业方面地"
+    },
+    {
+      "term": "en lata",
+      "pos": "loc. adj.",
+      "meaning": "罐装的"
+    },
+    {
+      "term": "máximo",
+      "pos": "m.",
+      "meaning": "最大，极致"
+    },
+    {
+      "term": "provecho",
+      "pos": "m.",
+      "meaning": "收益"
+    },
+    {
+      "term": "modalidad",
+      "pos": "f.",
+      "meaning": "方式，样式"
+    },
+    {
+      "term": "a la carta",
+      "pos": "loc. adv.",
+      "meaning": "点菜；定制"
+    },
+    {
+      "term": "en forma de",
+      "pos": "loc. adv.",
+      "meaning": "以……方式"
+    },
+    {
+      "term": "buffet",
+      "pos": "loc. adj.",
+      "meaning": "自助餐"
+    },
+    {
+      "term": "auto-",
+      "pos": "",
+      "meaning": "自我"
+    }
+  ]
+}

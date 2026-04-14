@@ -1,0 +1,357 @@
+{
+  "name": "现代西班牙语学生用书3第一课",
+  "description": "现代西班牙语学生用书3第一课",
+  "language": "es",
+  "words": [
+    {
+      "term": "paño",
+      "pos": "m.",
+      "meaning": "呢绒，布料"
+    },
+    {
+      "term": "maravilloso, sa",
+      "pos": "adj.",
+      "meaning": "极好的，神奇的"
+    },
+    {
+      "term": "pícaro, ra",
+      "pos": "m., f.",
+      "meaning": "无赖，混混儿"
+    },
+    {
+      "term": "fabricar",
+      "pos": "tr.",
+      "meaning": "制造"
+    },
+    {
+      "term": "ladrón, na",
+      "pos": "m., f.",
+      "meaning": "小偷，贼"
+    },
+    {
+      "term": "soberano, na",
+      "pos": "m., f.",
+      "meaning": "君主，国王"
+    },
+    {
+      "term": "extraordinario, ria",
+      "pos": "adj.",
+      "meaning": "异常的，非同一般的"
+    },
+    {
+      "term": "mandar",
+      "pos": "tr.",
+      "meaning": "命令，派"
+    },
+    {
+      "term": "naturaleza",
+      "pos": "f.",
+      "meaning": "特点，性质；自然"
+    },
+    {
+      "term": "fantástico, ca",
+      "pos": "adj.",
+      "meaning": "神奇的"
+    },
+    {
+      "term": "burlador, ra",
+      "pos": "adj.-s.",
+      "meaning": "嘲弄人的；骗子"
+    },
+    {
+      "term": "lana",
+      "pos": "f.",
+      "meaning": "羊毛"
+    },
+    {
+      "term": "hilo",
+      "pos": "m.",
+      "meaning": "线"
+    },
+    {
+      "term": "monarca",
+      "pos": "m., f.",
+      "meaning": "君主，国王"
+    },
+    {
+      "term": "conceder",
+      "pos": "tr.",
+      "meaning": "给予"
+    },
+    {
+      "term": "orden",
+      "pos": "f.",
+      "meaning": "命令"
+    },
+    {
+      "term": "suculento, ta",
+      "pos": "adj.",
+      "meaning": "鲜美的"
+    },
+    {
+      "term": "al cabo de",
+      "pos": "loc. prep.",
+      "meaning": "…之后"
+    },
+    {
+      "term": "cortesano, na",
+      "pos": "adj.-s.",
+      "meaning": "宫廷的；朝臣"
+    },
+    {
+      "term": "averiguar",
+      "pos": "tr.",
+      "meaning": "调查，打听"
+    },
+    {
+      "term": "efusión",
+      "pos": "f.",
+      "meaning": "欢快，热忱"
+    },
+    {
+      "term": "telar",
+      "pos": "m.",
+      "meaning": "织机"
+    },
+    {
+      "term": "incomparable",
+      "pos": "adj.",
+      "meaning": "无可比拟的"
+    },
+    {
+      "term": "ante",
+      "pos": "prep.",
+      "meaning": "在……面前"
+    },
+    {
+      "term": "honrado, da",
+      "pos": "adj.",
+      "meaning": "诚实的，正直的"
+    },
+    {
+      "term": "palacio",
+      "pos": "m.",
+      "meaning": "宫殿"
+    },
+    {
+      "term": "tejer",
+      "pos": "tr.",
+      "meaning": "织"
+    },
+    {
+      "term": "viento en popa",
+      "pos": "loc. adv.",
+      "meaning": "一帆风顺"
+    },
+    {
+      "term": "artesano, na",
+      "pos": "m., f.",
+      "meaning": "手工业者"
+    },
+    {
+      "term": "confeccionar",
+      "pos": "tr.",
+      "meaning": "制作"
+    },
+    {
+      "term": "traje",
+      "pos": "m.",
+      "meaning": "服装"
+    },
+    {
+      "term": "Su Majestad",
+      "pos": "",
+      "meaning": "陛下"
+    },
+    {
+      "term": "señalar",
+      "pos": "tr.",
+      "meaning": "指着；指出"
+    },
+    {
+      "term": "precioso, sa",
+      "pos": "adj.",
+      "meaning": "宝贵的，精美的"
+    },
+    {
+      "term": "dibujo",
+      "pos": "m.",
+      "meaning": "图案，图画"
+    },
+    {
+      "term": "remirar",
+      "pos": "tr.",
+      "meaning": "反复看"
+    },
+    {
+      "term": "asustar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使害怕；害怕"
+    },
+    {
+      "term": "reflexionar",
+      "pos": "intr.",
+      "meaning": "思考，考虑"
+    },
+    {
+      "term": "callar(se)",
+      "pos": "tr., prnl.",
+      "meaning": "使沉默；沉默；住嘴"
+    },
+    {
+      "term": "gobernante",
+      "pos": "m., f.",
+      "meaning": "统治者"
+    },
+    {
+      "term": "montar",
+      "pos": "tr.",
+      "meaning": "骑"
+    },
+    {
+      "term": "tela",
+      "pos": "f.",
+      "meaning": "布料"
+    },
+    {
+      "term": "invisible",
+      "pos": "adj.",
+      "meaning": "看不见的，隐形的"
+    },
+    {
+      "term": "desnudo, da",
+      "pos": "adj.",
+      "meaning": "裸体的"
+    },
+    {
+      "term": "cabalgadura",
+      "pos": "f.",
+      "meaning": "坐骑（马）"
+    },
+    {
+      "term": "reírse",
+      "pos": "prnl.",
+      "meaning": "大笑；嘲笑"
+    },
+    {
+      "term": "inocencia",
+      "pos": "f.",
+      "meaning": "无辜，天真无邪"
+    },
+    {
+      "term": "a gritos",
+      "pos": "loc. adv.",
+      "meaning": "大喊大叫"
+    },
+    {
+      "term": "finalmente",
+      "pos": "adv.",
+      "meaning": "最后，最终"
+    },
+    {
+      "term": "enojado, da",
+      "pos": "adj.",
+      "meaning": "愤怒的"
+    },
+    {
+      "term": "ordenar",
+      "pos": "tr.",
+      "meaning": "命令"
+    },
+    {
+      "term": "criado, da",
+      "pos": "m., f.",
+      "meaning": "仆人，侍从"
+    },
+    {
+      "term": "estafador, ra",
+      "pos": "m., f.",
+      "meaning": "骗子，诈骗犯"
+    },
+    {
+      "term": "kilómetro",
+      "pos": "m.",
+      "meaning": "公里"
+    },
+    {
+      "term": "dinero",
+      "pos": "m.",
+      "meaning": "钱"
+    },
+    {
+      "term": "prosista",
+      "pos": "m., f.",
+      "meaning": "散文家"
+    },
+    {
+      "term": "pleno, na",
+      "pos": "adj.",
+      "meaning": "满的，完整的"
+    },
+    {
+      "term": "conciencia",
+      "pos": "f.",
+      "meaning": "意识，觉悟"
+    },
+    {
+      "term": "oficio",
+      "pos": "m.",
+      "meaning": "行当"
+    },
+    {
+      "term": "responsabilidad",
+      "pos": "f.",
+      "meaning": "责任"
+    },
+    {
+      "term": "artesanía",
+      "pos": "f.",
+      "meaning": "手工艺"
+    },
+    {
+      "term": "averiguación",
+      "pos": "f.",
+      "meaning": "调查"
+    },
+    {
+      "term": "burlar",
+      "pos": "tr.",
+      "meaning": "欺骗"
+    },
+    {
+      "term": "dibujar",
+      "pos": "tr.",
+      "meaning": "绘画"
+    },
+    {
+      "term": "enojo",
+      "pos": "m.",
+      "meaning": "气愤"
+    },
+    {
+      "term": "estafar",
+      "pos": "tr.",
+      "meaning": "诈骗"
+    },
+    {
+      "term": "fábrica",
+      "pos": "f.",
+      "meaning": "工厂"
+    },
+    {
+      "term": "fabricación",
+      "pos": "f.",
+      "meaning": "制造"
+    },
+    {
+      "term": "inocente",
+      "pos": "adj.",
+      "meaning": "无辜的；天真的"
+    },
+    {
+      "term": "susto",
+      "pos": "m.",
+      "meaning": "惊恐，害怕"
+    }
+  ]
+}
