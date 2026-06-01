@@ -1,0 +1,4177 @@
+{
+  "name": "专四真题21-25-扩展高频词700",
+  "description": "专四真题21-25-扩展高频词700",
+  "language": "es",
+  "words": [
+    {
+      "term": "abandonar",
+      "pos": "v.reg",
+      "meaning": "放弃"
+    },
+    {
+      "term": "abarcar",
+      "pos": "v.reg",
+      "meaning": "涵盖"
+    },
+    {
+      "term": "abastecer",
+      "pos": "v.spell",
+      "meaning": "供应"
+    },
+    {
+      "term": "abatir",
+      "pos": "v.reg",
+      "meaning": "击倒/使沮丧"
+    },
+    {
+      "term": "abdicar",
+      "pos": "v.spell",
+      "meaning": "退位/放弃"
+    },
+    {
+      "term": "abogar",
+      "pos": "v.spell",
+      "meaning": "主张/辩护"
+    },
+    {
+      "term": "abordar",
+      "pos": "v.reg",
+      "meaning": "处理/登上"
+    },
+    {
+      "term": "abortar",
+      "pos": "v.reg",
+      "meaning": "中止"
+    },
+    {
+      "term": "abrazar",
+      "pos": "v.spell",
+      "meaning": "拥抱"
+    },
+    {
+      "term": "abrigar",
+      "pos": "v.spell",
+      "meaning": "保暖/怀有"
+    },
+    {
+      "term": "absolver",
+      "pos": "v.stem",
+      "meaning": "宣告无罪"
+    },
+    {
+      "term": "abstenerse",
+      "pos": "v.irreg",
+      "meaning": "克制/弃权"
+    },
+    {
+      "term": "abundar",
+      "pos": "v.reg",
+      "meaning": "大量存在"
+    },
+    {
+      "term": "abusar",
+      "pos": "v.reg",
+      "meaning": "滥用"
+    },
+    {
+      "term": "acabar",
+      "pos": "v.reg",
+      "meaning": "结束"
+    },
+    {
+      "term": "acceder",
+      "pos": "v.reg",
+      "meaning": "进入/同意"
+    },
+    {
+      "term": "acelerar",
+      "pos": "v.reg",
+      "meaning": "加速"
+    },
+    {
+      "term": "acentuar",
+      "pos": "v.reg",
+      "meaning": "强调/标重音"
+    },
+    {
+      "term": "aceptar",
+      "pos": "v.reg",
+      "meaning": "接受"
+    },
+    {
+      "term": "acercarse",
+      "pos": "v.spell",
+      "meaning": "靠近"
+    },
+    {
+      "term": "acertar",
+      "pos": "v.stem",
+      "meaning": "猜中/做对"
+    },
+    {
+      "term": "aclarar",
+      "pos": "v.reg",
+      "meaning": "澄清"
+    },
+    {
+      "term": "acoger",
+      "pos": "v.spell",
+      "meaning": "接纳"
+    },
+    {
+      "term": "acomodar",
+      "pos": "v.reg",
+      "meaning": "安置"
+    },
+    {
+      "term": "acompañar",
+      "pos": "v.reg",
+      "meaning": "陪伴"
+    },
+    {
+      "term": "aconsejar",
+      "pos": "v.reg",
+      "meaning": "建议"
+    },
+    {
+      "term": "acontecer",
+      "pos": "v.spell",
+      "meaning": "发生"
+    },
+    {
+      "term": "acordar",
+      "pos": "v.stem",
+      "meaning": "同意/决定"
+    },
+    {
+      "term": "acostumbrarse",
+      "pos": "v.reg",
+      "meaning": "习惯于"
+    },
+    {
+      "term": "acreditar",
+      "pos": "v.reg",
+      "meaning": "证明"
+    },
+    {
+      "term": "activar",
+      "pos": "v.reg",
+      "meaning": "激活"
+    },
+    {
+      "term": "actualizar",
+      "pos": "v.spell",
+      "meaning": "更新"
+    },
+    {
+      "term": "actuar",
+      "pos": "v.reg",
+      "meaning": "行动/表演"
+    },
+    {
+      "term": "acudir",
+      "pos": "v.reg",
+      "meaning": "前往/求助"
+    },
+    {
+      "term": "acumular",
+      "pos": "v.reg",
+      "meaning": "积累"
+    },
+    {
+      "term": "acusar",
+      "pos": "v.reg",
+      "meaning": "指控"
+    },
+    {
+      "term": "adaptar",
+      "pos": "v.reg",
+      "meaning": "适应/改编"
+    },
+    {
+      "term": "adelantar",
+      "pos": "v.reg",
+      "meaning": "提前/超过"
+    },
+    {
+      "term": "adherirse",
+      "pos": "v.stem",
+      "meaning": "加入/黏附"
+    },
+    {
+      "term": "adivinar",
+      "pos": "v.reg",
+      "meaning": "猜测"
+    },
+    {
+      "term": "administrar",
+      "pos": "v.reg",
+      "meaning": "管理"
+    },
+    {
+      "term": "admirar",
+      "pos": "v.reg",
+      "meaning": "钦佩"
+    },
+    {
+      "term": "admitir",
+      "pos": "v.reg",
+      "meaning": "承认/准许"
+    },
+    {
+      "term": "adoptar",
+      "pos": "v.reg",
+      "meaning": "采用/收养"
+    },
+    {
+      "term": "adorar",
+      "pos": "v.reg",
+      "meaning": "崇拜/热爱"
+    },
+    {
+      "term": "adquirir",
+      "pos": "v.stem",
+      "meaning": "获得"
+    },
+    {
+      "term": "advertir",
+      "pos": "v.stem",
+      "meaning": "警告/注意到"
+    },
+    {
+      "term": "afectar",
+      "pos": "v.reg",
+      "meaning": "影响"
+    },
+    {
+      "term": "aferrarse",
+      "pos": "v.stem",
+      "meaning": "紧抓/坚持"
+    },
+    {
+      "term": "afirmar",
+      "pos": "v.reg",
+      "meaning": "肯定/声称"
+    },
+    {
+      "term": "afrontar",
+      "pos": "v.reg",
+      "meaning": "面对"
+    },
+    {
+      "term": "agarrar",
+      "pos": "v.reg",
+      "meaning": "抓住"
+    },
+    {
+      "term": "agotar",
+      "pos": "v.reg",
+      "meaning": "耗尽"
+    },
+    {
+      "term": "agradecer",
+      "pos": "v.spell",
+      "meaning": "感谢"
+    },
+    {
+      "term": "agredir",
+      "pos": "v.stem",
+      "meaning": "攻击"
+    },
+    {
+      "term": "agrupar",
+      "pos": "v.reg",
+      "meaning": "分组"
+    },
+    {
+      "term": "aguantar",
+      "pos": "v.reg",
+      "meaning": "忍受"
+    },
+    {
+      "term": "ahorrar",
+      "pos": "v.reg",
+      "meaning": "节省"
+    },
+    {
+      "term": "aislar",
+      "pos": "v.reg",
+      "meaning": "隔离"
+    },
+    {
+      "term": "ajustar",
+      "pos": "v.reg",
+      "meaning": "调整"
+    },
+    {
+      "term": "albergar",
+      "pos": "v.spell",
+      "meaning": "容纳"
+    },
+    {
+      "term": "alcanzar",
+      "pos": "v.spell",
+      "meaning": "达到"
+    },
+    {
+      "term": "alegar",
+      "pos": "v.spell",
+      "meaning": "声称/申辩"
+    },
+    {
+      "term": "alegrarse",
+      "pos": "v.reg",
+      "meaning": "高兴"
+    },
+    {
+      "term": "alejarse",
+      "pos": "v.reg",
+      "meaning": "远离"
+    },
+    {
+      "term": "alimentar",
+      "pos": "v.reg",
+      "meaning": "喂养/滋养"
+    },
+    {
+      "term": "aliviar",
+      "pos": "v.reg",
+      "meaning": "缓解"
+    },
+    {
+      "term": "alojar",
+      "pos": "v.reg",
+      "meaning": "住宿/安置"
+    },
+    {
+      "term": "alterar",
+      "pos": "v.reg",
+      "meaning": "改变/打乱"
+    },
+    {
+      "term": "amenazar",
+      "pos": "v.spell",
+      "meaning": "威胁"
+    },
+    {
+      "term": "ampliar",
+      "pos": "v.reg",
+      "meaning": "扩大"
+    },
+    {
+      "term": "analizar",
+      "pos": "v.spell",
+      "meaning": "分析"
+    },
+    {
+      "term": "andar",
+      "pos": "v.irreg",
+      "meaning": "行走"
+    },
+    {
+      "term": "anhelar",
+      "pos": "v.reg",
+      "meaning": "渴望"
+    },
+    {
+      "term": "animar",
+      "pos": "v.reg",
+      "meaning": "鼓励"
+    },
+    {
+      "term": "anotar",
+      "pos": "v.reg",
+      "meaning": "记录"
+    },
+    {
+      "term": "anunciar",
+      "pos": "v.reg",
+      "meaning": "宣布"
+    },
+    {
+      "term": "añadir",
+      "pos": "v.reg",
+      "meaning": "添加"
+    },
+    {
+      "term": "apagar",
+      "pos": "v.spell",
+      "meaning": "关闭/熄灭"
+    },
+    {
+      "term": "aparecer",
+      "pos": "v.spell",
+      "meaning": "出现"
+    },
+    {
+      "term": "apelar",
+      "pos": "v.reg",
+      "meaning": "呼吁/上诉"
+    },
+    {
+      "term": "aplicar",
+      "pos": "v.spell",
+      "meaning": "应用"
+    },
+    {
+      "term": "aportar",
+      "pos": "v.reg",
+      "meaning": "贡献"
+    },
+    {
+      "term": "apoyar",
+      "pos": "v.reg",
+      "meaning": "支持"
+    },
+    {
+      "term": "apreciar",
+      "pos": "v.reg",
+      "meaning": "欣赏/重视"
+    },
+    {
+      "term": "aprender",
+      "pos": "v.reg",
+      "meaning": "学习"
+    },
+    {
+      "term": "apresurarse",
+      "pos": "v.reg",
+      "meaning": "赶忙"
+    },
+    {
+      "term": "aprobar",
+      "pos": "v.stem",
+      "meaning": "通过/批准"
+    },
+    {
+      "term": "aprovechar",
+      "pos": "v.reg",
+      "meaning": "利用"
+    },
+    {
+      "term": "apuntar",
+      "pos": "v.reg",
+      "meaning": "指出/记下"
+    },
+    {
+      "term": "arrepentirse",
+      "pos": "v.stem",
+      "meaning": "后悔"
+    },
+    {
+      "term": "arriesgar",
+      "pos": "v.spell",
+      "meaning": "冒险"
+    },
+    {
+      "term": "arrojar",
+      "pos": "v.reg",
+      "meaning": "投掷"
+    },
+    {
+      "term": "asegurar",
+      "pos": "v.reg",
+      "meaning": "保证"
+    },
+    {
+      "term": "asemejarse",
+      "pos": "v.reg",
+      "meaning": "相似"
+    },
+    {
+      "term": "asignar",
+      "pos": "v.reg",
+      "meaning": "分配"
+    },
+    {
+      "term": "asistir",
+      "pos": "v.reg",
+      "meaning": "出席"
+    },
+    {
+      "term": "asociar",
+      "pos": "v.reg",
+      "meaning": "关联"
+    },
+    {
+      "term": "aspirar",
+      "pos": "v.reg",
+      "meaning": "渴望/吸入"
+    },
+    {
+      "term": "asumir",
+      "pos": "v.reg",
+      "meaning": "承担"
+    },
+    {
+      "term": "atender",
+      "pos": "v.stem",
+      "meaning": "照顾/接待"
+    },
+    {
+      "term": "atrapar",
+      "pos": "v.reg",
+      "meaning": "抓住"
+    },
+    {
+      "term": "atreverse",
+      "pos": "v.reg",
+      "meaning": "敢于"
+    },
+    {
+      "term": "atribuir",
+      "pos": "v.spell",
+      "meaning": "归因于"
+    },
+    {
+      "term": "aumentar",
+      "pos": "v.reg",
+      "meaning": "增加"
+    },
+    {
+      "term": "avanzar",
+      "pos": "v.spell",
+      "meaning": "前进"
+    },
+    {
+      "term": "averiguar",
+      "pos": "v.spell",
+      "meaning": "查明"
+    },
+    {
+      "term": "avisar",
+      "pos": "v.reg",
+      "meaning": "通知"
+    },
+    {
+      "term": "ayudar",
+      "pos": "v.reg",
+      "meaning": "帮助"
+    },
+    {
+      "term": "bailar",
+      "pos": "v.reg",
+      "meaning": "跳舞"
+    },
+    {
+      "term": "bajar",
+      "pos": "v.reg",
+      "meaning": "下降/下车"
+    },
+    {
+      "term": "basarse",
+      "pos": "v.reg",
+      "meaning": "基于"
+    },
+    {
+      "term": "bastar",
+      "pos": "v.reg",
+      "meaning": "足够"
+    },
+    {
+      "term": "batir",
+      "pos": "v.reg",
+      "meaning": "击打/打破"
+    },
+    {
+      "term": "beneficiar",
+      "pos": "v.reg",
+      "meaning": "有益于"
+    },
+    {
+      "term": "bloquear",
+      "pos": "v.spell",
+      "meaning": "阻塞"
+    },
+    {
+      "term": "borrar",
+      "pos": "v.reg",
+      "meaning": "删除"
+    },
+    {
+      "term": "brindar",
+      "pos": "v.reg",
+      "meaning": "提供/祝酒"
+    },
+    {
+      "term": "buscar",
+      "pos": "v.spell",
+      "meaning": "寻找"
+    },
+    {
+      "term": "caber",
+      "pos": "v.irreg",
+      "meaning": "容纳得下"
+    },
+    {
+      "term": "caer",
+      "pos": "v.irreg",
+      "meaning": "落下"
+    },
+    {
+      "term": "calcular",
+      "pos": "v.reg",
+      "meaning": "计算"
+    },
+    {
+      "term": "calificar",
+      "pos": "v.spell",
+      "meaning": "评价/打分"
+    },
+    {
+      "term": "callar",
+      "pos": "v.reg",
+      "meaning": "沉默"
+    },
+    {
+      "term": "cambiar",
+      "pos": "v.reg",
+      "meaning": "改变"
+    },
+    {
+      "term": "caminar",
+      "pos": "v.reg",
+      "meaning": "走路"
+    },
+    {
+      "term": "cancelar",
+      "pos": "v.reg",
+      "meaning": "取消"
+    },
+    {
+      "term": "cansarse",
+      "pos": "v.reg",
+      "meaning": "疲劳"
+    },
+    {
+      "term": "carecer",
+      "pos": "v.spell",
+      "meaning": "缺乏"
+    },
+    {
+      "term": "cargar",
+      "pos": "v.spell",
+      "meaning": "装载/承担"
+    },
+    {
+      "term": "casarse",
+      "pos": "v.reg",
+      "meaning": "结婚"
+    },
+    {
+      "term": "causar",
+      "pos": "v.reg",
+      "meaning": "导致"
+    },
+    {
+      "term": "ceder",
+      "pos": "v.reg",
+      "meaning": "让步"
+    },
+    {
+      "term": "celebrar",
+      "pos": "v.reg",
+      "meaning": "庆祝"
+    },
+    {
+      "term": "censurar",
+      "pos": "v.reg",
+      "meaning": "审查/批评"
+    },
+    {
+      "term": "centrarse",
+      "pos": "v.reg",
+      "meaning": "集中于"
+    },
+    {
+      "term": "cerrar",
+      "pos": "v.stem",
+      "meaning": "关闭"
+    },
+    {
+      "term": "circular",
+      "pos": "v.reg",
+      "meaning": "流通"
+    },
+    {
+      "term": "citar",
+      "pos": "v.reg",
+      "meaning": "引用/约见"
+    },
+    {
+      "term": "clasificar",
+      "pos": "v.spell",
+      "meaning": "分类"
+    },
+    {
+      "term": "cobrar",
+      "pos": "v.reg",
+      "meaning": "收费/领取"
+    },
+    {
+      "term": "coincidir",
+      "pos": "v.reg",
+      "meaning": "一致/碰巧"
+    },
+    {
+      "term": "colaborar",
+      "pos": "v.reg",
+      "meaning": "合作"
+    },
+    {
+      "term": "coleccionar",
+      "pos": "v.reg",
+      "meaning": "收集"
+    },
+    {
+      "term": "colocar",
+      "pos": "v.spell",
+      "meaning": "放置"
+    },
+    {
+      "term": "combatir",
+      "pos": "v.reg",
+      "meaning": "战斗/防治"
+    },
+    {
+      "term": "combinar",
+      "pos": "v.reg",
+      "meaning": "结合"
+    },
+    {
+      "term": "comentar",
+      "pos": "v.reg",
+      "meaning": "评论"
+    },
+    {
+      "term": "comenzar",
+      "pos": "v.stem+spell",
+      "meaning": "开始"
+    },
+    {
+      "term": "comer",
+      "pos": "v.reg",
+      "meaning": "吃"
+    },
+    {
+      "term": "comparar",
+      "pos": "v.reg",
+      "meaning": "比较"
+    },
+    {
+      "term": "compartir",
+      "pos": "v.reg",
+      "meaning": "分享"
+    },
+    {
+      "term": "competir",
+      "pos": "v.stem",
+      "meaning": "竞争"
+    },
+    {
+      "term": "completar",
+      "pos": "v.reg",
+      "meaning": "完成"
+    },
+    {
+      "term": "comportarse",
+      "pos": "v.reg",
+      "meaning": "表现"
+    },
+    {
+      "term": "comprender",
+      "pos": "v.reg",
+      "meaning": "理解"
+    },
+    {
+      "term": "comprobar",
+      "pos": "v.stem",
+      "meaning": "验证"
+    },
+    {
+      "term": "comunicar",
+      "pos": "v.spell",
+      "meaning": "传达"
+    },
+    {
+      "term": "conceder",
+      "pos": "v.reg",
+      "meaning": "给予"
+    },
+    {
+      "term": "concluir",
+      "pos": "v.spell",
+      "meaning": "结束/得出"
+    },
+    {
+      "term": "condenar",
+      "pos": "v.reg",
+      "meaning": "谴责/判刑"
+    },
+    {
+      "term": "conducir",
+      "pos": "v.irreg",
+      "meaning": "驾驶/导致"
+    },
+    {
+      "term": "confiar",
+      "pos": "v.reg",
+      "meaning": "信任"
+    },
+    {
+      "term": "confirmar",
+      "pos": "v.reg",
+      "meaning": "确认"
+    },
+    {
+      "term": "confundir",
+      "pos": "v.reg",
+      "meaning": "混淆"
+    },
+    {
+      "term": "congelar",
+      "pos": "v.stem",
+      "meaning": "冻结"
+    },
+    {
+      "term": "conectar",
+      "pos": "v.reg",
+      "meaning": "连接"
+    },
+    {
+      "term": "conocer",
+      "pos": "v.spell",
+      "meaning": "认识"
+    },
+    {
+      "term": "conseguir",
+      "pos": "v.stem+spell",
+      "meaning": "获得"
+    },
+    {
+      "term": "conservar",
+      "pos": "v.reg",
+      "meaning": "保存"
+    },
+    {
+      "term": "considerar",
+      "pos": "v.reg",
+      "meaning": "认为"
+    },
+    {
+      "term": "consistir",
+      "pos": "v.reg",
+      "meaning": "在于"
+    },
+    {
+      "term": "construir",
+      "pos": "v.spell",
+      "meaning": "建造"
+    },
+    {
+      "term": "consultar",
+      "pos": "v.reg",
+      "meaning": "咨询"
+    },
+    {
+      "term": "consumir",
+      "pos": "v.reg",
+      "meaning": "消费"
+    },
+    {
+      "term": "contar",
+      "pos": "v.stem",
+      "meaning": "讲述/数"
+    },
+    {
+      "term": "contener",
+      "pos": "v.irreg",
+      "meaning": "包含"
+    },
+    {
+      "term": "contestar",
+      "pos": "v.reg",
+      "meaning": "回答"
+    },
+    {
+      "term": "continuar",
+      "pos": "v.reg",
+      "meaning": "继续"
+    },
+    {
+      "term": "contratar",
+      "pos": "v.reg",
+      "meaning": "雇用"
+    },
+    {
+      "term": "contribuir",
+      "pos": "v.spell",
+      "meaning": "贡献"
+    },
+    {
+      "term": "controlar",
+      "pos": "v.reg",
+      "meaning": "控制"
+    },
+    {
+      "term": "convencer",
+      "pos": "v.spell",
+      "meaning": "说服"
+    },
+    {
+      "term": "convertirse",
+      "pos": "v.stem",
+      "meaning": "变成"
+    },
+    {
+      "term": "convivir",
+      "pos": "v.reg",
+      "meaning": "共处"
+    },
+    {
+      "term": "convocar",
+      "pos": "v.spell",
+      "meaning": "召集"
+    },
+    {
+      "term": "corregir",
+      "pos": "v.stem+spell",
+      "meaning": "纠正"
+    },
+    {
+      "term": "corresponder",
+      "pos": "v.reg",
+      "meaning": "对应"
+    },
+    {
+      "term": "correr",
+      "pos": "v.reg",
+      "meaning": "跑"
+    },
+    {
+      "term": "cortar",
+      "pos": "v.reg",
+      "meaning": "切断"
+    },
+    {
+      "term": "costar",
+      "pos": "v.stem",
+      "meaning": "花费"
+    },
+    {
+      "term": "crear",
+      "pos": "v.reg",
+      "meaning": "创造"
+    },
+    {
+      "term": "crecer",
+      "pos": "v.spell",
+      "meaning": "成长"
+    },
+    {
+      "term": "creer",
+      "pos": "v.spell",
+      "meaning": "相信"
+    },
+    {
+      "term": "criticar",
+      "pos": "v.spell",
+      "meaning": "批评"
+    },
+    {
+      "term": "cruzar",
+      "pos": "v.spell",
+      "meaning": "穿过"
+    },
+    {
+      "term": "cuidar",
+      "pos": "v.reg",
+      "meaning": "照顾"
+    },
+    {
+      "term": "cultivar",
+      "pos": "v.reg",
+      "meaning": "培养/种植"
+    },
+    {
+      "term": "cumplir",
+      "pos": "v.reg",
+      "meaning": "履行/满"
+    },
+    {
+      "term": "curar",
+      "pos": "v.reg",
+      "meaning": "治疗"
+    },
+    {
+      "term": "debatir",
+      "pos": "v.reg",
+      "meaning": "辩论"
+    },
+    {
+      "term": "deber",
+      "pos": "v.reg",
+      "meaning": "应该/欠"
+    },
+    {
+      "term": "decidir",
+      "pos": "v.reg",
+      "meaning": "决定"
+    },
+    {
+      "term": "decir",
+      "pos": "v.irreg",
+      "meaning": "说"
+    },
+    {
+      "term": "declarar",
+      "pos": "v.reg",
+      "meaning": "声明"
+    },
+    {
+      "term": "dedicar",
+      "pos": "v.spell",
+      "meaning": "奉献/用于"
+    },
+    {
+      "term": "defender",
+      "pos": "v.stem",
+      "meaning": "保护/辩护"
+    },
+    {
+      "term": "definir",
+      "pos": "v.reg",
+      "meaning": "定义"
+    },
+    {
+      "term": "dejar",
+      "pos": "v.reg",
+      "meaning": "留下/让"
+    },
+    {
+      "term": "demostrar",
+      "pos": "v.stem",
+      "meaning": "证明"
+    },
+    {
+      "term": "denunciar",
+      "pos": "v.reg",
+      "meaning": "揭发"
+    },
+    {
+      "term": "depender",
+      "pos": "v.reg",
+      "meaning": "取决于"
+    },
+    {
+      "term": "depositar",
+      "pos": "v.reg",
+      "meaning": "存放/寄托"
+    },
+    {
+      "term": "derivar",
+      "pos": "v.reg",
+      "meaning": "源于"
+    },
+    {
+      "term": "desarrollar",
+      "pos": "v.reg",
+      "meaning": "发展"
+    },
+    {
+      "term": "desaparecer",
+      "pos": "v.spell",
+      "meaning": "消失"
+    },
+    {
+      "term": "describir",
+      "pos": "v.irreg",
+      "meaning": "描述"
+    },
+    {
+      "term": "descubrir",
+      "pos": "v.irreg",
+      "meaning": "发现"
+    },
+    {
+      "term": "desear",
+      "pos": "v.reg",
+      "meaning": "希望"
+    },
+    {
+      "term": "desempeñar",
+      "pos": "v.reg",
+      "meaning": "发挥/担任"
+    },
+    {
+      "term": "despertar",
+      "pos": "v.stem",
+      "meaning": "唤醒"
+    },
+    {
+      "term": "destacar",
+      "pos": "v.spell",
+      "meaning": "突出"
+    },
+    {
+      "term": "destinar",
+      "pos": "v.reg",
+      "meaning": "指定/用于"
+    },
+    {
+      "term": "destruir",
+      "pos": "v.spell",
+      "meaning": "破坏"
+    },
+    {
+      "term": "detener",
+      "pos": "v.irreg",
+      "meaning": "停止/拘留"
+    },
+    {
+      "term": "determinar",
+      "pos": "v.reg",
+      "meaning": "确定"
+    },
+    {
+      "term": "devolver",
+      "pos": "v.stem",
+      "meaning": "归还"
+    },
+    {
+      "term": "dirigir",
+      "pos": "v.spell",
+      "meaning": "引导/导演"
+    },
+    {
+      "term": "disfrutar",
+      "pos": "v.reg",
+      "meaning": "享受"
+    },
+    {
+      "term": "disminuir",
+      "pos": "v.spell",
+      "meaning": "减少"
+    },
+    {
+      "term": "disponer",
+      "pos": "v.irreg",
+      "meaning": "安排/拥有"
+    },
+    {
+      "term": "distinguir",
+      "pos": "v.spell",
+      "meaning": "区分"
+    },
+    {
+      "term": "distribuir",
+      "pos": "v.spell",
+      "meaning": "分配"
+    },
+    {
+      "term": "dividir",
+      "pos": "v.reg",
+      "meaning": "划分"
+    },
+    {
+      "term": "dudar",
+      "pos": "v.reg",
+      "meaning": "怀疑"
+    },
+    {
+      "term": "durar",
+      "pos": "v.reg",
+      "meaning": "持续"
+    },
+    {
+      "term": "echar",
+      "pos": "v.reg",
+      "meaning": "扔/投"
+    },
+    {
+      "term": "educar",
+      "pos": "v.spell",
+      "meaning": "教育"
+    },
+    {
+      "term": "efectuar",
+      "pos": "v.reg",
+      "meaning": "实施"
+    },
+    {
+      "term": "elaborar",
+      "pos": "v.reg",
+      "meaning": "制定/加工"
+    },
+    {
+      "term": "elegir",
+      "pos": "v.stem+spell",
+      "meaning": "选择"
+    },
+    {
+      "term": "eliminar",
+      "pos": "v.reg",
+      "meaning": "消除"
+    },
+    {
+      "term": "emitir",
+      "pos": "v.reg",
+      "meaning": "排放/发布"
+    },
+    {
+      "term": "emplear",
+      "pos": "v.reg",
+      "meaning": "使用/雇用"
+    },
+    {
+      "term": "emprender",
+      "pos": "v.reg",
+      "meaning": "着手/创业"
+    },
+    {
+      "term": "empezar",
+      "pos": "v.stem+spell",
+      "meaning": "开始"
+    },
+    {
+      "term": "encargar",
+      "pos": "v.spell",
+      "meaning": "委托/订购"
+    },
+    {
+      "term": "encender",
+      "pos": "v.stem",
+      "meaning": "点燃/打开"
+    },
+    {
+      "term": "encontrar",
+      "pos": "v.stem",
+      "meaning": "找到"
+    },
+    {
+      "term": "enfrentarse",
+      "pos": "v.reg",
+      "meaning": "面对"
+    },
+    {
+      "term": "engañar",
+      "pos": "v.reg",
+      "meaning": "欺骗"
+    },
+    {
+      "term": "enriquecer",
+      "pos": "v.spell",
+      "meaning": "丰富"
+    },
+    {
+      "term": "enseñar",
+      "pos": "v.reg",
+      "meaning": "教"
+    },
+    {
+      "term": "entender",
+      "pos": "v.stem",
+      "meaning": "理解"
+    },
+    {
+      "term": "entregar",
+      "pos": "v.spell",
+      "meaning": "交付"
+    },
+    {
+      "term": "entrar",
+      "pos": "v.reg",
+      "meaning": "进入"
+    },
+    {
+      "term": "entrenar",
+      "pos": "v.reg",
+      "meaning": "训练"
+    },
+    {
+      "term": "enviar",
+      "pos": "v.reg",
+      "meaning": "发送"
+    },
+    {
+      "term": "equivocarse",
+      "pos": "v.spell",
+      "meaning": "弄错"
+    },
+    {
+      "term": "escoger",
+      "pos": "v.spell",
+      "meaning": "选择"
+    },
+    {
+      "term": "escribir",
+      "pos": "v.irreg",
+      "meaning": "写"
+    },
+    {
+      "term": "escuchar",
+      "pos": "v.reg",
+      "meaning": "听"
+    },
+    {
+      "term": "esforzarse",
+      "pos": "v.stem+spell",
+      "meaning": "努力"
+    },
+    {
+      "term": "establecer",
+      "pos": "v.spell",
+      "meaning": "建立"
+    },
+    {
+      "term": "estallar",
+      "pos": "v.reg",
+      "meaning": "爆发"
+    },
+    {
+      "term": "estudiar",
+      "pos": "v.reg",
+      "meaning": "学习"
+    },
+    {
+      "term": "evaluar",
+      "pos": "v.reg",
+      "meaning": "评估"
+    },
+    {
+      "term": "evitar",
+      "pos": "v.reg",
+      "meaning": "避免"
+    },
+    {
+      "term": "evolucionar",
+      "pos": "v.reg",
+      "meaning": "演变"
+    },
+    {
+      "term": "exagerar",
+      "pos": "v.reg",
+      "meaning": "夸大"
+    },
+    {
+      "term": "examinar",
+      "pos": "v.reg",
+      "meaning": "检查"
+    },
+    {
+      "term": "exigir",
+      "pos": "v.spell",
+      "meaning": "要求"
+    },
+    {
+      "term": "existir",
+      "pos": "v.reg",
+      "meaning": "存在"
+    },
+    {
+      "term": "explicar",
+      "pos": "v.spell",
+      "meaning": "解释"
+    },
+    {
+      "term": "explorar",
+      "pos": "v.reg",
+      "meaning": "探索"
+    },
+    {
+      "term": "exportar",
+      "pos": "v.reg",
+      "meaning": "出口"
+    },
+    {
+      "term": "expresar",
+      "pos": "v.reg",
+      "meaning": "表达"
+    },
+    {
+      "term": "extender",
+      "pos": "v.stem",
+      "meaning": "扩展"
+    },
+    {
+      "term": "facilitar",
+      "pos": "v.reg",
+      "meaning": "便利"
+    },
+    {
+      "term": "fallar",
+      "pos": "v.reg",
+      "meaning": "失败/出错"
+    },
+    {
+      "term": "faltar",
+      "pos": "v.reg",
+      "meaning": "缺少"
+    },
+    {
+      "term": "favorecer",
+      "pos": "v.spell",
+      "meaning": "促进"
+    },
+    {
+      "term": "fijar",
+      "pos": "v.reg",
+      "meaning": "固定/确定"
+    },
+    {
+      "term": "firmar",
+      "pos": "v.reg",
+      "meaning": "签署"
+    },
+    {
+      "term": "fomentar",
+      "pos": "v.reg",
+      "meaning": "促进"
+    },
+    {
+      "term": "formar",
+      "pos": "v.reg",
+      "meaning": "形成/培养"
+    },
+    {
+      "term": "fortalecer",
+      "pos": "v.spell",
+      "meaning": "加强"
+    },
+    {
+      "term": "fracasar",
+      "pos": "v.reg",
+      "meaning": "失败"
+    },
+    {
+      "term": "funcionar",
+      "pos": "v.reg",
+      "meaning": "运转"
+    },
+    {
+      "term": "fundar",
+      "pos": "v.reg",
+      "meaning": "创立"
+    },
+    {
+      "term": "ganar",
+      "pos": "v.reg",
+      "meaning": "赢得"
+    },
+    {
+      "term": "garantizar",
+      "pos": "v.spell",
+      "meaning": "保证"
+    },
+    {
+      "term": "gastar",
+      "pos": "v.reg",
+      "meaning": "花费"
+    },
+    {
+      "term": "generar",
+      "pos": "v.reg",
+      "meaning": "产生"
+    },
+    {
+      "term": "gobernar",
+      "pos": "v.stem",
+      "meaning": "治理"
+    },
+    {
+      "term": "guardar",
+      "pos": "v.reg",
+      "meaning": "保存"
+    },
+    {
+      "term": "guiar",
+      "pos": "v.reg",
+      "meaning": "引导"
+    },
+    {
+      "term": "habitar",
+      "pos": "v.reg",
+      "meaning": "居住"
+    },
+    {
+      "term": "hablar",
+      "pos": "v.reg",
+      "meaning": "说话"
+    },
+    {
+      "term": "hacer",
+      "pos": "v.irreg",
+      "meaning": "做"
+    },
+    {
+      "term": "hallar",
+      "pos": "v.reg",
+      "meaning": "发现"
+    },
+    {
+      "term": "imaginar",
+      "pos": "v.reg",
+      "meaning": "想象"
+    },
+    {
+      "term": "impedir",
+      "pos": "v.stem",
+      "meaning": "阻止"
+    },
+    {
+      "term": "implicar",
+      "pos": "v.spell",
+      "meaning": "意味着"
+    },
+    {
+      "term": "importar",
+      "pos": "v.reg",
+      "meaning": "重要/进口"
+    },
+    {
+      "term": "incluir",
+      "pos": "v.spell",
+      "meaning": "包括"
+    },
+    {
+      "term": "indicar",
+      "pos": "v.spell",
+      "meaning": "指出"
+    },
+    {
+      "term": "influir",
+      "pos": "v.spell",
+      "meaning": "影响"
+    },
+    {
+      "term": "informar",
+      "pos": "v.reg",
+      "meaning": "告知"
+    },
+    {
+      "term": "iniciar",
+      "pos": "v.reg",
+      "meaning": "开始"
+    },
+    {
+      "term": "insistir",
+      "pos": "v.reg",
+      "meaning": "坚持"
+    },
+    {
+      "term": "inspirar",
+      "pos": "v.reg",
+      "meaning": "启发"
+    },
+    {
+      "term": "instalar",
+      "pos": "v.reg",
+      "meaning": "安装"
+    },
+    {
+      "term": "intentar",
+      "pos": "v.reg",
+      "meaning": "试图"
+    },
+    {
+      "term": "interesar",
+      "pos": "v.reg",
+      "meaning": "使感兴趣"
+    },
+    {
+      "term": "intervenir",
+      "pos": "v.irreg",
+      "meaning": "干预"
+    },
+    {
+      "term": "introducir",
+      "pos": "v.irreg",
+      "meaning": "引入"
+    },
+    {
+      "term": "investigar",
+      "pos": "v.spell",
+      "meaning": "调查"
+    },
+    {
+      "term": "invitar",
+      "pos": "v.reg",
+      "meaning": "邀请"
+    },
+    {
+      "term": "juzgar",
+      "pos": "v.spell",
+      "meaning": "判断"
+    },
+    {
+      "term": "lanzar",
+      "pos": "v.spell",
+      "meaning": "投掷/发起"
+    },
+    {
+      "term": "lamentar",
+      "pos": "v.reg",
+      "meaning": "遗憾"
+    },
+    {
+      "term": "leer",
+      "pos": "v.spell",
+      "meaning": "阅读"
+    },
+    {
+      "term": "levantar",
+      "pos": "v.reg",
+      "meaning": "举起"
+    },
+    {
+      "term": "limitar",
+      "pos": "v.reg",
+      "meaning": "限制"
+    },
+    {
+      "term": "llamar",
+      "pos": "v.reg",
+      "meaning": "叫/打电话"
+    },
+    {
+      "term": "llegar",
+      "pos": "v.spell",
+      "meaning": "到达"
+    },
+    {
+      "term": "llenar",
+      "pos": "v.reg",
+      "meaning": "装满"
+    },
+    {
+      "term": "llevar",
+      "pos": "v.reg",
+      "meaning": "带/穿"
+    },
+    {
+      "term": "lograr",
+      "pos": "v.reg",
+      "meaning": "实现"
+    },
+    {
+      "term": "luchar",
+      "pos": "v.reg",
+      "meaning": "斗争"
+    },
+    {
+      "term": "mantener",
+      "pos": "v.irreg",
+      "meaning": "维持"
+    },
+    {
+      "term": "marcar",
+      "pos": "v.spell",
+      "meaning": "标记/得分"
+    },
+    {
+      "term": "mejorar",
+      "pos": "v.reg",
+      "meaning": "改善"
+    },
+    {
+      "term": "mencionar",
+      "pos": "v.reg",
+      "meaning": "提及"
+    },
+    {
+      "term": "mentir",
+      "pos": "v.stem",
+      "meaning": "撒谎"
+    },
+    {
+      "term": "merecer",
+      "pos": "v.spell",
+      "meaning": "值得"
+    },
+    {
+      "term": "mezclar",
+      "pos": "v.reg",
+      "meaning": "混合"
+    },
+    {
+      "term": "mirar",
+      "pos": "v.reg",
+      "meaning": "看"
+    },
+    {
+      "term": "morir",
+      "pos": "v.irreg",
+      "meaning": "死亡"
+    },
+    {
+      "term": "mostrar",
+      "pos": "v.stem",
+      "meaning": "显示"
+    },
+    {
+      "term": "mover",
+      "pos": "v.stem",
+      "meaning": "移动"
+    },
+    {
+      "term": "nacer",
+      "pos": "v.spell",
+      "meaning": "出生"
+    },
+    {
+      "term": "negar",
+      "pos": "v.stem+spell",
+      "meaning": "否认"
+    },
+    {
+      "term": "nombrar",
+      "pos": "v.reg",
+      "meaning": "任命/命名"
+    },
+    {
+      "term": "notar",
+      "pos": "v.reg",
+      "meaning": "注意到"
+    },
+    {
+      "term": "obligar",
+      "pos": "v.spell",
+      "meaning": "迫使"
+    },
+    {
+      "term": "observar",
+      "pos": "v.reg",
+      "meaning": "观察"
+    },
+    {
+      "term": "obtener",
+      "pos": "v.irreg",
+      "meaning": "获得"
+    },
+    {
+      "term": "ocupar",
+      "pos": "v.reg",
+      "meaning": "占据"
+    },
+    {
+      "term": "ocurrir",
+      "pos": "v.reg",
+      "meaning": "发生"
+    },
+    {
+      "term": "ofrecer",
+      "pos": "v.spell",
+      "meaning": "提供"
+    },
+    {
+      "term": "olvidar",
+      "pos": "v.reg",
+      "meaning": "忘记"
+    },
+    {
+      "term": "opinar",
+      "pos": "v.reg",
+      "meaning": "认为"
+    },
+    {
+      "term": "oponerse",
+      "pos": "v.irreg",
+      "meaning": "反对"
+    },
+    {
+      "term": "optar",
+      "pos": "v.reg",
+      "meaning": "选择"
+    },
+    {
+      "term": "organizar",
+      "pos": "v.spell",
+      "meaning": "组织"
+    },
+    {
+      "term": "originar",
+      "pos": "v.reg",
+      "meaning": "引起"
+    },
+    {
+      "term": "participar",
+      "pos": "v.reg",
+      "meaning": "参与"
+    },
+    {
+      "term": "pasar",
+      "pos": "v.reg",
+      "meaning": "经过/发生"
+    },
+    {
+      "term": "pedir",
+      "pos": "v.stem",
+      "meaning": "请求"
+    },
+    {
+      "term": "pensar",
+      "pos": "v.stem",
+      "meaning": "思考"
+    },
+    {
+      "term": "percibir",
+      "pos": "v.reg",
+      "meaning": "感知"
+    },
+    {
+      "term": "perder",
+      "pos": "v.stem",
+      "meaning": "丢失"
+    },
+    {
+      "term": "permitir",
+      "pos": "v.reg",
+      "meaning": "允许"
+    },
+    {
+      "term": "perseguir",
+      "pos": "v.stem+spell",
+      "meaning": "追求"
+    },
+    {
+      "term": "pertenecer",
+      "pos": "v.spell",
+      "meaning": "属于"
+    },
+    {
+      "term": "plantear",
+      "pos": "v.reg",
+      "meaning": "提出"
+    },
+    {
+      "term": "poblar",
+      "pos": "v.stem",
+      "meaning": "居住于"
+    },
+    {
+      "term": "poder",
+      "pos": "v.irreg",
+      "meaning": "能够"
+    },
+    {
+      "term": "poner",
+      "pos": "v.irreg",
+      "meaning": "放置"
+    },
+    {
+      "term": "poseer",
+      "pos": "v.spell",
+      "meaning": "拥有"
+    },
+    {
+      "term": "preferir",
+      "pos": "v.stem",
+      "meaning": "偏爱"
+    },
+    {
+      "term": "preocupar",
+      "pos": "v.reg",
+      "meaning": "使担心"
+    },
+    {
+      "term": "preparar",
+      "pos": "v.reg",
+      "meaning": "准备"
+    },
+    {
+      "term": "presentar",
+      "pos": "v.reg",
+      "meaning": "呈现"
+    },
+    {
+      "term": "preservar",
+      "pos": "v.reg",
+      "meaning": "保护/保存"
+    },
+    {
+      "term": "prestar",
+      "pos": "v.reg",
+      "meaning": "借出/提供"
+    },
+    {
+      "term": "prevenir",
+      "pos": "v.irreg",
+      "meaning": "预防"
+    },
+    {
+      "term": "probar",
+      "pos": "v.stem",
+      "meaning": "尝试/证明"
+    },
+    {
+      "term": "producir",
+      "pos": "v.irreg",
+      "meaning": "生产/产生"
+    },
+    {
+      "term": "proteger",
+      "pos": "v.spell",
+      "meaning": "保护"
+    },
+    {
+      "term": "publicar",
+      "pos": "v.reg",
+      "meaning": "出版/发布"
+    },
+    {
+      "term": "quedar",
+      "pos": "v.reg",
+      "meaning": "保持/剩下"
+    },
+    {
+      "term": "querer",
+      "pos": "v.irreg",
+      "meaning": "想要"
+    },
+    {
+      "term": "realizar",
+      "pos": "v.spell",
+      "meaning": "实现/进行"
+    },
+    {
+      "term": "recibir",
+      "pos": "v.reg",
+      "meaning": "收到"
+    },
+    {
+      "term": "reclamar",
+      "pos": "v.reg",
+      "meaning": "要求/投诉"
+    },
+    {
+      "term": "recomendar",
+      "pos": "v.stem",
+      "meaning": "推荐"
+    },
+    {
+      "term": "reconocer",
+      "pos": "v.spell",
+      "meaning": "认出/承认"
+    },
+    {
+      "term": "recordar",
+      "pos": "v.stem",
+      "meaning": "记得"
+    },
+    {
+      "term": "recorrer",
+      "pos": "v.reg",
+      "meaning": "走遍"
+    },
+    {
+      "term": "recuperar",
+      "pos": "v.reg",
+      "meaning": "恢复"
+    },
+    {
+      "term": "reducir",
+      "pos": "v.irreg",
+      "meaning": "减少"
+    },
+    {
+      "term": "referirse",
+      "pos": "v.stem",
+      "meaning": "指的是"
+    },
+    {
+      "term": "reflejar",
+      "pos": "v.reg",
+      "meaning": "反映"
+    },
+    {
+      "term": "reforzar",
+      "pos": "v.stem+spell",
+      "meaning": "加强"
+    },
+    {
+      "term": "relacionar",
+      "pos": "v.reg",
+      "meaning": "关联"
+    },
+    {
+      "term": "renunciar",
+      "pos": "v.reg",
+      "meaning": "辞职/放弃"
+    },
+    {
+      "term": "repartir",
+      "pos": "v.reg",
+      "meaning": "分配"
+    },
+    {
+      "term": "repetir",
+      "pos": "v.stem",
+      "meaning": "重复"
+    },
+    {
+      "term": "resolver",
+      "pos": "v.stem",
+      "meaning": "解决"
+    },
+    {
+      "term": "respetar",
+      "pos": "v.reg",
+      "meaning": "尊重"
+    },
+    {
+      "term": "responder",
+      "pos": "v.reg",
+      "meaning": "回答"
+    },
+    {
+      "term": "resultar",
+      "pos": "v.reg",
+      "meaning": "结果是"
+    },
+    {
+      "term": "reunir",
+      "pos": "v.reg",
+      "meaning": "聚集"
+    },
+    {
+      "term": "revelar",
+      "pos": "v.reg",
+      "meaning": "揭示"
+    },
+    {
+      "term": "romper",
+      "pos": "v.irreg",
+      "meaning": "打破"
+    },
+    {
+      "term": "saber",
+      "pos": "v.irreg",
+      "meaning": "知道"
+    },
+    {
+      "term": "sacar",
+      "pos": "v.spell",
+      "meaning": "取出"
+    },
+    {
+      "term": "salir",
+      "pos": "v.irreg",
+      "meaning": "出去"
+    },
+    {
+      "term": "salvar",
+      "pos": "v.reg",
+      "meaning": "拯救"
+    },
+    {
+      "term": "satisfacer",
+      "pos": "v.irreg",
+      "meaning": "满足"
+    },
+    {
+      "term": "seguir",
+      "pos": "v.stem+spell",
+      "meaning": "继续"
+    },
+    {
+      "term": "seleccionar",
+      "pos": "v.reg",
+      "meaning": "选择"
+    },
+    {
+      "term": "sembrar",
+      "pos": "v.stem",
+      "meaning": "播种"
+    },
+    {
+      "term": "señalar",
+      "pos": "v.reg",
+      "meaning": "指出"
+    },
+    {
+      "term": "sentir",
+      "pos": "v.stem",
+      "meaning": "感觉"
+    },
+    {
+      "term": "ser",
+      "pos": "v.irreg",
+      "meaning": "是"
+    },
+    {
+      "term": "servir",
+      "pos": "v.stem",
+      "meaning": "服务/有用"
+    },
+    {
+      "term": "situar",
+      "pos": "v.reg",
+      "meaning": "放置"
+    },
+    {
+      "term": "soler",
+      "pos": "v.stem",
+      "meaning": "通常"
+    },
+    {
+      "term": "solicitar",
+      "pos": "v.reg",
+      "meaning": "申请/请求"
+    },
+    {
+      "term": "solucionar",
+      "pos": "v.reg",
+      "meaning": "解决"
+    },
+    {
+      "term": "soñar",
+      "pos": "v.stem",
+      "meaning": "梦想"
+    },
+    {
+      "term": "sorprender",
+      "pos": "v.reg",
+      "meaning": "使惊讶"
+    },
+    {
+      "term": "sostener",
+      "pos": "v.irreg",
+      "meaning": "支撑/主张"
+    },
+    {
+      "term": "subir",
+      "pos": "v.reg",
+      "meaning": "上升"
+    },
+    {
+      "term": "sufrir",
+      "pos": "v.reg",
+      "meaning": "遭受"
+    },
+    {
+      "term": "suponer",
+      "pos": "v.irreg",
+      "meaning": "假设/意味着"
+    },
+    {
+      "term": "surgir",
+      "pos": "v.reg",
+      "meaning": "出现"
+    },
+    {
+      "term": "sustituir",
+      "pos": "v.spell",
+      "meaning": "替代"
+    },
+    {
+      "term": "tardar",
+      "pos": "v.reg",
+      "meaning": "花费时间"
+    },
+    {
+      "term": "temer",
+      "pos": "v.reg",
+      "meaning": "害怕"
+    },
+    {
+      "term": "tender",
+      "pos": "v.stem",
+      "meaning": "趋向"
+    },
+    {
+      "term": "tener",
+      "pos": "v.irreg",
+      "meaning": "有"
+    },
+    {
+      "term": "terminar",
+      "pos": "v.reg",
+      "meaning": "结束"
+    },
+    {
+      "term": "tomar",
+      "pos": "v.reg",
+      "meaning": "拿/采取"
+    },
+    {
+      "term": "trabajar",
+      "pos": "v.reg",
+      "meaning": "工作"
+    },
+    {
+      "term": "traducir",
+      "pos": "v.irreg",
+      "meaning": "翻译"
+    },
+    {
+      "term": "transformar",
+      "pos": "v.reg",
+      "meaning": "转变"
+    },
+    {
+      "term": "transmitir",
+      "pos": "v.reg",
+      "meaning": "传递"
+    },
+    {
+      "term": "tratar",
+      "pos": "v.reg",
+      "meaning": "处理/尝试"
+    },
+    {
+      "term": "triunfar",
+      "pos": "v.reg",
+      "meaning": "成功"
+    },
+    {
+      "term": "ubicar",
+      "pos": "v.spell",
+      "meaning": "定位"
+    },
+    {
+      "term": "unir",
+      "pos": "v.reg",
+      "meaning": "联合"
+    },
+    {
+      "term": "usar",
+      "pos": "v.reg",
+      "meaning": "使用"
+    },
+    {
+      "term": "utilizar",
+      "pos": "v.spell",
+      "meaning": "使用"
+    },
+    {
+      "term": "valer",
+      "pos": "v.irreg",
+      "meaning": "值/有用"
+    },
+    {
+      "term": "valorar",
+      "pos": "v.reg",
+      "meaning": "重视"
+    },
+    {
+      "term": "variar",
+      "pos": "v.reg",
+      "meaning": "变化"
+    },
+    {
+      "term": "vencer",
+      "pos": "v.spell",
+      "meaning": "战胜"
+    },
+    {
+      "term": "vender",
+      "pos": "v.reg",
+      "meaning": "出售"
+    },
+    {
+      "term": "venir",
+      "pos": "v.irreg",
+      "meaning": "来"
+    },
+    {
+      "term": "ver",
+      "pos": "v.irreg",
+      "meaning": "看见"
+    },
+    {
+      "term": "viajar",
+      "pos": "v.reg",
+      "meaning": "旅行"
+    },
+    {
+      "term": "vincular",
+      "pos": "v.reg",
+      "meaning": "连接"
+    },
+    {
+      "term": "vivir",
+      "pos": "v.reg",
+      "meaning": "生活"
+    },
+    {
+      "term": "volver",
+      "pos": "v.stem",
+      "meaning": "返回"
+    },
+    {
+      "term": "votar",
+      "pos": "v.reg",
+      "meaning": "投票"
+    },
+    {
+      "term": "la habilidad",
+      "pos": "f.",
+      "meaning": "能力/技能"
+    },
+    {
+      "term": "el hábito",
+      "pos": "m.",
+      "meaning": "习惯"
+    },
+    {
+      "term": "la habitación",
+      "pos": "f.",
+      "meaning": "房间"
+    },
+    {
+      "term": "el habitante",
+      "pos": "m./f.",
+      "meaning": "居民"
+    },
+    {
+      "term": "el hambre",
+      "pos": "f.",
+      "meaning": "饥饿"
+    },
+    {
+      "term": "el hecho",
+      "pos": "m.",
+      "meaning": "事实"
+    },
+    {
+      "term": "la herramienta",
+      "pos": "f.",
+      "meaning": "工具"
+    },
+    {
+      "term": "la historia",
+      "pos": "f.",
+      "meaning": "历史/故事"
+    },
+    {
+      "term": "el hogar",
+      "pos": "m.",
+      "meaning": "家"
+    },
+    {
+      "term": "la hoja",
+      "pos": "f.",
+      "meaning": "纸张/叶子"
+    },
+    {
+      "term": "el hombre",
+      "pos": "m.",
+      "meaning": "人/男人"
+    },
+    {
+      "term": "la hora",
+      "pos": "f.",
+      "meaning": "小时/时间"
+    },
+    {
+      "term": "el horario",
+      "pos": "m.",
+      "meaning": "时间表"
+    },
+    {
+      "term": "el idioma",
+      "pos": "m.",
+      "meaning": "语言"
+    },
+    {
+      "term": "la identidad",
+      "pos": "f.",
+      "meaning": "身份"
+    },
+    {
+      "term": "la imagen",
+      "pos": "f.",
+      "meaning": "形象/图像"
+    },
+    {
+      "term": "el impacto",
+      "pos": "m.",
+      "meaning": "影响"
+    },
+    {
+      "term": "la importancia",
+      "pos": "f.",
+      "meaning": "重要性"
+    },
+    {
+      "term": "el impuesto",
+      "pos": "m.",
+      "meaning": "税"
+    },
+    {
+      "term": "el incendio",
+      "pos": "m.",
+      "meaning": "火灾"
+    },
+    {
+      "term": "el índice",
+      "pos": "m.",
+      "meaning": "指数/索引"
+    },
+    {
+      "term": "la infancia",
+      "pos": "f.",
+      "meaning": "童年"
+    },
+    {
+      "term": "la influencia",
+      "pos": "f.",
+      "meaning": "影响"
+    },
+    {
+      "term": "la información",
+      "pos": "f.",
+      "meaning": "信息"
+    },
+    {
+      "term": "el informe",
+      "pos": "m.",
+      "meaning": "报告"
+    },
+    {
+      "term": "el ingreso",
+      "pos": "m.",
+      "meaning": "收入/进入"
+    },
+    {
+      "term": "la iniciativa",
+      "pos": "f.",
+      "meaning": "倡议"
+    },
+    {
+      "term": "la institución",
+      "pos": "f.",
+      "meaning": "机构"
+    },
+    {
+      "term": "el instrumento",
+      "pos": "m.",
+      "meaning": "工具/乐器"
+    },
+    {
+      "term": "la intención",
+      "pos": "f.",
+      "meaning": "意图"
+    },
+    {
+      "term": "el intercambio",
+      "pos": "m.",
+      "meaning": "交流/交换"
+    },
+    {
+      "term": "el interés",
+      "pos": "m.",
+      "meaning": "兴趣/利益"
+    },
+    {
+      "term": "el interior",
+      "pos": "m.",
+      "meaning": "内部"
+    },
+    {
+      "term": "internet",
+      "pos": "m.",
+      "meaning": "互联网"
+    },
+    {
+      "term": "la intervención",
+      "pos": "f.",
+      "meaning": "干预"
+    },
+    {
+      "term": "la investigación",
+      "pos": "f.",
+      "meaning": "研究"
+    },
+    {
+      "term": "el jardín",
+      "pos": "m.",
+      "meaning": "花园"
+    },
+    {
+      "term": "el joven",
+      "pos": "m./f.",
+      "meaning": "年轻人"
+    },
+    {
+      "term": "la juventud",
+      "pos": "f.",
+      "meaning": "青春"
+    },
+    {
+      "term": "la labor",
+      "pos": "f.",
+      "meaning": "工作"
+    },
+    {
+      "term": "el lado",
+      "pos": "m.",
+      "meaning": "一边"
+    },
+    {
+      "term": "la lengua",
+      "pos": "f.",
+      "meaning": "语言/舌头"
+    },
+    {
+      "term": "la lectura",
+      "pos": "f.",
+      "meaning": "阅读"
+    },
+    {
+      "term": "la ley",
+      "pos": "f.",
+      "meaning": "法律"
+    },
+    {
+      "term": "la libertad",
+      "pos": "f.",
+      "meaning": "自由"
+    },
+    {
+      "term": "el libro",
+      "pos": "m.",
+      "meaning": "书"
+    },
+    {
+      "term": "el límite",
+      "pos": "m.",
+      "meaning": "界限"
+    },
+    {
+      "term": "la línea",
+      "pos": "f.",
+      "meaning": "线/线路"
+    },
+    {
+      "term": "la lluvia",
+      "pos": "f.",
+      "meaning": "雨"
+    },
+    {
+      "term": "el lugar",
+      "pos": "m.",
+      "meaning": "地方"
+    },
+    {
+      "term": "la luz",
+      "pos": "f.",
+      "meaning": "光"
+    },
+    {
+      "term": "la mayoría",
+      "pos": "f.",
+      "meaning": "多数"
+    },
+    {
+      "term": "la maleta",
+      "pos": "f.",
+      "meaning": "行李箱"
+    },
+    {
+      "term": "la mano",
+      "pos": "f.",
+      "meaning": "手"
+    },
+    {
+      "term": "la manera",
+      "pos": "f.",
+      "meaning": "方式"
+    },
+    {
+      "term": "el mapa",
+      "pos": "m.",
+      "meaning": "地图"
+    },
+    {
+      "term": "la marca",
+      "pos": "f.",
+      "meaning": "品牌/标记"
+    },
+    {
+      "term": "el mar",
+      "pos": "m.",
+      "meaning": "海"
+    },
+    {
+      "term": "el marco",
+      "pos": "m.",
+      "meaning": "框架"
+    },
+    {
+      "term": "la materia",
+      "pos": "f.",
+      "meaning": "材料/科目"
+    },
+    {
+      "term": "el medio",
+      "pos": "m.",
+      "meaning": "媒介/手段"
+    },
+    {
+      "term": "el medio ambiente",
+      "pos": "m.",
+      "meaning": "环境"
+    },
+    {
+      "term": "la mejora",
+      "pos": "f.",
+      "meaning": "改善"
+    },
+    {
+      "term": "la memoria",
+      "pos": "f.",
+      "meaning": "记忆"
+    },
+    {
+      "term": "el mercado",
+      "pos": "m.",
+      "meaning": "市场"
+    },
+    {
+      "term": "la meta",
+      "pos": "f.",
+      "meaning": "目标"
+    },
+    {
+      "term": "el miedo",
+      "pos": "m.",
+      "meaning": "恐惧"
+    },
+    {
+      "term": "el miembro",
+      "pos": "m.",
+      "meaning": "成员"
+    },
+    {
+      "term": "la mirada",
+      "pos": "f.",
+      "meaning": "目光"
+    },
+    {
+      "term": "el móvil",
+      "pos": "m.",
+      "meaning": "手机"
+    },
+    {
+      "term": "el motivo",
+      "pos": "m.",
+      "meaning": "原因"
+    },
+    {
+      "term": "la mujer",
+      "pos": "f.",
+      "meaning": "女人"
+    },
+    {
+      "term": "el mundo",
+      "pos": "m.",
+      "meaning": "世界"
+    },
+    {
+      "term": "la nación",
+      "pos": "f.",
+      "meaning": "国家/民族"
+    },
+    {
+      "term": "la naturaleza",
+      "pos": "f.",
+      "meaning": "自然"
+    },
+    {
+      "term": "la necesidad",
+      "pos": "f.",
+      "meaning": "需要"
+    },
+    {
+      "term": "el negocio",
+      "pos": "m.",
+      "meaning": "生意"
+    },
+    {
+      "term": "el nivel",
+      "pos": "m.",
+      "meaning": "水平"
+    },
+    {
+      "term": "la noticia",
+      "pos": "f.",
+      "meaning": "新闻"
+    },
+    {
+      "term": "la novela",
+      "pos": "f.",
+      "meaning": "小说"
+    },
+    {
+      "term": "el objeto",
+      "pos": "m.",
+      "meaning": "物体/目标"
+    },
+    {
+      "term": "la obligación",
+      "pos": "f.",
+      "meaning": "义务"
+    },
+    {
+      "term": "la obra",
+      "pos": "f.",
+      "meaning": "作品/工程"
+    },
+    {
+      "term": "la ocasión",
+      "pos": "f.",
+      "meaning": "机会"
+    },
+    {
+      "term": "el ocio",
+      "pos": "m.",
+      "meaning": "闲暇"
+    },
+    {
+      "term": "la oficina",
+      "pos": "f.",
+      "meaning": "办公室"
+    },
+    {
+      "term": "la opción",
+      "pos": "f.",
+      "meaning": "选项"
+    },
+    {
+      "term": "la opinión",
+      "pos": "f.",
+      "meaning": "意见"
+    },
+    {
+      "term": "la oportunidad",
+      "pos": "f.",
+      "meaning": "机会"
+    },
+    {
+      "term": "el orden",
+      "pos": "m.",
+      "meaning": "秩序"
+    },
+    {
+      "term": "la orden",
+      "pos": "f.",
+      "meaning": "命令"
+    },
+    {
+      "term": "la organización",
+      "pos": "f.",
+      "meaning": "组织"
+    },
+    {
+      "term": "el origen",
+      "pos": "m.",
+      "meaning": "起源"
+    },
+    {
+      "term": "el país",
+      "pos": "m.",
+      "meaning": "国家"
+    },
+    {
+      "term": "la palabra",
+      "pos": "f.",
+      "meaning": "词语"
+    },
+    {
+      "term": "el papel",
+      "pos": "m.",
+      "meaning": "纸/角色"
+    },
+    {
+      "term": "la pareja",
+      "pos": "f.",
+      "meaning": "伴侣"
+    },
+    {
+      "term": "la parte",
+      "pos": "f.",
+      "meaning": "部分"
+    },
+    {
+      "term": "el participante",
+      "pos": "m./f.",
+      "meaning": "参与者"
+    },
+    {
+      "term": "la participación",
+      "pos": "f.",
+      "meaning": "参与"
+    },
+    {
+      "term": "el pasado",
+      "pos": "m.",
+      "meaning": "过去"
+    },
+    {
+      "term": "el paisaje",
+      "pos": "m.",
+      "meaning": "风景"
+    },
+    {
+      "term": "el paso",
+      "pos": "m.",
+      "meaning": "步伐/步骤"
+    },
+    {
+      "term": "la paz",
+      "pos": "f.",
+      "meaning": "和平"
+    },
+    {
+      "term": "el peligro",
+      "pos": "m.",
+      "meaning": "危险"
+    },
+    {
+      "term": "la pérdida",
+      "pos": "f.",
+      "meaning": "损失"
+    },
+    {
+      "term": "el periodo",
+      "pos": "m.",
+      "meaning": "时期"
+    },
+    {
+      "term": "la persona",
+      "pos": "f.",
+      "meaning": "人"
+    },
+    {
+      "term": "el personaje",
+      "pos": "m.",
+      "meaning": "人物"
+    },
+    {
+      "term": "la perspectiva",
+      "pos": "f.",
+      "meaning": "视角"
+    },
+    {
+      "term": "el peso",
+      "pos": "m.",
+      "meaning": "重量/比索"
+    },
+    {
+      "term": "la pieza",
+      "pos": "f.",
+      "meaning": "作品/零件"
+    },
+    {
+      "term": "la población",
+      "pos": "f.",
+      "meaning": "人口"
+    },
+    {
+      "term": "el poder",
+      "pos": "m.",
+      "meaning": "权力/能力"
+    },
+    {
+      "term": "la política",
+      "pos": "f.",
+      "meaning": "政策/政治"
+    },
+    {
+      "term": "el político",
+      "pos": "m./f.",
+      "meaning": "政治人物"
+    },
+    {
+      "term": "el porcentaje",
+      "pos": "m.",
+      "meaning": "百分比"
+    },
+    {
+      "term": "la posibilidad",
+      "pos": "f.",
+      "meaning": "可能性"
+    },
+    {
+      "term": "la pregunta",
+      "pos": "f.",
+      "meaning": "问题"
+    },
+    {
+      "term": "el premio",
+      "pos": "m.",
+      "meaning": "奖项"
+    },
+    {
+      "term": "la prensa",
+      "pos": "f.",
+      "meaning": "媒体"
+    },
+    {
+      "term": "el presupuesto",
+      "pos": "m.",
+      "meaning": "预算"
+    },
+    {
+      "term": "el principio",
+      "pos": "m.",
+      "meaning": "原则/开始"
+    },
+    {
+      "term": "el problema",
+      "pos": "m.",
+      "meaning": "问题"
+    },
+    {
+      "term": "el proceso",
+      "pos": "m.",
+      "meaning": "过程"
+    },
+    {
+      "term": "el producto",
+      "pos": "m.",
+      "meaning": "产品"
+    },
+    {
+      "term": "el profesor",
+      "pos": "m.",
+      "meaning": "老师"
+    },
+    {
+      "term": "la profesión",
+      "pos": "f.",
+      "meaning": "职业"
+    },
+    {
+      "term": "el programa",
+      "pos": "m.",
+      "meaning": "项目/节目"
+    },
+    {
+      "term": "el progreso",
+      "pos": "m.",
+      "meaning": "进步"
+    },
+    {
+      "term": "la propuesta",
+      "pos": "f.",
+      "meaning": "提议"
+    },
+    {
+      "term": "el proyecto",
+      "pos": "m.",
+      "meaning": "项目"
+    },
+    {
+      "term": "la prueba",
+      "pos": "f.",
+      "meaning": "考试/证据"
+    },
+    {
+      "term": "el público",
+      "pos": "m.",
+      "meaning": "公众"
+    },
+    {
+      "term": "el punto",
+      "pos": "m.",
+      "meaning": "点"
+    },
+    {
+      "term": "la razón",
+      "pos": "f.",
+      "meaning": "原因/理性"
+    },
+    {
+      "term": "la realidad",
+      "pos": "f.",
+      "meaning": "现实"
+    },
+    {
+      "term": "el recuerdo",
+      "pos": "m.",
+      "meaning": "回忆"
+    },
+    {
+      "term": "el recurso",
+      "pos": "m.",
+      "meaning": "资源"
+    },
+    {
+      "term": "la red",
+      "pos": "f.",
+      "meaning": "网络"
+    },
+    {
+      "term": "la relación",
+      "pos": "f.",
+      "meaning": "关系"
+    },
+    {
+      "term": "el relato",
+      "pos": "m.",
+      "meaning": "叙述"
+    },
+    {
+      "term": "la reserva",
+      "pos": "f.",
+      "meaning": "储备/预订"
+    },
+    {
+      "term": "la responsabilidad",
+      "pos": "f.",
+      "meaning": "责任"
+    },
+    {
+      "term": "el resultado",
+      "pos": "m.",
+      "meaning": "结果"
+    },
+    {
+      "term": "el reto",
+      "pos": "m.",
+      "meaning": "挑战"
+    },
+    {
+      "term": "la reunión",
+      "pos": "f.",
+      "meaning": "会议"
+    },
+    {
+      "term": "la revista",
+      "pos": "f.",
+      "meaning": "杂志"
+    },
+    {
+      "term": "el riesgo",
+      "pos": "m.",
+      "meaning": "风险"
+    },
+    {
+      "term": "la riqueza",
+      "pos": "f.",
+      "meaning": "财富"
+    },
+    {
+      "term": "la ruta",
+      "pos": "f.",
+      "meaning": "路线"
+    },
+    {
+      "term": "la salida",
+      "pos": "f.",
+      "meaning": "出口/出发"
+    },
+    {
+      "term": "la salud",
+      "pos": "f.",
+      "meaning": "健康"
+    },
+    {
+      "term": "el sector",
+      "pos": "m.",
+      "meaning": "部门/领域"
+    },
+    {
+      "term": "la seguridad",
+      "pos": "f.",
+      "meaning": "安全"
+    },
+    {
+      "term": "el sentido",
+      "pos": "m.",
+      "meaning": "感觉/意义"
+    },
+    {
+      "term": "el sentimiento",
+      "pos": "m.",
+      "meaning": "情感"
+    },
+    {
+      "term": "el servicio",
+      "pos": "m.",
+      "meaning": "服务"
+    },
+    {
+      "term": "el siglo",
+      "pos": "m.",
+      "meaning": "世纪"
+    },
+    {
+      "term": "el sistema",
+      "pos": "m.",
+      "meaning": "系统"
+    },
+    {
+      "term": "la situación",
+      "pos": "f.",
+      "meaning": "情况"
+    },
+    {
+      "term": "la sociedad",
+      "pos": "f.",
+      "meaning": "社会"
+    },
+    {
+      "term": "la solución",
+      "pos": "f.",
+      "meaning": "解决方案"
+    },
+    {
+      "term": "el sueño",
+      "pos": "m.",
+      "meaning": "梦/睡眠"
+    },
+    {
+      "term": "la tecnología",
+      "pos": "f.",
+      "meaning": "技术"
+    },
+    {
+      "term": "el tema",
+      "pos": "m.",
+      "meaning": "主题"
+    },
+    {
+      "term": "la teoría",
+      "pos": "f.",
+      "meaning": "理论"
+    },
+    {
+      "term": "el tiempo",
+      "pos": "m.",
+      "meaning": "时间/天气"
+    },
+    {
+      "term": "la tierra",
+      "pos": "f.",
+      "meaning": "土地/地球"
+    },
+    {
+      "term": "el título",
+      "pos": "m.",
+      "meaning": "标题/学位"
+    },
+    {
+      "term": "el trabajo",
+      "pos": "m.",
+      "meaning": "工作"
+    },
+    {
+      "term": "la tradición",
+      "pos": "f.",
+      "meaning": "传统"
+    },
+    {
+      "term": "el transporte",
+      "pos": "m.",
+      "meaning": "交通"
+    },
+    {
+      "term": "el turismo",
+      "pos": "m.",
+      "meaning": "旅游"
+    },
+    {
+      "term": "la universidad",
+      "pos": "f.",
+      "meaning": "大学"
+    },
+    {
+      "term": "el uso",
+      "pos": "m.",
+      "meaning": "使用"
+    },
+    {
+      "term": "el usuario",
+      "pos": "m.",
+      "meaning": "用户"
+    },
+    {
+      "term": "el valor",
+      "pos": "m.",
+      "meaning": "价值"
+    },
+    {
+      "term": "la ventaja",
+      "pos": "f.",
+      "meaning": "优势"
+    },
+    {
+      "term": "la verdad",
+      "pos": "f.",
+      "meaning": "真相"
+    },
+    {
+      "term": "la vez",
+      "pos": "f.",
+      "meaning": "次"
+    },
+    {
+      "term": "la vida",
+      "pos": "f.",
+      "meaning": "生活/生命"
+    },
+    {
+      "term": "la violencia",
+      "pos": "f.",
+      "meaning": "暴力"
+    },
+    {
+      "term": "la visión",
+      "pos": "f.",
+      "meaning": "视野"
+    },
+    {
+      "term": "la vivienda",
+      "pos": "f.",
+      "meaning": "住房"
+    },
+    {
+      "term": "la voluntad",
+      "pos": "f.",
+      "meaning": "意志"
+    },
+    {
+      "term": "el voto",
+      "pos": "m.",
+      "meaning": "投票"
+    },
+    {
+      "term": "abierto",
+      "pos": "adj.",
+      "meaning": "开放的"
+    },
+    {
+      "term": "absoluto",
+      "pos": "adj.",
+      "meaning": "绝对的"
+    },
+    {
+      "term": "académico",
+      "pos": "adj.",
+      "meaning": "学术的"
+    },
+    {
+      "term": "actual",
+      "pos": "adj.",
+      "meaning": "当前的"
+    },
+    {
+      "term": "adecuado",
+      "pos": "adj.",
+      "meaning": "合适的"
+    },
+    {
+      "term": "adulto",
+      "pos": "adj./m.",
+      "meaning": "成年的"
+    },
+    {
+      "term": "agradable",
+      "pos": "adj.",
+      "meaning": "令人愉快的"
+    },
+    {
+      "term": "ajeno",
+      "pos": "adj.",
+      "meaning": "别人的/无关的"
+    },
+    {
+      "term": "amplio",
+      "pos": "adj.",
+      "meaning": "广泛的"
+    },
+    {
+      "term": "anterior",
+      "pos": "adj.",
+      "meaning": "之前的"
+    },
+    {
+      "term": "antiguo",
+      "pos": "adj.",
+      "meaning": "古老的"
+    },
+    {
+      "term": "apropiado",
+      "pos": "adj.",
+      "meaning": "适当的"
+    },
+    {
+      "term": "atento",
+      "pos": "adj.",
+      "meaning": "专心的/周到的"
+    },
+    {
+      "term": "auténtico",
+      "pos": "adj.",
+      "meaning": "真实的"
+    },
+    {
+      "term": "básico",
+      "pos": "adj.",
+      "meaning": "基础的"
+    },
+    {
+      "term": "breve",
+      "pos": "adj.",
+      "meaning": "简短的"
+    },
+    {
+      "term": "capaz",
+      "pos": "adj.",
+      "meaning": "有能力的"
+    },
+    {
+      "term": "central",
+      "pos": "adj.",
+      "meaning": "中心的"
+    },
+    {
+      "term": "cierto",
+      "pos": "adj.",
+      "meaning": "某个/真实的"
+    },
+    {
+      "term": "científico",
+      "pos": "adj.",
+      "meaning": "科学的"
+    },
+    {
+      "term": "claro",
+      "pos": "adj.",
+      "meaning": "清楚的"
+    },
+    {
+      "term": "colectivo",
+      "pos": "adj.",
+      "meaning": "集体的"
+    },
+    {
+      "term": "común",
+      "pos": "adj.",
+      "meaning": "共同的"
+    },
+    {
+      "term": "concreto",
+      "pos": "adj.",
+      "meaning": "具体的"
+    },
+    {
+      "term": "consciente",
+      "pos": "adj.",
+      "meaning": "有意识的"
+    },
+    {
+      "term": "constante",
+      "pos": "adj.",
+      "meaning": "持续的"
+    },
+    {
+      "term": "contrario",
+      "pos": "adj.",
+      "meaning": "相反的"
+    },
+    {
+      "term": "cotidiano",
+      "pos": "adj.",
+      "meaning": "日常的"
+    },
+    {
+      "term": "crítico",
+      "pos": "adj.",
+      "meaning": "批判的/关键的"
+    },
+    {
+      "term": "cultural",
+      "pos": "adj.",
+      "meaning": "文化的"
+    },
+    {
+      "term": "débil",
+      "pos": "adj.",
+      "meaning": "弱的"
+    },
+    {
+      "term": "decisivo",
+      "pos": "adj.",
+      "meaning": "决定性的"
+    },
+    {
+      "term": "definitivo",
+      "pos": "adj.",
+      "meaning": "最终的"
+    },
+    {
+      "term": "digital",
+      "pos": "adj.",
+      "meaning": "数字的"
+    },
+    {
+      "term": "directo",
+      "pos": "adj.",
+      "meaning": "直接的"
+    },
+    {
+      "term": "disponible",
+      "pos": "adj.",
+      "meaning": "可用的"
+    },
+    {
+      "term": "distinto",
+      "pos": "adj.",
+      "meaning": "不同的"
+    },
+    {
+      "term": "diverso",
+      "pos": "adj.",
+      "meaning": "多样的"
+    },
+    {
+      "term": "doméstico",
+      "pos": "adj.",
+      "meaning": "家庭的"
+    },
+    {
+      "term": "económico",
+      "pos": "adj.",
+      "meaning": "经济的"
+    },
+    {
+      "term": "eficaz",
+      "pos": "adj.",
+      "meaning": "有效的"
+    },
+    {
+      "term": "eficiente",
+      "pos": "adj.",
+      "meaning": "高效的"
+    },
+    {
+      "term": "emocional",
+      "pos": "adj.",
+      "meaning": "情感的"
+    },
+    {
+      "term": "enorme",
+      "pos": "adj.",
+      "meaning": "巨大的"
+    },
+    {
+      "term": "entero",
+      "pos": "adj.",
+      "meaning": "整个的"
+    },
+    {
+      "term": "esencial",
+      "pos": "adj.",
+      "meaning": "本质的"
+    },
+    {
+      "term": "especial",
+      "pos": "adj.",
+      "meaning": "特殊的"
+    },
+    {
+      "term": "estable",
+      "pos": "adj.",
+      "meaning": "稳定的"
+    },
+    {
+      "term": "europeo",
+      "pos": "adj.",
+      "meaning": "欧洲的"
+    },
+    {
+      "term": "evidente",
+      "pos": "adj.",
+      "meaning": "明显的"
+    },
+    {
+      "term": "exclusivo",
+      "pos": "adj.",
+      "meaning": "独有的"
+    },
+    {
+      "term": "externo",
+      "pos": "adj.",
+      "meaning": "外部的"
+    },
+    {
+      "term": "fácil",
+      "pos": "adj.",
+      "meaning": "容易的"
+    },
+    {
+      "term": "falso",
+      "pos": "adj.",
+      "meaning": "假的"
+    },
+    {
+      "term": "familiar",
+      "pos": "adj.",
+      "meaning": "家庭的/熟悉的"
+    },
+    {
+      "term": "famoso",
+      "pos": "adj.",
+      "meaning": "著名的"
+    },
+    {
+      "term": "favorable",
+      "pos": "adj.",
+      "meaning": "有利的"
+    },
+    {
+      "term": "feliz",
+      "pos": "adj.",
+      "meaning": "幸福的"
+    },
+    {
+      "term": "físico",
+      "pos": "adj.",
+      "meaning": "身体的/物理的"
+    },
+    {
+      "term": "frecuente",
+      "pos": "adj.",
+      "meaning": "频繁的"
+    },
+    {
+      "term": "fundamental",
+      "pos": "adj.",
+      "meaning": "根本的"
+    },
+    {
+      "term": "general",
+      "pos": "adj.",
+      "meaning": "普遍的"
+    },
+    {
+      "term": "grave",
+      "pos": "adj.",
+      "meaning": "严重的"
+    },
+    {
+      "term": "habitual",
+      "pos": "adj.",
+      "meaning": "惯常的"
+    },
+    {
+      "term": "humano",
+      "pos": "adj.",
+      "meaning": "人类的"
+    },
+    {
+      "term": "ideal",
+      "pos": "adj.",
+      "meaning": "理想的"
+    },
+    {
+      "term": "igual",
+      "pos": "adj.",
+      "meaning": "相同的"
+    },
+    {
+      "term": "importante",
+      "pos": "adj.",
+      "meaning": "重要的"
+    },
+    {
+      "term": "imposible",
+      "pos": "adj.",
+      "meaning": "不可能的"
+    },
+    {
+      "term": "individual",
+      "pos": "adj.",
+      "meaning": "个人的"
+    },
+    {
+      "term": "industrial",
+      "pos": "adj.",
+      "meaning": "工业的"
+    },
+    {
+      "term": "inevitable",
+      "pos": "adj.",
+      "meaning": "不可避免的"
+    },
+    {
+      "term": "inferior",
+      "pos": "adj.",
+      "meaning": "较低的"
+    },
+    {
+      "term": "inmediato",
+      "pos": "adj.",
+      "meaning": "立即的"
+    },
+    {
+      "term": "internacional",
+      "pos": "adj.",
+      "meaning": "国际的"
+    },
+    {
+      "term": "interno",
+      "pos": "adj.",
+      "meaning": "内部的"
+    },
+    {
+      "term": "justo",
+      "pos": "adj.",
+      "meaning": "公正的/刚好"
+    },
+    {
+      "term": "juvenil",
+      "pos": "adj.",
+      "meaning": "青少年的"
+    },
+    {
+      "term": "largo",
+      "pos": "adj.",
+      "meaning": "长的"
+    },
+    {
+      "term": "libre",
+      "pos": "adj.",
+      "meaning": "自由的"
+    },
+    {
+      "term": "local",
+      "pos": "adj.",
+      "meaning": "本地的"
+    },
+    {
+      "term": "mayor",
+      "pos": "adj.",
+      "meaning": "较大的"
+    },
+    {
+      "term": "menor",
+      "pos": "adj.",
+      "meaning": "较小的"
+    },
+    {
+      "term": "moderno",
+      "pos": "adj.",
+      "meaning": "现代的"
+    },
+    {
+      "term": "mundial",
+      "pos": "adj.",
+      "meaning": "世界的"
+    },
+    {
+      "term": "natural",
+      "pos": "adj.",
+      "meaning": "自然的"
+    },
+    {
+      "term": "necesario",
+      "pos": "adj.",
+      "meaning": "必要的"
+    },
+    {
+      "term": "normal",
+      "pos": "adj.",
+      "meaning": "正常的"
+    },
+    {
+      "term": "nuevo",
+      "pos": "adj.",
+      "meaning": "新的"
+    },
+    {
+      "term": "objetivo",
+      "pos": "adj.",
+      "meaning": "客观的"
+    },
+    {
+      "term": "oficial",
+      "pos": "adj.",
+      "meaning": "官方的"
+    },
+    {
+      "term": "original",
+      "pos": "adj.",
+      "meaning": "原创的"
+    },
+    {
+      "term": "particular",
+      "pos": "adj.",
+      "meaning": "特别的/个人的"
+    },
+    {
+      "term": "personal",
+      "pos": "adj.",
+      "meaning": "个人的"
+    },
+    {
+      "term": "político",
+      "pos": "adj.",
+      "meaning": "政治的"
+    },
+    {
+      "term": "popular",
+      "pos": "adj.",
+      "meaning": "受欢迎的"
+    },
+    {
+      "term": "posible",
+      "pos": "adj.",
+      "meaning": "可能的"
+    },
+    {
+      "term": "posterior",
+      "pos": "adj.",
+      "meaning": "之后的"
+    },
+    {
+      "term": "práctico",
+      "pos": "adj.",
+      "meaning": "实用的"
+    },
+    {
+      "term": "previo",
+      "pos": "adj.",
+      "meaning": "先前的"
+    },
+    {
+      "term": "principal",
+      "pos": "adj.",
+      "meaning": "主要的"
+    },
+    {
+      "term": "privado",
+      "pos": "adj.",
+      "meaning": "私人的"
+    },
+    {
+      "term": "profesional",
+      "pos": "adj.",
+      "meaning": "职业的"
+    },
+    {
+      "term": "profundo",
+      "pos": "adj.",
+      "meaning": "深刻的"
+    },
+    {
+      "term": "propio",
+      "pos": "adj.",
+      "meaning": "自己的"
+    },
+    {
+      "term": "público",
+      "pos": "adj.",
+      "meaning": "公共的"
+    },
+    {
+      "term": "rápido",
+      "pos": "adj.",
+      "meaning": "快速的"
+    },
+    {
+      "term": "real",
+      "pos": "adj.",
+      "meaning": "真实的"
+    },
+    {
+      "term": "reciente",
+      "pos": "adj.",
+      "meaning": "最近的"
+    },
+    {
+      "term": "reducido",
+      "pos": "adj.",
+      "meaning": "减少的"
+    },
+    {
+      "term": "regional",
+      "pos": "adj.",
+      "meaning": "地区的"
+    },
+    {
+      "term": "relativo",
+      "pos": "adj.",
+      "meaning": "相对的"
+    },
+    {
+      "term": "responsable",
+      "pos": "adj.",
+      "meaning": "负责的"
+    },
+    {
+      "term": "rico",
+      "pos": "adj.",
+      "meaning": "丰富的/富有的"
+    },
+    {
+      "term": "rural",
+      "pos": "adj.",
+      "meaning": "农村的"
+    },
+    {
+      "term": "seguro",
+      "pos": "adj.",
+      "meaning": "安全的"
+    },
+    {
+      "term": "semejante",
+      "pos": "adj.",
+      "meaning": "相似的"
+    },
+    {
+      "term": "sencillo",
+      "pos": "adj.",
+      "meaning": "简单的"
+    },
+    {
+      "term": "sensible",
+      "pos": "adj.",
+      "meaning": "敏感的"
+    },
+    {
+      "term": "social",
+      "pos": "adj.",
+      "meaning": "社会的"
+    },
+    {
+      "term": "sostenible",
+      "pos": "adj.",
+      "meaning": "可持续的"
+    },
+    {
+      "term": "suficiente",
+      "pos": "adj.",
+      "meaning": "足够的"
+    },
+    {
+      "term": "superior",
+      "pos": "adj.",
+      "meaning": "较高的"
+    },
+    {
+      "term": "técnico",
+      "pos": "adj.",
+      "meaning": "技术的"
+    },
+    {
+      "term": "temprano",
+      "pos": "adj./adv.",
+      "meaning": "早的/早地"
+    },
+    {
+      "term": "tradicional",
+      "pos": "adj.",
+      "meaning": "传统的"
+    },
+    {
+      "term": "universal",
+      "pos": "adj.",
+      "meaning": "普遍的"
+    },
+    {
+      "term": "urbano",
+      "pos": "adj.",
+      "meaning": "城市的"
+    },
+    {
+      "term": "útil",
+      "pos": "adj.",
+      "meaning": "有用的"
+    },
+    {
+      "term": "valioso",
+      "pos": "adj.",
+      "meaning": "有价值的"
+    },
+    {
+      "term": "variado",
+      "pos": "adj.",
+      "meaning": "多样的"
+    },
+    {
+      "term": "verdadero",
+      "pos": "adj.",
+      "meaning": "真实的"
+    },
+    {
+      "term": "virtual",
+      "pos": "adj.",
+      "meaning": "虚拟的"
+    },
+    {
+      "term": "voluntario",
+      "pos": "adj.",
+      "meaning": "自愿的"
+    },
+    {
+      "term": "actualmente",
+      "pos": "adv.",
+      "meaning": "目前"
+    },
+    {
+      "term": "además",
+      "pos": "adv.",
+      "meaning": "此外"
+    },
+    {
+      "term": "ahí",
+      "pos": "adv.",
+      "meaning": "在那里"
+    },
+    {
+      "term": "ahora",
+      "pos": "adv.",
+      "meaning": "现在"
+    },
+    {
+      "term": "alrededor",
+      "pos": "adv.",
+      "meaning": "周围"
+    },
+    {
+      "term": "antes",
+      "pos": "adv.",
+      "meaning": "以前"
+    },
+    {
+      "term": "apenas",
+      "pos": "adv.",
+      "meaning": "几乎不"
+    },
+    {
+      "term": "aproximadamente",
+      "pos": "adv.",
+      "meaning": "大约"
+    },
+    {
+      "term": "así",
+      "pos": "adv.",
+      "meaning": "这样"
+    },
+    {
+      "term": "aunque",
+      "pos": "conj.",
+      "meaning": "尽管"
+    },
+    {
+      "term": "ayer",
+      "pos": "adv.",
+      "meaning": "昨天"
+    },
+    {
+      "term": "bastante",
+      "pos": "adv.",
+      "meaning": "相当"
+    },
+    {
+      "term": "casi",
+      "pos": "adv.",
+      "meaning": "几乎"
+    },
+    {
+      "term": "como",
+      "pos": "conj./adv.",
+      "meaning": "如同/因为"
+    },
+    {
+      "term": "conforme",
+      "pos": "conj.",
+      "meaning": "随着"
+    },
+    {
+      "term": "cuando",
+      "pos": "conj.",
+      "meaning": "当...时"
+    },
+    {
+      "term": "debido a",
+      "pos": "loc.",
+      "meaning": "由于"
+    },
+    {
+      "term": "de hecho",
+      "pos": "loc.",
+      "meaning": "事实上"
+    },
+    {
+      "term": "de nuevo",
+      "pos": "loc.",
+      "meaning": "再次"
+    },
+    {
+      "term": "de pronto",
+      "pos": "loc.",
+      "meaning": "突然"
+    },
+    {
+      "term": "desde luego",
+      "pos": "loc.",
+      "meaning": "当然"
+    },
+    {
+      "term": "después",
+      "pos": "adv.",
+      "meaning": "之后"
+    },
+    {
+      "term": "durante",
+      "pos": "prep.",
+      "meaning": "在...期间"
+    },
+    {
+      "term": "en cambio",
+      "pos": "loc.",
+      "meaning": "相反/另一方面"
+    },
+    {
+      "term": "en cuanto",
+      "pos": "conj.",
+      "meaning": "一...就"
+    },
+    {
+      "term": "en realidad",
+      "pos": "loc.",
+      "meaning": "实际上"
+    },
+    {
+      "term": "en seguida",
+      "pos": "loc.",
+      "meaning": "马上"
+    },
+    {
+      "term": "entonces",
+      "pos": "adv.",
+      "meaning": "于是/那时"
+    },
+    {
+      "term": "especialmente",
+      "pos": "adv.",
+      "meaning": "尤其"
+    },
+    {
+      "term": "finalmente",
+      "pos": "adv.",
+      "meaning": "最后"
+    },
+    {
+      "term": "gracias a",
+      "pos": "loc.",
+      "meaning": "多亏"
+    },
+    {
+      "term": "hacia",
+      "pos": "prep.",
+      "meaning": "朝向"
+    },
+    {
+      "term": "hasta",
+      "pos": "prep.",
+      "meaning": "直到"
+    },
+    {
+      "term": "hoy en día",
+      "pos": "loc.",
+      "meaning": "如今"
+    },
+    {
+      "term": "incluso",
+      "pos": "adv.",
+      "meaning": "甚至"
+    },
+    {
+      "term": "jamás",
+      "pos": "adv.",
+      "meaning": "从不"
+    },
+    {
+      "term": "lejos",
+      "pos": "adv.",
+      "meaning": "远"
+    },
+    {
+      "term": "luego",
+      "pos": "adv.",
+      "meaning": "然后"
+    },
+    {
+      "term": "mientras",
+      "pos": "conj.",
+      "meaning": "当/而"
+    },
+    {
+      "term": "muy",
+      "pos": "adv.",
+      "meaning": "很"
+    },
+    {
+      "term": "nunca",
+      "pos": "adv.",
+      "meaning": "从不"
+    },
+    {
+      "term": "otra vez",
+      "pos": "loc.",
+      "meaning": "再一次"
+    },
+    {
+      "term": "para que",
+      "pos": "conj.",
+      "meaning": "为了"
+    },
+    {
+      "term": "por eso",
+      "pos": "loc.",
+      "meaning": "因此"
+    },
+    {
+      "term": "por fin",
+      "pos": "loc.",
+      "meaning": "终于"
+    },
+    {
+      "term": "por lo tanto",
+      "pos": "loc.",
+      "meaning": "因此"
+    },
+    {
+      "term": "porque",
+      "pos": "conj.",
+      "meaning": "因为"
+    },
+    {
+      "term": "pronto",
+      "pos": "adv.",
+      "meaning": "很快"
+    },
+    {
+      "term": "quizá",
+      "pos": "adv.",
+      "meaning": "也许"
+    },
+    {
+      "term": "sin embargo",
+      "pos": "loc.",
+      "meaning": "然而"
+    },
+    {
+      "term": "sobre todo",
+      "pos": "loc.",
+      "meaning": "尤其"
+    },
+    {
+      "term": "todavía",
+      "pos": "adv.",
+      "meaning": "仍然"
+    },
+    {
+      "term": "ya",
+      "pos": "adv.",
+      "meaning": "已经"
+    }
+  ]
+}
